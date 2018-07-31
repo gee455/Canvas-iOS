@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders button correctly 1`] = `
+<Button
+  containerStyle={
+    Array [
+      Object {
+        "backgroundColor": "#374A59",
+        "borderRadius": 8,
+        "overflow": "hidden",
+        "padding": 10,
+      },
+      Object {
+        "backgroundColor": "#374A59",
+      },
+      undefined,
+    ]
+  }
+  style={
+    Array [
+      Object {
+        "color": "white",
+      },
+      Object {
+        "color": "white",
+      },
+      undefined,
+    ]
+  }
+/>
+`;
+
+exports[`renders link correctly 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits="button"
+  accessible={true}
+  collapsable={undefined}
+  hasTVPreferredFocus={undefined}
+  hitSlop={
+    Object {
+      "bottom": 15,
+      "left": 15,
+      "right": 15,
+      "top": 15,
+    }
+  }
+  isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "opacity": 1,
+    }
+  }
+  testID={undefined}
+  tvParallaxProperties={undefined}
+>
+  <View>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": ".SFUIDisplay",
+          },
+          Object {
+            "color": "#2D3B45",
+            "fontSize": 16,
+          },
+          Array [
+            Object {
+              "color": "#374A59",
+              "fontSize": 14,
+            },
+            Object {
+              "fontFamily": ".SFUIDisplay-bold",
+            },
+            Object {
+              "color": "#374A59",
+            },
+            Object {},
+          ],
+          Object {
+            "fontFamily": ".SFUIDisplay",
+          },
+        ]
+      }
+    />
+  </View>
+</View>
+`;

@@ -1,0 +1,1465 @@
+/* (No Comment) */
+"%0.2f GB" = "%0.2f جيجابايت";
+
+/* (No Comment) */
+"%0.2f KB" = "%0.2f كيلوبايت";
+
+/* (No Comment) */
+"%0.2f MB" = "%0.2f ميجابايت";
+
+/* (No Comment) */
+"%1$@ (%2$d)" = "%1$@ (%2$d)";
+
+/* (No Comment) */
+"%1$@ (%2$g out of %3$@)" = "%1$@ (%2$g من بين %3$@)";
+
+/* (No Comment) */
+"%1$@ at %2$@" = "%1$@ على %2$@";
+
+/* (No Comment) */
+"%1$@ is due in %2$@" = "موعد استحقاق %1$@ هو %2$@";
+
+/* (No Comment) */
+"%1$@ out of %2$@" = "%1$@ من بين %2$@";
+
+/* (No Comment) */
+"%1$@%% (%2$g out of %3$@)" = "%1$@%% (%2$g من بين %3$@)";
+
+/* (No Comment) */
+"%1$@. %2$@. Type: %3$@." = "%1$@. %2$@. النوع: %3$@.";
+
+/* (No Comment) */
+"%1$@. %2$@. Type: %3$@. Status: %4$@" = "%1$@. %2$@. النوع: %3$@. الحالة: %4$@";
+
+/* (No Comment) */
+"%1$d %2$@" = "%1$d %2$@";
+
+/* (No Comment) */
+"%1$g out of %2$@" = "%1$g من بين %2$@";
+
+/* (No Comment) */
+"%@ is coming soon!" = "%@ قريبًا!";
+
+/* (No Comment) */
+"%@ is locked" = "%@ مؤمّن";
+
+/* (No Comment) */
+"%@ is not a valid URL" = "%@ ليس عنوان URL صالح";
+
+/* (No Comment) */
+"%@ is not a valid host" = "%@ ليس مضيف صالح";
+
+/* (No Comment) */
+"%@ is not currently supported." = "%@ غير مدعوم حالياً.";
+
+/* (No Comment) */
+"%@ likes" = "%@ إعجاب/إعجابات";
+
+/* Label indicating multiple submissions need grading */
+"%@ need grading" = "%@ تقييم مطلوب";
+
+/* Shows points possible for an assignment */
+"%@ pts" = "%@ نقاط";
+
+/* Label to be read for visually impaired users. Name of assingment, then the type of assingment */
+"%@. Type: %@" = "%1$@. النوع: %2$@";
+
+/* (No Comment) */
+"%@..." = "%@...";
+
+/* (No Comment) */
+"%d days ago" = "منذ %d يوم/أيام";
+
+/* (No Comment) */
+"%d hours ago" = "منذ %d ساعة/ساعات";
+
+/* (No Comment) */
+"%d items" = "%d عنصر/عناصر";
+
+/* (No Comment) */
+"%d minutes ago" = "منذ %d دقيقة/دقائق";
+
+/* (No Comment) */
+"%d months ago" = "منذ %d شهر/أشهر";
+
+/* (No Comment) */
+"%d more" = "%d أكثر";
+
+/* (No Comment) */
+"%d replies" = "%d رد/ردود";
+
+/* (No Comment) */
+"%d unread" = "%d غير مقروءة";
+
+/* (No Comment) */
+"%d years ago" = "منذ %d سنة/سنوات";
+
+/* (No Comment) */
+"%qu bytes" = "%qu بايت";
+
+/* (No Comment) */
+"%tu day" = "يوم %tu";
+
+/* (No Comment) */
+"%tu days" = "%tu يوم/أيام";
+
+/* (No Comment) */
+"%tu hour" = "ساعة %tu";
+
+/* (No Comment) */
+"%tu hours" = "%tu ساعة/ساعات";
+
+/* (No Comment) */
+"%tu minute" = "دقيقة %tu";
+
+/* (No Comment) */
+"%tu minutes" = "%tu دقيقة/دقائق";
+
+/* (No Comment) */
+"%u Attachments" = "%u مرفق/مرفقات";
+
+/* (No Comment) */
+"%u files" = "%u ملف/ملفات";
+
+/* (No Comment) */
+"&quot;%1$@&quot; is locked as part of &quot;%2$@&quot;" = "تم تأمين &quot;%1$@&quot; كجزء من &quot;%2$@&quot;";
+
+/* (No Comment) */
+"'%@' is now ready to submit to assignments" = "'%@' جاهز الآن للإرسال إلى المهام";
+
+/* (No Comment) */
+"1 Attachment" = "مرفق واحد";
+
+/* (No Comment) */
+"1 day" = "يوم واحد";
+
+/* (No Comment) */
+"1 day ago" = "منذ يوم واحد";
+
+/* (No Comment) */
+"1 hour" = "ساعة واحدة";
+
+/* (No Comment) */
+"1 hour ago" = "منذ ساعة واحدة";
+
+/* (No Comment) */
+"1 item" = "عنصر واحد";
+
+/* (No Comment) */
+"1 like" = "إعجاب واحد";
+
+/* (No Comment) */
+"1 minute ago" = "منذ دقيقة واحدة";
+
+/* (No Comment) */
+"1 month ago" = "منذ شهر واحد";
+
+/* Label indicating a submission need grading */
+"1 needs grading" = "1 يتطلب تقييم";
+
+/* (No Comment) */
+"1 year ago" = "منذ سنة واحدة";
+
+/* (No Comment) */
+"3 days" = "3 أيام";
+
+/* (No Comment) */
+"5 minutes" = "5 دقائق";
+
+/* Settings entry title for About */
+"About" = "نبذة عن";
+
+/* Access Denied from the server */
+"Access Denied" = "الوصول مرفوض";
+
+/* (No Comment) */
+"Access denied. Please check your permissions for the action you're trying to complete." = "تم رفض الوصول. يرجى التحقق من أذونات العملية التي تحاول القيام بها.";
+
+/* (No Comment) */
+"Add Attachment" = "إضافة مرفق";
+
+/* (No Comment) */
+"Add Comment" = "إضافة تعليق";
+
+/* (No Comment) */
+"Add Cover Photo" = "إضافة صورة غلاف";
+
+/* (No Comment) */
+"Add a folder" = "إضافة مجلد";
+
+/* (No Comment) */
+"Add attachment" = "إضافة مرفق";
+
+/* (No Comment) */
+"Add comment" = "إضافة تعليق";
+
+/* (No Comment) */
+"Add folder" = "إضافة مجلد";
+
+/* (No Comment) */
+"Add inline media" = "إضافة وسط مضمن";
+
+/* (No Comment) */
+"Add recipients" = "إضافة مستلمين";
+
+/* (No Comment) */
+"All members" = "كل الأعضاء";
+
+/* (No Comment) */
+"An unknown error occurred" = "حدث خطأ غير معروف";
+
+/* (No Comment) */
+"Announcement" = "إعلان";
+
+/* (No Comment) */
+"Announcements" = "إعلانات";
+
+/* (No Comment) */
+"Archive" = "أرشفة";
+
+/* (No Comment) */
+"Archive Selected Messages Button" = "زر أرشفة الرسائل المحددة";
+
+/* (No Comment) */
+"Archive all selected messages" = "أرشفة جميع الرسائل المحددة";
+
+/* (No Comment) */
+"Archived" = "تمت الأرشفة";
+
+/* (No Comment) */
+"Are you ready to logout?" = "هل أنت مستعد لتسجيل الخروج؟";
+
+/* (No Comment) */
+"Ask me later" = "اسألني فيما بعد";
+
+/* Assignment icon a11y label
+   Assignment module item type */
+"Assignment" = "المهمة";
+
+/* (No Comment) */
+"Assignments" = "المهام";
+
+/* (No Comment) */
+"Attachment" = "المرفق";
+
+/* (No Comment) */
+"Attachment %d" = "المرفق %d";
+
+/* (No Comment) */
+"Attachment %i" = "المرفق %i";
+
+/* (No Comment) */
+"Attachments" = "المرفقات";
+
+/* (No Comment) */
+"Attendance" = "الحضور";
+
+/* (No Comment) */
+"Audio" = "الصوت";
+
+/* (No Comment) */
+"Audio input hardware not available" = "جهاز إدخال الصوت غير متوفر";
+
+/* (No Comment) */
+"Authentication error" = "خطأ في المصادقة";
+
+/* (No Comment) */
+"Build Avatar" = "إنشاء أفاتار";
+
+/* No comment provided by engineer. */
+"Cache cleared" = "مُسحت ذاكرة التخزين المؤقت";
+
+/* Calendar landing page title
+   Calendar page title */
+"Calendar" = "التقويم";
+
+/* No comment provided by engineer. */
+"Calendar Event" = "حدث التقويم";
+
+/* (No Comment) */
+"Can't load tool" = "لا يمكن تحميل الأداة";
+
+/* (No Comment) */
+"Can't submit media" = "لا يمكن إرسال الوسط";
+
+/* (No Comment) */
+"Cancel" = "إلغاء";
+
+/* (No Comment) */
+"Cancel Message" = "إلغاء رسالة";
+
+/* (No Comment) */
+"Canvas appears to be unavailable. Please try again later." = "يبدو أن Canvas غير متوفر. يرجى إعادة المحاولة لاحقاً.";
+
+/* (No Comment) */
+"Canvas failed to find recipients for your current search. Please try again later." = "فشل Canvas في العثور على مستلمين لبحثك الحالي. يرجى إعادة المحاولة لاحقاً.";
+
+/* (No Comment) */
+"Canvas quizzes support various assessment styles. Most of these styles are supported on mobile devices; however, some are not. If you attempt to take one of these unsupported quizzes on your phone, you might be unable to complete the entire quiz, leaving you at a disadvantage.\n\nUnsupported question types include questions containing Adobe Flash™ content, file uploads, and others.\n\nIf you believe that a quiz contains unsupported content, please take it on desktop or laptop computer. If you know that the quiz contains only supported content, feel free to take it on your mobile device." = "تدعم اختبارات Canvas أنماط تقييم عديدة. معظم هذه الأنماط مدعومة على الأجهزة المحمولة؛ لكن بعض الأجهزة ليست مدعومة بعد. إذا حاولت إجراء أحد الاختبارات غير المدعومة على هاتفك، فقد يستحيل عليك إنهاء الاختبار بأكمله، ما سيضعك في وضع غير موات.\n\nأنواع الأسئلة غير المدعومة يشمل أسئلة تتضمن محتويات Adobe Flash™، تحميلات الملفات وغيرها.\n\nإذا كنت تعتقد أن اختبار ما يتضمن محتويات غير مدعومة، يرجى إجراء الامتحان على كمبيوتر المكتب أو كمبيوتر محمول. إذا كنت تعلم أن الاختبار يحتوي على محتويات مدعومة فقط، لا تترد في إجرائه على جهازك المحمول.";
+
+/* (No Comment) */
+"Change User" = "تغيير المستخدم";
+
+/* Button to select a landing page */
+"Choose Landing Page" = "اختيار الصفحة المقصودة";
+
+/* (No Comment) */
+"Choose Photo" = "اختيار صورة";
+
+/* (No Comment) */
+"Choose Profile Picture" = "اختيار صورة ملف التعريف";
+
+/* (No Comment) */
+"Choose Video" = "اختيار فيديو";
+
+/* (No Comment) */
+"Choose a name for the new folder" = "اختيار اسم المجلد الجديد";
+
+/* (No Comment) */
+"Choose a name for the new folder." = "اختيار اسم المجلد الجديد.";
+
+/* (No Comment) */
+"Choose a submission type" = "اختيار نوع الإرسال";
+
+/* (No Comment) */
+"Choose from Library..." = "الاختيار من المكتبة...";
+
+/* Text for button to allow user to choose a set of assignments to do */
+"Choose option" = "اختر خيارًا";
+
+/* (No Comment) */
+"Choose video" = "اختيار فيديو";
+
+/* (No Comment) */
+"Close" = "إغلاق";
+
+/* (No Comment) */
+"Closed for Comments" = "التعليقات مغلقة";
+
+/* (No Comment) */
+"Collaborations" = "الأعمال الجماعية";
+
+/* (No Comment) */
+"Comment" = "تعليق";
+
+/* (No Comment) */
+"Comment Error" = "خطأ في التعليق";
+
+/* (No Comment) */
+"Comments" = "التعليقات";
+
+/* (No Comment) */
+"Comments are disabled" = "التعليقات معطلة";
+
+/* (No Comment) */
+"Complete" = "إكمال";
+
+/* (No Comment) */
+"Completed" = "مكتمل";
+
+/* (No Comment) */
+"Compose Message Button" = "زر إنشاء رسالة";
+
+/* (No Comment) */
+"Compose a message" = "إنشاء رسالة";
+
+/* (No Comment) */
+"Conferences" = "المؤتمرات";
+
+/* (No Comment) */
+"Confirm deletion" = "تأكيد الحذف";
+
+/* (No Comment) */
+"Continue" = "متابعة";
+
+/* (No Comment) */
+"Could not authenticate with server" = "تعذرت المصادقة مع الخادم";
+
+/* (No Comment) */
+"Couldn't Load Submission" = "تعذر تحميل الإرسال";
+
+/* (No Comment) */
+"Couldn't find recipients" = "تعذر العثور على مستلمين";
+
+/* (No Comment) */
+"Course Syllabus" = "مناهج المساق";
+
+/* Courses landing page title */
+"Courses" = "المساقات";
+
+/* (No Comment) */
+"Create Folder" = "إنشاء مجلد";
+
+/* (No Comment) */
+"Current Submission" = "الإرسال الحالي";
+
+/* (No Comment) */
+"Currently there is limited quiz support on mobile" = "دعم الاختبارات محدود حاليًا على الأجهزة المحمولة";
+
+/* (No Comment) */
+"Custom Grade" = "درجة مخصصة";
+
+/* (No Comment) */
+"Customize" = "تخصيص";
+
+/* dashboard page title */
+"Dashboard" = "لوحة المعلومات";
+
+/* (No Comment) */
+"Delete" = "حذف";
+
+/* (No Comment) */
+"Delete (%d)" = "حذف (%d)";
+
+/* (No Comment) */
+"Delete this reply?" = "حذف هذه الإجابة؟";
+
+/* (No Comment) */
+"Deleted file: &quot;%@&quot;" = "الملف المحذوف: &quot;%@&quot;";
+
+/* (No Comment) */
+"Detail" = "تفصيل";
+
+/* No comment provided by engineer. */
+"Details" = "التفاصيل";
+
+/* (No Comment) */
+"Discard" = "تجاهل";
+
+/* (No Comment) */
+"Discard this entry?" = "تجاهل هذا الإدخال؟";
+
+/* Discussion module item type */
+"Discussion" = "مناقشة";
+
+/* (No Comment) */
+"Discussion Entry" = "إدخال المناقشة";
+
+/* (No Comment) */
+"Discussion Topics" = "مواضيع المناقشة";
+
+/* (No Comment) */
+"Discussions" = "مناقشات";
+
+/* Dismiss an alert dialog */
+"Dismiss" = "رفض";
+
+/* (No Comment) */
+"Do you want to masquerade as this user?" = "هل تريد التخفي بصفة هذا المستخدم؟";
+
+/* (No Comment) */
+"Domain" = "المجال";
+
+/* (No Comment) */
+"Don't ask me again" = "لا تسألني مجدداً";
+
+/* (No Comment) */
+"Don't delete" = "عدم الحذف";
+
+/* Button title to mark a to do item as done */
+"Done" = "تم";
+
+/* (No Comment) */
+"Download Canceled" = "تم إلغاء التنزيل";
+
+/* (No Comment) */
+"Downloading..." = "جارٍ التنزيل...";
+
+/* Formatted string for showing an assingment due date (date already localized by system) */
+"Due %@" = "تاريخ الاستحقاق %@";
+
+/* (No Comment) */
+"Due:" = "موعد الاستحقاق:";
+
+/* (No Comment) */
+"Due: %1$@ at %2$@" = "موعد الاستحقاق: %1$@ على الساعة %2$@";
+
+/* Due date label for to do items, first placeholder is date, second is time */
+"Due: %@ at %@" = "موعد الاستحقاق: %1$@ على الساعة %2$@";
+
+/* (No Comment) */
+"EULA" = "اتفاقية ترخيص المستخدم";
+
+/* (No Comment) */
+"Edit" = "تحرير";
+
+/* (No Comment) */
+"Edit Course List" = "تحرير قائمة المساق";
+
+/* (No Comment) */
+"Edit Group List" = "تحرير قائمة المجموعة";
+
+/* (No Comment) */
+"Edit items" = "تحرير العناصر";
+
+/* (No Comment) */
+"Editing reply by %1$@, %2$@" = "تحرير الأجوبة حسب %1$@ و%2$@";
+
+/* (No Comment) */
+"Email" = "البريد الإلكتروني";
+
+/* (No Comment) */
+"Enable Push Notifications" = "تمكين إرسال الإخطارات";
+
+/* (No Comment) */
+"Enter User ID and Domain." = "إدخال معرف المستخدم والمجال.";
+
+/* (No Comment) */
+"Enter submission" = "إدخال الإرسال";
+
+/* (No Comment) */
+"Entry posted" = "تم نشر الإدخال";
+
+/* (No Comment) */
+"Error" = "خطأ";
+
+/* (No Comment) */
+"Error adding recipeints" = "حدث خطأ أثناء إضافة المستلمين";
+
+/* (No Comment) */
+"Error deleting file &quot;%@&quot;" = "خطأ أثناء حذف الملف &quot;%@&quot;";
+
+/* (No Comment) */
+"Error deleting folder" = "حدث خطأ أثناء حذف المجلد";
+
+/* (No Comment) */
+"Event" = "حدث";
+
+/* (No Comment) */
+"Existing Attachments..." = "المرفقات الموجودة...";
+
+/* (No Comment) */
+"External Tool" = "أداة خارجية";
+
+/* External URL module item type */
+"External URL" = "عنوان URL خارجي";
+
+/* File module item type */
+"File" = "ملف";
+
+/* (No Comment) */
+"File extension not allowed: %@" = "ملحق الملف غير مسموح به: %@";
+
+/* (No Comment) */
+"File extension(s) permitted for this assignment:" = "ملحق(ملحقات) الملف مسموح به لهذه المهمة:";
+
+/* (No Comment) */
+"File received" = "تم استلام الملف";
+
+/* (No Comment) */
+"File unavailable" = "ملف غير متوفر";
+
+/* (No Comment) */
+"File upload" = "تحميل الملف";
+
+/* (No Comment) */
+"File upload failed." = "فشل تحميل الملف.";
+
+/* (No Comment) */
+"Files" = "ملفات";
+
+/* (No Comment) */
+"Finished downloading" = "انتهى التنزيل";
+
+/* badge indicating front page */
+"Front Page" = "الصفحة الأمامية";
+
+/* (No Comment) */
+"Future" = "المستقبل";
+
+/* (No Comment) */
+"Go To Discussion" = "الذهاب إلى المناقشة";
+
+/* (No Comment) */
+"Go to App Store" = "الذهاب إلى App Store";
+
+/* (No Comment) */
+"Go to Quiz" = "الذهاب إلى الاختبار";
+
+/* (No Comment) */
+"Go to discussion" = "الذهاب إلى المناقشة";
+
+/* (No Comment) */
+"Grade" = "الدرجة";
+
+/* (No Comment) */
+"Grade %@" = "تقييم %@";
+
+/* (No Comment) */
+"Grade in SpeedGrader" = "التقييم في SpeedGrader";
+
+/* (No Comment) */
+"Grade: %1$i / %2$g" = "الدرجة: %1$i / %2$g";
+
+/* (No Comment) */
+"Grade: %@" = "الدرجة: %@";
+
+/* (No Comment) */
+"Graded Discussion" = "مناقشة مقيمة";
+
+/* (No Comment) */
+"Graded discussion." = "مناقشة مقيمة.";
+
+/* (No Comment) */
+"Graded discussion. %g points possible." = "مناقشة مقيمة. %g نقطة ممكنة.";
+
+/* (No Comment) */
+"Grades" = "الدرجات";
+
+/* (No Comment) */
+"Group conversation" = "محادثة مجموعة";
+
+/* (No Comment) */
+"Groups" = "المجموعات";
+
+/* (No Comment) */
+"Help" = "مساعدة";
+
+/* (No Comment) */
+"Hide Grades" = "إخفاء الدرجات";
+
+/* (No Comment) */
+"How do you like Canvas?" = "ما رأيك في Canvas؟";
+
+/* I give you back your time, use it wisely. */
+"I give you back your time, use it wisely." = "أعيد لك وقتك، استخدمه بحكمة.";
+
+/* (No Comment) */
+"Image" = "صورة";
+
+/* (No Comment) */
+"Import from Dropbox" = "استيراد من Dropbox";
+
+/* (No Comment) */
+"Import from camera" = "استيراد من الكاميرا";
+
+/* (No Comment) */
+"Inbox" = "صندوق الوارد";
+
+/* (No Comment) */
+"Incomplete" = "غير مكتمل";
+
+/* (No Comment) */
+"Individual messages" = "رسائل فردية";
+
+/* (No Comment) */
+"Invalid URL" = "عنوان URL غير صالح";
+
+/* (No Comment) */
+"It has problems" = "هناك مشاكل";
+
+/* (No Comment) */
+"Item %1$d of %2$d" = "العنصر %1$d من %2$d";
+
+/* table header for module items */
+"Items" = "العناصر";
+
+/* It’s empty, what are you still doing here. */
+"It’s empty, what are you still doing here." = "هذا فارغ، ماذا تفعل هنا؟";
+
+/* No comment provided by engineer. */
+"Jumps to current day on calendar" = "المرور إلى اليوم الحالي على التقويم";
+
+/* (No Comment) */
+"Keep" = "الإبقاء";
+
+/* Settings entry title for Choosing a Landing Page */
+"Landing Page" = "الصفحة المقصودة";
+
+/* (No Comment) */
+"Large file" = "ملف كبير الحجم";
+
+/* (No Comment) */
+"Later" = "فيما بعد";
+
+/* (No Comment) */
+"Launch External Tool" = "تشغيل الأداة الخارجية";
+
+/* (No Comment) */
+"Legal" = "قانونية";
+
+/* Web URL link item label */
+"Link" = "ارتباط";
+
+/* (No Comment) */
+"Loading..." = "جارٍ التحميل...";
+
+/* (No Comment) */
+"Locked" = "مؤمّن";
+
+/* Displayed when next assignment is locked until current assignment is graded. Placeholder is an assignment's name. */
+"Locked until \"%@\" is graded" = "مؤمَّن حتى منح درجة لـ \"%@\"";
+
+/* locked date */
+"Locked until %@" = "مؤمّن إلى غاية %@";
+
+/* (No Comment) */
+"Login ID" = "معرف تسجيل الدخول";
+
+/* (No Comment) */
+"Login Problem" = "مشكلة في تسجيل الدخول";
+
+/* (No Comment) */
+"Logout" = "تسجيل الخروج";
+
+/* (No Comment) */
+"Love it!" = "أحب ذلك!";
+
+/* Button title for mark as done. */
+"Mark as Done" = "وضع علامة تم";
+
+/* (No Comment) */
+"Masquerade" = "تخفي";
+
+/* Master Path module item type */
+"Mastery Path" = "مسار الإجادة";
+
+/* (No Comment) */
+"Me" = "أنا";
+
+/* (No Comment) */
+"Media Comment" = "تعليق الوسط";
+
+/* (No Comment) */
+"Media Submission" = "إرسال الوسط";
+
+/* (No Comment) */
+"Media comment" = "تعليق الوسط";
+
+/* (No Comment) */
+"Media recording" = "تسجيل الوسط";
+
+/* (No Comment) */
+"Media type selector. %@" = "محدد نوع الوسط. %@";
+
+/* (No Comment) */
+"Message Instructor" = "إرسال رسالة إلى المعلم";
+
+/* (No Comment) */
+"Message Sent." = "تم إرسال الرسالة.";
+
+/* (No Comment) */
+"Message everyone separately, or add everyone to a group conversation?" = "إرسال الرسائل بشكل منفرد إلى كل شخص أو إضافة الجميع إلى محادثة جماعية؟";
+
+/* Messages landing page title */
+"Messages" = "الرسائل";
+
+/* (No Comment) */
+"Mobile Quiz Warning" = "تحذير الاختبار على جهاز محمول";
+
+/* Modules title */
+"Modules" = "الوحدات";
+
+/* (No Comment) */
+"More Info" = "مزيد من المعلومات";
+
+/* (No Comment) */
+"Multiple Due Dates" = "مواعيد استحقاق متعددة";
+
+/* user must contribute to complete requirement */
+"Must contribute" = "يجب المساهمة";
+
+/* user must mark item as done to complete requirement */
+"Must mark as done" = "يجب وضع علامة تم";
+
+/* format string saying what the minimum score must be */
+"Must score %@ or higher" = "يجب الحصول على %@ أو أكثر";
+
+/* user must submit something to complete */
+"Must submit" = "يجب الإرسال";
+
+/* user must view item to complete requirement */
+"Must view" = "يجب العرض";
+
+/* (No Comment) */
+"My Files" = "ملفاتي";
+
+/* (No Comment) */
+"Name" = "الاسم";
+
+/* (No Comment) */
+"Need SpeedGrader for iPad" = "SpeedGrader لجهاز iPad مطلوب";
+
+/* (No Comment) */
+"Network Error" = "خطأ في الشبكة";
+
+/* (No Comment) */
+"New Folder" = "مجلد جديد";
+
+/* No comment provided by engineer. */
+"New Message" = "رسالة جديدة";
+
+/* Button title for next module item. */
+"Next" = "التالي";
+
+/* (No Comment) */
+"Next 7 Days" = "الأيام السبع القادمة";
+
+/* Button to navigate to the next day on the calendar */
+"Next Day" = "اليوم التالي";
+
+/* (No Comment) */
+"Next item" = "العنصر التالي";
+
+/* (No Comment) */
+"No" = "لا";
+
+/* (No Comment) */
+"No Date" = "لا يوجد أي تاريخ";
+
+/* Label shown for a to do that doesn't have a due date */
+"No Due Date" = "لا يوجد موعد استحقاق";
+
+/* Title for alert when a module item hasn't been set up with mastery paths */
+"No Mastery Paths" = "لا توجد مسارات إجادة";
+
+/* (No Comment) */
+"No Recorded Audio" = "لا يوجد أي تسجيل صوتي";
+
+/* (No Comment) */
+"No Submission" = "لا يوجد أي إرسال";
+
+/* (No Comment) */
+"No Thanks" = "لا، شكراً";
+
+/* (No Comment) */
+"No actions available for this file" = "لا يمكن القيام بأي عملية على هذا الملف";
+
+/* (No Comment) */
+"No audio was recorded." = "لم يتم تسجيل أي صوت.";
+
+/* (No Comment) */
+"No due date" = "لا يوجد موعد استحقاق";
+
+/* (No Comment) */
+"No installed apps support opening this file" = "لا يوجد أي تطبيق مثبّت يسمح بفتح هذا الملف";
+
+/* (No Comment) */
+"No recipients" = "لا يوجد أي مستلم";
+
+/* (No Comment) */
+"No results found" = "لم يتم العثور على أي نتيجة";
+
+/* (No Comment) */
+"Not Authorized" = "غير مخوّل";
+
+/* (No Comment) */
+"Not Complete" = "غير مكتمل";
+
+/* (No Comment) */
+"Not available" = "غير متوفر";
+
+/* (No Comment) */
+"Not graded" = "لم يتم التقييم";
+
+/* (No Comment) */
+"Not graded (0 out of %@)" = "لم يتم التقييم (0 من بين %@)";
+
+/* (No Comment) */
+"Note: Media files are not immediately available for playback while they are processed on the server." = "ملاحظة: لا يمكن قراءة ملفات الوسائط بشكل فوري أثناء معالجتها على الخادم.";
+
+/* Nothing to do, go play outside! */
+"Nothing to do, go play outside!" = "لا يمكن فعل أي شيء، إذهب للعب في الخارج!";
+
+/* Nothing to see here. */
+"Nothing to see here." = "لا شيء لرؤيته هنا.";
+
+/* (No Comment) */
+"Notification" = "الإخطار";
+
+/* Settings entry title for Notification Preferences */
+"Notification Preferences" = "تفضيلات الإخطار";
+
+/* Notifications tab title */
+"Notifications" = "الإخطارات";
+
+/* OK Button Title */
+"OK" = "موافق";
+
+/* (No Comment) */
+"Observer" = "ملاحظ";
+
+/* (No Comment) */
+"Ok" = "موافق";
+
+/* (No Comment) */
+"Online URL" = "عنوان URL عبر الإنترنت";
+
+/* (No Comment) */
+"Oops!" = "عذراً!";
+
+/* (No Comment) */
+"Open in Safari" = "الفتح في Safari";
+
+/* (No Comment) */
+"Open in SpeedGrader" = "الفتح في SpeedGrader";
+
+/* (No Comment) */
+"Open in..." = "الفتح في...";
+
+/* Button title for selecting an option given a number */
+"Option %d" = "خيارات %d";
+
+/* (No Comment) */
+"Other" = "أخرى";
+
+/* (No Comment) */
+"Other replies hidden until you reply" = "إخفاء الأجوبة الأخرى حتى تجيب";
+
+/* (No Comment) */
+"Outcomes" = "النتائج";
+
+/* Page module item type */
+"Page" = "الصفحة";
+
+/* (No Comment) */
+"Past" = "سابقة";
+
+/* (No Comment) */
+"People" = "الأشخاص";
+
+/* (No Comment) */
+"Pinned Discussions" = "مناقشات مثبّتة";
+
+/* (No Comment) */
+"Play" = "تشغيل";
+
+/* (No Comment) */
+"Please check your network connection and try again." = "يرجى التحقق من اتصال الشبكة وإعادة المحاولة.";
+
+/* (No Comment) */
+"Post" = "نشر";
+
+/* (No Comment) */
+"Post Comment" = "نشر تعليق";
+
+/* (No Comment) */
+"Post comment" = "نشر تعليق";
+
+/* (No Comment) */
+"Posting…" = "جارٍ النشر...";
+
+/* (No Comment) */
+"Posts your comment" = "انشر تعليقك";
+
+/* Table header for prerequisite modules */
+"Prerequisite Modules" = "الوحدات النمطية الأساسية";
+
+/* Button title for previous module item. */
+"Previous" = "السابق";
+
+/* Button to navigate to the previous day on the calendar */
+"Previous Day" = "اليوم السابق";
+
+/* (No Comment) */
+"Previous item" = "العنصر السابق";
+
+/* (No Comment) */
+"Privacy Policy" = "سياسة الخصوصية";
+
+/* No comment provided by engineer. */
+"Profile" = "ملف التعريف";
+
+/* Quiz module item type */
+"Quiz" = "الاختبار";
+
+/* (No Comment) */
+"Quiz Alert" = "تنبيه الاختبار";
+
+/* (No Comment) */
+"Quizzes" = "اختبارات";
+
+/* (No Comment) */
+"Rate on App Store" = "التقييم على App Store";
+
+/* (No Comment) */
+"Rating for %1$@, Score: %2$g" = "تصنيف %1$@، الدرجة: %2$g";
+
+/* (No Comment) */
+"Re-submit Assignment" = "إعادة إرسال المهمة";
+
+/* (No Comment) */
+"Recipients" = "المستلمين";
+
+/* (No Comment) */
+"Record" = "تسجيل";
+
+/* (No Comment) */
+"Record Audio" = "تسجيل الصوت";
+
+/* (No Comment) */
+"Record Audio..." = "تسجيل الصوت...";
+
+/* (No Comment) */
+"Record Video" = "تسجيل الفيديو";
+
+/* (No Comment) */
+"Record audio" = "تسجيل الصوت";
+
+/* (No Comment) */
+"Record video" = "تسجيل الفيديو";
+
+/* Button to refresh the calendar events */
+"Refresh" = "تحديث";
+
+/* No comment provided by engineer. */
+"Refresh Button" = "زر التحديث";
+
+/* No comment provided by engineer. */
+"Refreshes the calendar content" = "تحديث محتوى التقويم";
+
+/* Refreshing Calendar Events */
+"Refreshing Calendar Events" = "جارٍ تحديث أحداث التقويم";
+
+/* (No Comment) */
+"Remove" = "إزالة";
+
+/* (No Comment) */
+"Remove this file?" = "إزالة هذا الملف؟";
+
+/* (No Comment) */
+"Report a problem" = "الإبلاغ عن مشكلة";
+
+/* (No Comment) */
+"Request a feature" = "طلب ميزة";
+
+/* (No Comment) */
+"Rubric" = "جدول الدرجات";
+
+/* (No Comment) */
+"Save" = "حفظ";
+
+/* (No Comment) */
+"Schedule Notification" = "جدولة إخطار";
+
+/* (No Comment) */
+"Search for recipients" = "البحث عن مستلمين";
+
+/* No comment provided by engineer. */
+"Select Option" = "حدد خيارًا";
+
+/* Button title to select a certain assignment set option */
+"Select Option %d" = "حدد خيارًا %d";
+
+/* (No Comment) */
+"Select file(s)" = "تحديد ملف(ملفات)";
+
+/* (No Comment) */
+"Select or deselect" = "تحديد أو إلغاء التحديد";
+
+/* (No Comment) */
+"Selected" = "تم تحديده";
+
+/* (No Comment) */
+"Send" = "إرسال";
+
+/* (No Comment) */
+"Send %@ a message" = "إرسال رسالة إلى %@";
+
+/* (No Comment) */
+"Send Message" = "إرسال رسالة";
+
+/* (No Comment) */
+"Sent" = "تم الإرسال";
+
+/* (No Comment) */
+"Settings" = "الإعدادات";
+
+/* (No Comment) */
+"Show Grades" = "عرض الدرجات";
+
+/* (No Comment) */
+"Show Quiz" = "عرض الاختبار";
+
+/* (No Comment) */
+"Show file" = "عرض الملف";
+
+/* (No Comment) */
+"Show recipients" = "عرض المستلمين";
+
+/* (No Comment) */
+"Some items could not be deleted" = "لا يمكن حذف بعض الملفات";
+
+/* (No Comment) */
+"Some selected folders are not empty. Are you sure you want to delete them?" = "بعض الملفات المحددة ليست فارغة. هل تريد حقاً حذفها؟";
+
+/* (No Comment) */
+"Sorry, we couldn't find the assignment. This assignment may have been deleted." = "عذرًا، لم نتمكن من العثور على المهمة. ربما تم حذف هذه المهمة.";
+
+/* (No Comment) */
+"Starts playing your recording" = "بدء تشغيل تسجيلك";
+
+/* (No Comment) */
+"Starts recording a media comment" = "بدء تسجيل تعليق الوسط";
+
+/* Label read aloud when item status is completed.
+   Module status label when completed */
+"Status: Completed" = "الحالة: تم الإكمال";
+
+/* Label read aloud when item status is incomplete. */
+"Status: Incomplete" = "الحالة: غير مكتمل";
+
+/* Label read aloud when item status is locked.
+   Module status label when locked */
+"Status: Locked" = "الحالة: مؤمّن";
+
+/* Module status label when started */
+"Status: Started" = "الحالة: تم البدء";
+
+/* (No Comment) */
+"Stay Logged In" = "الاستمرار في الجلسة";
+
+/* (No Comment) */
+"Stop" = "إيقاف";
+
+/* (No Comment) */
+"Stop Masquerading" = "إيقاف التخفي";
+
+/* (No Comment) */
+"Stops playing your recording" = "إيقاف تشغيل تسجيلك";
+
+/* (No Comment) */
+"Stops recording a media comment" = "إيقاف تسجيل تعليق الوسط";
+
+/* (No Comment) */
+"Student" = "طالب";
+
+/* Header item label */
+"Sub Header" = "رأس فرعي";
+
+/* (No Comment) */
+"Submission" = "إرسال";
+
+/* (No Comment) */
+"Submission Error" = "إرسال";
+
+/* (No Comment) */
+"Submission complete" = "انتهى الإرسال";
+
+/* (No Comment) */
+"Submit" = "إرسال";
+
+/* (No Comment) */
+"Submitted" = "تم الإرسال";
+
+/* (No Comment) */
+"Submitting..." = "جارٍ الإرسال...";
+
+/* (No Comment) */
+"Subscribe to calendar feed" = "الاشتراك في تغذية التقويم";
+
+/* (No Comment) */
+"Success!" = "بنجاح!";
+
+/* (No Comment) */
+"Sure!" = "بالتأكيد!";
+
+/* (No Comment) */
+"Switches media input between audio and video. Currently set to %@" = "تغيير إدخال الوسط بين الصوت والفيديو. موجود حاليًا في الوضع %@";
+
+/* (No Comment) */
+"Switches to media comment mode" = "التغيير إلى وضع تعليق الوسط";
+
+/* (No Comment) */
+"Switches to text comment mode" = "التغيير إلى وضع تعليق النص";
+
+/* (No Comment) */
+"Syllabus" = "المناهج";
+
+/* (No Comment) */
+"TA" = "مساعد المعلم";
+
+/* (No Comment) */
+"TAs" = "مساعدي المعلمين";
+
+/* (No Comment) */
+"Take Photo" = "التقاط صورة";
+
+/* (No Comment) */
+"Take Photo or Video..." = "التقاط صورة أو فيديو...";
+
+/* (No Comment) */
+"Take a Photo..." = "التقاط صورة...";
+
+/* (No Comment) */
+"Take a Video..." = "التقاط فيديو...";
+
+/* (No Comment) */
+"Tap to try again" = "اضغط لإعادة المحاولة";
+
+/* (No Comment) */
+"Teacher" = "المعلم";
+
+/* (No Comment) */
+"Teachers" = "المعلمين";
+
+/* (No Comment) */
+"Tell us what's wrong" = "أخبرنا ما المشكلة";
+
+/* (No Comment) */
+"Terms of Use" = "شروط الاستخدام";
+
+/* (No Comment) */
+"Text Comment" = "تعليق النص";
+
+/* (No Comment) */
+"Text Submission" = "إرسال النص";
+
+/* (No Comment) */
+"Text entry" = "إدخال النص";
+
+/* No comment provided by engineer. */
+"That page has been disabled for this course" = "تم تعطيل هذه الصفحة لهذا المساق";
+
+/* (No Comment) */
+"The recipients could not be added. Please try again. (%@)" = "إضافة المستخدمين غير ممكنة. يرجى إعادة المحاولة. (%@)";
+
+/* (No Comment) */
+"The server could not be reached" = "تعذر الوصول إلى الخادم";
+
+/* (No Comment) */
+"The server you entered is not authorized for this app." = "الخادم الذي أدخلته غير مخول لهذا التطبيق.";
+
+/* (No Comment) */
+"The user agent for this app is unauthorized." = "عميل المستخدم لهذا التطبيق غير مخول.";
+
+/* (No Comment) */
+"There are no actions for this item" = "لا توجد أي عملية لهذا العنصر";
+
+/* (No Comment) */
+"There are no items to display" = "لا توجد أي عناصر لعرضها";
+
+/* (No Comment) */
+"There was a network error posting your comment." = "حدث خطأ في الشبكة أثناء نشر مستندك.";
+
+/* (No Comment) */
+"There was a network problem while attempting to upload your submission" = "حدثت مشكلة في الشبكة أثناء محاولة تحميل إرسالك";
+
+/* (No Comment) */
+"There was a problem accessing the requested file.\n\nError: %@" = "حدث خطأ أثناء الوصول إلى الملف المطلوب.\n\nالخطأ: %@";
+
+/* (No Comment) */
+"There was a problem launching Safari" = "حدث خطأ أثناء تشغيل Safari";
+
+/* (No Comment) */
+"There was an error loading the document." = "حدث خطأ أثناء تحميل المستند.";
+
+/* (No Comment) */
+"There was an error loading your content. If it is an audio or video upload it may still be processing." = "حدث خطأ أثناء تحميل محتوياتك. إذا كان ملف صوت أو فيديو فقد يزال قيد المعالجة.";
+
+/* (No Comment) */
+"This app is not authorized for use." = "هذا التطبيق غير مخول للاستخدام.";
+
+/* (No Comment) */
+"This assignment doesn't appear to be a valid external tool or is misconfigured." = "يبدو أن هذه المهمة ليست أداة خارجية صالحة أو تم تكوينها بشكل غير صحيح.";
+
+/* (No Comment) */
+"This assignment has no details." = "لا توجد أي تفاصيل في هذه المهمة.";
+
+/* (No Comment) */
+"This entry has been deleted" = "تم حذف هذا الإدخال";
+
+/* (No Comment) */
+"This file cannot be displayed on this device." = "لا يمكن عرض هذا الملف على هذا الجهاز.";
+
+/* (No Comment) */
+"This file is locked" = "هذا الملف مؤمّن";
+
+/* (No Comment) */
+"This folder is locked" = "هذا المجلد مؤمّن";
+
+/* (No Comment) */
+"This is a media message." = "هذه رسالة وسائط";
+
+/* Description for alert when a module item doesn't have mastery paths configured */
+"This module item doesn't have mastery paths set up." = "لا يوجد مسارات إجادة تم إعدادها لعنصر الوحدة النمطية هذا.";
+
+/* This would be a great time to do some extra credit. */
+"This would be a great time to do some extra credit." = "قد يكون الوقت مناسبًا للقيام بأعمال إضافية.";
+
+/* Title of the Todo screen */
+"To Do" = "ما يجب القيام به";
+
+/* To-Do List landing page title */
+"To-Do List" = "قائمة ما يجب القيام به";
+
+/* (No Comment) */
+"To:" = "إلى:";
+
+/* Button to scroll to 'today' on the calendar */
+"Today" = "اليوم";
+
+/* No comment provided by engineer. */
+"Today Button" = "زر اليوم";
+
+/* (No Comment) */
+"Toggles selection of current item" = "تبديل تحديد العنصر الحالي";
+
+/* (No Comment) */
+"Toggles selection of item" = "تبديل تحديد العنصر";
+
+/* (No Comment) */
+"Turn In" = "التسليم";
+
+/* (No Comment) */
+"Turn In Again" = "التسليم من جديد";
+
+/* (No Comment) */
+"Turn in %@" = "تسليم %@";
+
+/* Label read aloud to describe module item type */
+"Type: %@" = "النوع: %@";
+
+/* (No Comment) */
+"Uh-oh! No Internet Connection" = "أوه! لا يوجد اتصال بالإنترنت";
+
+/* (No Comment) */
+"Unable to load" = "التحميل غير ممكن";
+
+/* (No Comment) */
+"Unable to post. Please try again later" = "النشر غير ممكن. يرجى إعادة المحاولة لاحقاً";
+
+/* (No Comment) */
+"Unable to upload to server" = "التحميل على الخادم غير ممكن";
+
+/* (No Comment) */
+"Unavailable" = "غير متوفر";
+
+/* (No Comment) */
+"Ungraded" = "دون تقييم";
+
+/* (No Comment) */
+"Unknown" = "غير معروف";
+
+/* (No Comment) */
+"Unread" = "غير مقروء";
+
+/* (No Comment) */
+"Unsaved Reply" = "جواب غير محفوظ";
+
+/* (No Comment) */
+"Upload" = "تحميل";
+
+/* (No Comment) */
+"Upload Error" = "خطأ في التحميل";
+
+/* (No Comment) */
+"Upload a file" = "تحميل ملف";
+
+/* (No Comment) */
+"Upload failed. Reason: (%@)" = "فشل التحميل. السبب: (%@)";
+
+/* (No Comment) */
+"Upload file" = "تحميل ملف";
+
+/* (No Comment) */
+"Upload to assignment &quot;%@&quot; failed" = "تعذر التحميل إلى المهمة &quot;%@&quot;";
+
+/* (No Comment) */
+"Upload to folder &quot;%@&quot; failed" = "تعذر التحميل إلى المجلد &quot;%@&quot;";
+
+/* (No Comment) */
+"Use" = "استخدام";
+
+/* (No Comment) */
+"User ID" = "معرف المستخدم";
+
+/* (No Comment) */
+"User Info" = "معلومات المستخدم";
+
+/* (No Comment) */
+"Video" = "فيديو";
+
+/* (No Comment) */
+"Video error" = "خطأ في الفيديو";
+
+/* (No Comment) */
+"View" = "عرض";
+
+/* (No Comment) */
+"Warning" = "تحذير";
+
+/* (No Comment) */
+"We had a problem loading the submission. Please try again later." = "لدينا مشكلة في تحميل الإرسال. يرجى إعادة المحاولة لاحقاً.";
+
+/* (No Comment) */
+"We were unable to verify the server for use with this app." = "لم نتمكن من التحقق من الخادم لاستخدامه مع هذا التطبيق.";
+
+/* (No Comment) */
+"Whoops!" = "أوبس!";
+
+/* (No Comment) */
+"Will unlock %@." = "تاريخ إلغاء التأمين %@.";
+
+/* (No Comment) */
+"Would you like to create a new message?" = "هل تريد إنشاء رسالة جديدة؟";
+
+/* (No Comment) */
+"Would you mind giving us a rating on the app store?" = "هل يمكنك تقييمنا على App Store؟";
+
+/* (No Comment) */
+"Would you mind letting us know the problems you have been having with the app?" = "هل يمكنك إخبارنا بالمشاكل التي واجهتها مع التطبيق؟";
+
+/* (No Comment) */
+"Yes" = "نعم";
+
+/* (No Comment) */
+"You are now masquerading as %@" = "أنت الآن متخفي بصفة %@";
+
+/* (No Comment) */
+"You are now masquerading as %@. To Stop Masquerading go to your Profile." = "أنت الآن متخفي بصفة %@. يمكنك إيقاف التخفي بالذهاب إلى ملف تعريفك.";
+
+/* (No Comment) */
+"You do not have SpeedGrader for iPad. You can download it for free from the App Store." = "ليس لديك SpeedGrader لجهاز iPad. يمكنك تنزيله مجاناً من App Store.";
+
+/* Error message for an unauthorized course or group. */
+"You do not have access to this content. The Course or Group may not have started, or may have been concluded." = "لا يمكنك الوصول إلى هذا المحتوى. من الممكن أن هذا المساق أو المجموعة لم يبدأ بعد أو انتهى. ";
+
+/* (No Comment) */
+"You do not have permission to delete this reply" = "غير مسموح لك بحذف هذا الملف";
+
+/* (No Comment) */
+"You don't have permission to masquerade as this user or there is no user with that ID" = "التخفي بصفة هذا المستخدم غير مسموح لك أو لا يوجد مستخدم بهذا المعرف";
+
+/* (No Comment) */
+"You have an unsaved reply. Would you like to discard that reply?" = "لديك جواب غير محفوظ. هل تريد تجاهل هذا الجواب؟";
+
+/* (No Comment) */
+"You must first complete:" = "يجب أن تكمل أولاً:";
+
+/* (No Comment) */
+"You need a title and a description to post" = "تحتاج لعنوان ووصف للنشر";
+
+/* You should go rate Canvas on the App Store! */
+"You should go rate Canvas on the App Store!" = "يجب أن تقيّم Canvas على App Store!";
+
+/* (No Comment) */
+"Your files could not be found" = "تعذر العثور على ملفاتك";
+
+/* (No Comment) */
+"Your school's configuration does not allow the type of submission selected for this assignment" = "تكوين مدرستك لا يسمح بنوع الإرسال المحدد لهذه المهمة";
+
+/* (No Comment) */
+"due on %1$@ at %2$@" = "موعد الاستحقاق يوم  %1$@ على الساعة %2$@";
+
+/* (No Comment) */
+"moments ago" = "منذ لحظة";
+
+/* (No Comment) */
+"out of" = "من بين";
+
+/* (No Comment) */
+"out of %@" = "من بين %@";
+
+/* (No Comment) */
+"out of %@ points" = "من بين %@ نقطة";
+
+/* (No Comment) */
+"photo" = "صورة";
+
+/* (No Comment) */
+"unknown" = "غير معروف";
+
+/* (No Comment) */
+"until %@" = "حتى %@";
+

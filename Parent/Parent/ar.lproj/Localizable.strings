@@ -1,0 +1,440 @@
+/* <String> <Int> of <Int> */
+"%@ %d of %d" = "%1$@ %2$d من %3$d";
+
+/* Something to Something */
+"%@ to %@" = "%1$@ على %2$@";
+
+/* Percentage field placeholder */
+"1-100%" = "1-100%";
+
+/* Server Error Message */
+"A server error has occurred.  Please try again." = "حدث خطأ في الخادم. يرجى إعادة المحاولة.";
+
+/* Alerts Tab */
+"ALERTS" = "تنبيهات";
+
+/* Unauthorized Student Error Title */
+"Access Denied" = "الوصول مرفوض";
+
+/* Add Student Settings Button Title */
+"Add Student" = "إضافة طالب";
+
+/* Alert Section Header */
+"Alert me when:" = "تنبيهي عندما:";
+
+/* Generic Network Error Message */
+"An unexpected error occurred.  Please try again." = "حدث خطأ غير متوقع. يرجى إعادة المحاولة.";
+
+/* Logout Confirmation */
+"Are you sure you want to logout?" = "هل تريد حقاً تسجيل الخروج؟";
+
+/* Remove Observee Confirmation */
+"Are you sure you want to remove this observee?" = "هل تريد حقاً إزالة هذا الشخص الموجود تحت المراقبة؟";
+
+/* Assignment Grade High On Description */
+"Assignment grade above" = "درجة المهمة أكبر من";
+
+/* Assignment Grade Low On Description */
+"Assignment grade below" = "درجة المهمة أصغر من";
+
+/* Assignment Missing Description */
+"Assignment missing" = "مهمة مفقودة";
+
+/* No comment provided by engineer. */
+"Assignment reminder: %@" = "تذكير بالمهمة: %@";
+
+/* No comment provided by engineer. */
+"Assignment reminder: %@ is due at %@" = "تذكير بالمهمة: موعد استحقاق %1$@ هو %2$@";
+
+/* No comment provided by engineer. */
+"Australia" = "أستراليا";
+
+/* Authorization Failed Title */
+"Authorization Failed." = "فشل التخويل.";
+
+/* Back Button Title */
+"Back" = "عودة";
+
+/* Courses Tab */
+"COURSES" = "المساقات";
+
+/* No comment provided by engineer. */
+"Canada" = "كندا";
+
+/* Cancel button title */
+"Cancel" = "إلغاء";
+
+/* Percent value is over 100 */
+"Cannot use percent that is higher than 100" = "لا يمكن استخدام نسبة مئوية أكبر من 100";
+
+/* Percent value is under 0 */
+"Cannot use percent that is less than 0" = "لا يمكن استخدام نسبة مئوية أقل من 0";
+
+/* Cancel the question/suggestion form */
+"Casual question or suggestion" = "مجرد سؤال عابر أو اقتراح";
+
+/* Empty Alerts Text */
+"Caught up on Alerts" = "لا توجد تنبيهات عالقة";
+
+/* title for status selection field */
+"Choose One" = "اختيار واحد";
+
+/* Close Button Title */
+"Close" = "إغلاق";
+
+/* Error alert message */
+"Could not create domain.  Please check your school's domain and try again." = "تعذر إنشاء مجال.  يرجى التحقق من مجال مدرستك وإعادة المحاولة.";
+
+/* Course Announcement Description */
+"Course announcements" = "إعلانات المساق";
+
+/* Course Grade High On Description */
+"Course grade above" = "درجة المساق أكبر من";
+
+/* Course Grade Low On Description */
+"Course grade below" = "درجة المساق أصغر من";
+
+/* Submits the form to create an account */
+"Create Account" = "إنشاء حساب";
+
+/* Title for field */
+"Describe your problem" = "قم بوصف مشكلتك";
+
+/* No comment provided by engineer. */
+"Dismiss" = "رفض";
+
+/* Title for alert shown when the server couldn't find an email to reset the password for */
+"Email Not Found" = "لم يتم العثور على البريد الإلكتروني";
+
+/* Title for alert shown when user attempts to reset their password */
+"Email Sent" = "تم إرسال البريد الإلكتروني";
+
+/* Empty Response */
+"Empty Response." = "استجابة فارغة.";
+
+/* Prompt for logging in as student */
+"Enter student's login information" = "إدخال معلومات تسجيل دخول الطالب";
+
+/* prompt for canvas observer login page */
+"Enter your Canvas Observer credentials" = "أدخل بيانات اعتماد Canvas Observer الخاصة بك";
+
+/* Title for an error popup */
+"Error" = "خطأ";
+
+/* No comment provided by engineer. */
+"Event reminder: %@" = "تذكير بالحدث: %@";
+
+/* No comment provided by engineer. */
+"Event reminder: %@ will begin at %@" = "تذكير بالحدث: سيبدأ %1$@ على الساعة %2$@";
+
+/* No comment provided by engineer. */
+"Excused" = "غير إجباري";
+
+/* Status level for issue being reported */
+"Extremely critical emergency" = "حالة طارئة حرجة للغاية";
+
+/* Domain Picker Search Placeholder */
+"Find your school or district" = "ابحث عن مدرستك أو دائرتك التعليمية";
+
+/* Domain Picker Search Placeholder */
+"Find your student's school or district" = "ابحث عن مدرسة أو مقاطعة طالبك";
+
+/* No comment provided by engineer. */
+"Germany" = "ألمانيا";
+
+/* Help Button Title */
+"Help" = "مساعدة";
+
+/* Help Guide Button */
+"Help Guide" = "دليل المساعدة";
+
+/* High Assignment Grade too Low */
+"High assignment grade cannot be lower than low assignment grade" = "لا يمكن أن تكون أعلى درجة للمهمة أقل من أدنى درجة للمهمة";
+
+/* High Course Grade too Low */
+"High course grade cannot be lower than low course grade" = "لا يمكن أن تكون أعلى درجة للمساق أقل من أدنى درجة للمساق";
+
+/* Help Menu Message */
+"How can we help?" = "كيف يمكننا مساعدتك؟";
+
+/* Status level for issue being reported */
+"I can't get things done until fixed" = "لا يمكنني إنجاز الأشياء قبل أن يتم إصلاحها";
+
+/* Status level for issue being reported */
+"I need help but it's not urgent" = "أحتاج للمساعدة لكن الأمر ليس مستعجلاً";
+
+/* Impact Title */
+"Impact:" = "التأثير:";
+
+/* No comment provided by engineer. */
+"In-Class" = "في الصف";
+
+/* Institution Announcement Description */
+"Institution announcements" = "إعلانات المؤسسة";
+
+/* Invalid Canvas URL */
+"Invalid Canvas URL." = "عنوان URL غير صالح بـ Canvas.";
+
+/* Alert title when logging in with invalid credentials */
+"Invalid Credentials" = "بيانات اعتماد غير صالحة";
+
+/* Title for an alert view */
+"Invalid Input" = "إدخال غير صالح";
+
+/* Support Ticket Invalid Input Message */
+"Invalid Input.  Check fields and try again." = "إدخال غير صالح.  تحقق من الحقول وحاول مرة أخرى.";
+
+/* Invalid User Agent */
+"Invalid User Agent." = "وكيل مستخدم غير صالح.";
+
+/* Invalid Domain title */
+"Invalid domain." = "مجال غير صالح.";
+
+/* Alert Message for invalid domain */
+"Invalid student domain.\nPlease double-check the domain and try again." = "مجال طالب غير صالح.\nيرجى التحقق من المجال وإعادة المحاولة.";
+
+/* No comment provided by engineer. */
+"Ireland" = "أيرلندا";
+
+/* JSON Parsing Error */
+"JSON Parsing Error." = "خطأ تحليل JSON.";
+
+/* Last Week Button Accessibility Label */
+"Last Week" = "الأسبوع الماضي";
+
+/* No comment provided by engineer. */
+"Late" = "متأخر";
+
+/* No comment provided by engineer. */
+"Late: %@" = "متأخر: %@";
+
+/* No comment provided by engineer. */
+"Late: %@ (%@/%@)" = "متأخر: %1$@ (%2$@/%3$@)";
+
+/* No comment provided by engineer. */
+"Log In" = "تسجيل الدخول";
+
+/* Submits the login form */
+"Login" = "تسجيل الدخول";
+
+/* Logout Confirm Button */
+"Logout" = "تسجيل الخروج";
+
+/* Low Assignment Grade too High */
+"Low assignment grade cannot be higher than high assignment grade" = "لا يمكن أن تكون أدنى درجة للمهمة أكبر من أعلى درجة للمهمة";
+
+/* Low Course Grade too High */
+"Low course grade cannot be higher than high course grade" = "لا يمكن أن تكون أدنى درجة للمساق أكبر من أعلى درجة للمساق";
+
+/* No comment provided by engineer. */
+"Missing" = "غير منجزة";
+
+/* No comment provided by engineer. */
+"Missing: (-/%@)" = "غير منجزة: (-/%@)";
+
+/* Generic Network Error Title */
+"Network Error" = "خطأ في الشبكة";
+
+/* Next Week Button Accessibility Label */
+"Next Week" = "الأسبوع المقبل";
+
+/* Empty Courses Text */
+"No Courses" = "لا يوجد أي مساق";
+
+/* Title for label when no grade has been assigned to the course */
+"No Grade" = "لا توجد أي درجة";
+
+/* No Result */
+"No Result." = "لا توجد نتائج.";
+
+/* Empty Students Text */
+"No Students" = "لا يوجد أي طالب";
+
+/* Error message */
+"No installed apps support opening this file" = "لا يوجد أي تطبيق مثبّت يسمح بفتح هذا الملف";
+
+/* Not Authorized Error Title */
+"Not Authorized" = "غير مخوّل";
+
+/* Not Found Error Title */
+"Not Found" = "غير موجود";
+
+/* Not authorized */
+"Not authorized." = "غير مصرح به.";
+
+/* Empty Calendar Events Text */
+"Nothing this week" = "لا شيء هذا الأسبوع";
+
+/* OK Button Title */
+"OK" = "موافق";
+
+/* Canvas Observer Auth Failed Message */
+"Only Canvas observers can authenticate in Canvas Parent." = "بإمكان مراقبي Canvas وحدهم المصادقة في Canvas Parent.";
+
+/* Open Source Components Button */
+"Open Source Components" = "مكونات مفتوحة المصدر";
+
+/* Open a url in the application Safari */
+"Open in Safari" = "الفتح في Safari";
+
+/* Open file in another application */
+"Open in..." = "الفتح في...";
+
+/* Title for alert when resetting password is successful */
+"Password Reset Successful" = "تمت إعادة تعيين كلمة المرور بنجاح";
+
+/* Invalid Domain message */
+"Please double-check the domain and try again." = "يرجى إعادة التحقق من المجال والمحاولة مجددًا.";
+
+/* Title for alert shown when something goes wrong resetting the password */
+"Problem Resetting Password" = "حدثت مشكلة أثناء إعادة تعيين كلمة المرور";
+
+/* Remove button title */
+"Remove" = "إزالة";
+
+/* delete student from login */
+"Remove Student" = "إزالة طالب";
+
+/* re-authenticate user when token fails */
+"Repair Access" = "إصلاح الوصول";
+
+/* Report Problem Button */
+"Report a Problem" = "الإبلاغ عن مشكلة";
+
+/* Support Ticket Creation Failed */
+"Request Failed!  Check network and try again!" = "فشل الطلب!  تحقق من الشبكة وحاول مرة أخرى!";
+
+/* Feature Request Button */
+"Request a Feature" = "طلب ميزة";
+
+/* Not Found Error Message */
+"Resource not found.  Please try again." = "لم يتم العثور على المورد. يرجى إعادة المحاولة.";
+
+/* Select Impact Placeholder */
+"Select Impact" = "تحديد التأثير";
+
+/* No comment provided by engineer. */
+"Select Region" = "حدد منطقة";
+
+/* Server Error Title */
+"Server Error" = "خطأ في الخادم";
+
+/* Settings Button Title
+   Title of the settings screen */
+"Settings" = "الإعدادات";
+
+/* Share Some Love Button */
+"Share Some Love" = "شارك حماسك";
+
+/* No comment provided by engineer. */
+"Singapore" = "سنغافورة";
+
+/* Status level for issue being reported */
+"Something is broken but I can work around it" = "شيء ما معطل لكن أستطيع تدبير أموري";
+
+/* Body for alert shown when something goes wrong resetting the password */
+"Something went wrong while attempting to reset your password. Try again later." = "حدثت مشكلة أثناء محاولة إعادة تعيين كلمة المرور. أعد المحاولة لاحقاً.";
+
+/* Body for alert shown when something goes wrong resetting the password */
+"Something went wrong while attempting to send a password reset email. Try again later." = "حدثت مشكلة أثناء محاولة إرسال البريد الإلكتروني لإعادة تعيين كلمة المرور. أعد المحاولة لاحقاً.";
+
+/* Title for the subject field */
+"Subject" = "الموضوع";
+
+/* Button title for forgot password */
+"Submit" = "إرسال";
+
+/* No comment provided by engineer. */
+"Submitted" = "تم الإرسال";
+
+/* No comment provided by engineer. */
+"Submitted: %@" = "تم الإرسال: %@";
+
+/* No comment provided by engineer. */
+"Submitted: %@ (%@/%@)" = "تم الإرسال: %1$@ (%2$@/%3$@)";
+
+/* Syllabus Button Title */
+"Syllabus" = "المناهج";
+
+/* Support Ticket Created Successfully */
+"Thanks, your request was received!" = "شكراً، تم استلام طلبك!";
+
+/* Alert message when logging in with invalid credentials. Please check your region and try again. */
+"The email and password combination were invalid" = "تركيبة البريد الإلكتروني وكلمة المرور غير صالحة";
+
+/* Error message */
+"There are no actions for this item" = "لا توجد أي عملية لهذا العنصر";
+
+/* AccountDomain Database Load Failure Message */
+"There was a problem loading the AccountDomain database file." = "حدثت مشكلة أثناء تحميل ملف قاعدة البيانات AccountDomain.";
+
+/* AlertKit Database Load Failure Message */
+"There was a problem loading the AlertKit database file." = "حدثت مشكلة أثناء تحميل ملف قاعدة البيانات AlertKit.";
+
+/* Airwolf database error message */
+"There was a problem loading the database." = "حدثت مشكلة أثناء تحميل قاعدة البيانات.";
+
+/* Message for an error alert */
+"There was a problem verifying the following domain: (stringURL)" = "حدثت مشكلة أثناء التحقق من صحة المجال التالي: (stringURL)";
+
+/* No comment provided by engineer. */
+"There was an error loading your content. If it  is an audio or video upload it may still be processing." = "حدث خطأ أثناء تحميل محتوياتك. إذا كان ملف صوت أو فيديو فقد يزال قيد المعالجة.";
+
+/* Alert Message for institution not authorized */
+"This institution has not enabled access to the Canvas Parent mobile app." = "لم تقم هذه المؤسسة بتمكين الوصول إلى تطبيق Canvas للأولياء على الأجهزة المحمولة.";
+
+/* No comment provided by engineer. */
+"This institution is located outside of your selected region. To add a student at this institution, please use the “Region Picker” option on the login page to select the region of (region), and create a new account." = "تقع هذه المؤسسة خارج المنطقة التي حددتها. لإضافة طالب بهذه المؤسسة، الرجاء استخدام خيار \"أداة انتقاء المنطقة\" بصفحة تسجيل الدخول لتحديد منطقة (المنطقة)، وإنشاء حساب جديد.";
+
+/* Title for alert when failing to add student domain */
+"Unable to Add Student" = "تعذر إضافة طالب";
+
+/* Title for alert when failing to create account */
+"Unable to Create Account" = "تعذر إنشاء حساب";
+
+/* No comment provided by engineer. */
+"Unauthorized Region" = "منطقة غير مسموح بها";
+
+/* Auth Failed Message */
+"Unexpected Authentication Error.  Please try logging in again" = "حدث خطأ مصادقة غير متوقع. يرجى إعادة تسجيل الدخول.";
+
+/* No comment provided by engineer. */
+"United States" = "الولايات المتحدة";
+
+/* Unknown region for student account
+   Unknown T`hreshold Description */
+"Unknown" = "غير معروف";
+
+/* Default name given a user until we find their real name */
+"Unknown User" = "مستخدم غير معروف";
+
+/* Default user name, the computer-friendly version of their name, until we find their real user name */
+"Unknown User Name" = "اسم المستخدم غير معروف";
+
+/* Name of action when viewing a reminder */
+"View" = "عرض";
+
+/* Calendar Tab */
+"WEEK" = "أسبوع";
+
+/* Error message when failing to create account */
+"We couldn't create your account. Double check your information or try again later." = "لم نتمكن من إنشاء حسابك. تحقق من معلوماتك أو أعد المحاولة لاحقاً.";
+
+/* Body for alert shown when the server couldn't find an email to reset the password for */
+"We couldn't find an account associated with that email. Double check that you entered it correctly, check your region, and try again." = "تعذر علينا العثور على حساب مقترن بذلك البريد الإلكتروني. تحقق مرة أخرى من أنك أدخلته على نحو صحيح، تحقق من منطقتك ثم أعد المحاولة.";
+
+/* Title for field */
+"What can we do better?" = "ماذا يمكننا فعله لتطوير أداءنا؟";
+
+/* Not Authorized Error Message */
+"You are unauthorized to access this information.  Check your user permissions and try again." = "غير مخول لك بالوصول إلى هذه المعلومات. تحقق من أذونات المستخدم وأعد المحاولة.";
+
+/* Body for alert shown when resetting password */
+"You will receive an email shortly to finish the process of resetting your password." = "ستتلقى قريبًا بريدًا إلكترونيًا للانتهاء من عملية إعادة تعيين كلمة المرور.";
+
+/* Title for the email field */
+"Your Email" = "بريدك الإلكتروني";
+
+/* Body for alert after having successfully reset the password */
+"Your password has been successfully reset. Please log in now." = "تمت إعادة تعيين كلمة مرورك بنجاح. يرجى تسجيل الدخول الآن.";
+

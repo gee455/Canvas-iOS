@@ -1,0 +1,1446 @@
+/* prerequisites for unlocking item */
+"\n\nYou must first complete:" = "\n\nJe moet eerst voltooien:";
+
+/* when locked item will become unlocked */
+" until %@" = "tot %@";
+
+/* explanation for locked module item */
+"\"%@\" is locked as part of \"%@\"" = "\"%1$@\" is vergrendeld als deel van \"%2$@\"";
+
+/* (No Comment) */
+"%0.2f GB" = "%0.2f GB";
+
+/* (No Comment) */
+"%0.2f KB" = "%0.2f KB";
+
+/* (No Comment) */
+"%0.2f MB" = "%0.2f MB";
+
+/* (No Comment) */
+"%1$@ (%2$d)" = "%1$@ (%2$d)";
+
+/* (No Comment) */
+"%1$@ (%2$g out of %3$@)" = "%1$@ (%2$g van de %3$@)";
+
+/* (No Comment) */
+"%1$@ at %2$@" = "%1$@ in %2$@";
+
+/* (No Comment) */
+"%1$@ is due in %2$@" = "%1$@ moet ingeleverd zijn op %2$@";
+
+/* (No Comment) */
+"%1$@ out of %2$@" = "%1$@ van %2$@";
+
+/* (No Comment) */
+"%1$@%% (%2$g out of %3$@)" = "%1$@%% (%2$g van %3$@)";
+
+/* (No Comment) */
+"%1$@. %2$@. Type: %3$@." = "%1$@. %2$@. Type: %3$@.";
+
+/* (No Comment) */
+"%1$@. %2$@. Type: %3$@. Status: %4$@" = "%1$@. %2$@. Type: %3$@. Status: %4$@";
+
+/* (No Comment) */
+"%1$d %2$@" = "%1$d %2$@";
+
+/* (No Comment) */
+"%1$g out of %2$@" = "%1$g van %2$@";
+
+/* Button to submit files to an assignment */
+"%@ (%d)" = "%1$@ (%2$d)";
+
+/* Message for unsupported tab coming soon */
+"%@ is coming soon!" = "%@ komt binnenkort!";
+
+/* local notification countdown alert */
+"%@ is due in %@" = "%1$@ moet ingeleverd zijn op %2$@";
+
+/* explanation for locked item */
+"%@ is locked" = "%@ is vergrendeld";
+
+/* No comment provided by engineer. */
+"%@ is not a valid URL" = "%@ is geen geldig URL";
+
+/* (No Comment) */
+"%@ is not a valid host" = "%@ is geen geldige host";
+
+/* Message for unsupported tab */
+"%@ is not currently supported." = "%@ wordt momenteel niet ondersteund.";
+
+/* (No Comment) */
+"%@ likes" = "%@ likes";
+
+/* (No Comment) */
+"%@ need grading" = "%@ moet beoordeeld worden";
+
+/* (No Comment) */
+"%@..." = "%@...";
+
+/* A number and a collective noun, like '5 pigs' */
+"%d %@" = "%1$d %2$@";
+
+/* (No Comment) */
+"%d days ago" = "%d dagen geleden";
+
+/* (No Comment) */
+"%d hours ago" = "%d uur geleden";
+
+/* (No Comment) */
+"%d items" = "%d items";
+
+/* (No Comment) */
+"%d minutes ago" = "%d minuten geleden";
+
+/* (No Comment) */
+"%d months ago" = "%d maanden geleden";
+
+/* In the context 'Joe, Fred, ((25 more))' */
+"%d more" = "%d meer";
+
+/* (No Comment) */
+"%d replies" = "%d antwoorden";
+
+/* (No Comment) */
+"%d unread" = "%d ongelezen";
+
+/* (No Comment) */
+"%d years ago" = "%d jaar geleden";
+
+/* (No Comment) */
+"%qu bytes" = "%qu bytes";
+
+/* offset for one day */
+"%tu day" = "%tu dag";
+
+/* offset for number of days */
+"%tu days" = "%tu dagen";
+
+/* offset for an hour */
+"%tu hour" = "%tu uur";
+
+/* offset for number of hours */
+"%tu hours" = "%tu uren";
+
+/* offset for less than one minute */
+"%tu minute" = "%tu minuut";
+
+/* offset for under an hour */
+"%tu minutes" = "%tu minuten";
+
+/* (No Comment) */
+"%u Attachments" = "%u Bijlagen";
+
+/* Label indicating multiple files are attached to a single homework submission. %u will be a positive number, and will not be '1' */
+"%u files" = "%u bestanden";
+
+/* (No Comment) */
+"&quot;%1$@&quot; is locked as part of &quot;%2$@&quot;" = "&quot;%1$@&quot; is vergrendeld als onderdeel van &quot;%2$@&quot;";
+
+/* %@ will be replaced by the filename */
+"'%@' is now ready to submit to assignments" = "%@' is nu klaar om opdrachten in te leveren";
+
+/* (No Comment) */
+"1 Attachment" = "1 bijlage";
+
+/* one day */
+"1 day" = "1 dag";
+
+/* (No Comment) */
+"1 day ago" = "1 dag geleden";
+
+/* one hour */
+"1 hour" = "1 uur";
+
+/* (No Comment) */
+"1 hour ago" = "1 uur geleden";
+
+/* (No Comment) */
+"1 item" = "1 item";
+
+/* (No Comment) */
+"1 like" = "1 like";
+
+/* (No Comment) */
+"1 minute ago" = "1 minuut geleden";
+
+/* (No Comment) */
+"1 month ago" = "1 maand geleden";
+
+/* (No Comment) */
+"1 needs grading" = "1 moet beoordeeld worden";
+
+/* (No Comment) */
+"1 year ago" = "1 jaar geleden";
+
+/* three days */
+"3 days" = "3 dagen";
+
+/* five minutes */
+"5 minutes" = "5 minuten";
+
+/* Name of a tab displaying Canvas Info including legal info */
+"About" = "Over";
+
+/* (No Comment) */
+"Access Denied" = "Toegang geweigerd";
+
+/* Error handling message when a network request has been denied by a server. Specifically with the HTTP 401 error code. */
+"Access denied. Please check your permissions for the action you're trying to complete." = "Toegang geweigerd. Controleer je vergunningen voor de actie die je probeert uit te voeren.";
+
+/* (No Comment) */
+"Add Attachment" = "Bijlage toevoegen";
+
+/* add comment button */
+"Add Comment" = "Opmerking toevoegen";
+
+/* No comment provided by engineer. */
+"Add Cover Photo" = "Omslagfoto toevoegen";
+
+/* No comment provided by engineer. */
+"Add a folder" = "Een map toevoegen";
+
+/* Title for attachment action sheet from rich text view */
+"Add attachment" = "Bijlage toevoegen";
+
+/* No comment provided by engineer. */
+"Add comment" = "Opmerking toevoegen";
+
+/* (No Comment) */
+"Add folder" = "Map toevoegen";
+
+/* (No Comment) */
+"Add inline media" = "Inline media toevoegen";
+
+/* (No Comment) */
+"Add recipients" = "Geadresseerden toevoegen";
+
+/* (No Comment) */
+"All members" = "Alle leden";
+
+/* (No Comment) */
+"An unknown error occurred" = "An unknown error occurred";
+
+/* (No Comment) */
+"Announcement" = "Aankondiging";
+
+/* (No Comment) */
+"Announcements" = "Aankondigingen";
+
+/* Assignment submission type for selecting an Arc video */
+"Arc" = "Arc";
+
+/* (No Comment) */
+"Archive" = "Archiveren";
+
+/* (No Comment) */
+"Archive Selected Messages Button" = "Knop om geselecteerde berichten te archiveren";
+
+/* (No Comment) */
+"Archive all selected messages" = "Alle geselecteerde berichten archiveren";
+
+/* (No Comment) */
+"Archived" = "Gearchiveerd";
+
+/* (No Comment) */
+"Are you ready to logout?" = "Klaar om je af te melden?";
+
+/* Confirmation alert text for submitting an Arc video for an assignment */
+"Are you sure you want to submit this Arc video for this assignment?" = "Weet je zeker dat je deze Arc-video wilt inleveren voor deze opdracht?";
+
+/* (No Comment) */
+"Ask me later" = "Vraag het me later";
+
+/* (No Comment) */
+"Assignment" = "Opdracht";
+
+/* (No Comment) */
+"Assignments" = "Opdrachten";
+
+/* An item for attaching to a discussion */
+"Attachment" = "Bijlage";
+
+/* label for an attachment */
+"Attachment %d" = "Bijlage %d";
+
+/* (No Comment) */
+"Attachment %i" = "Bijlage %i";
+
+/* (No Comment) */
+"Attachments" = "Bijlagen";
+
+/* (No Comment) */
+"Attendance" = "Deelname";
+
+/* Audio file type */
+"Audio" = "Audio";
+
+/* (No Comment) */
+"Audio input hardware not available" = "Audio input hardware niet beschikbaar";
+
+/* Title for an error popup */
+"Authentication error" = "Verificatiefout";
+
+/* Link to building panda avatar */
+"Build Avatar" = "Avatar opbouwen";
+
+/* (No Comment) */
+"Cache cleared" = "Cache gewist";
+
+/* (No Comment) */
+"Calendar" = "Kalender";
+
+/* No comment provided by engineer. */
+"Can't load tool" = "Kan hulpmiddel niet loaden";
+
+/* Setup only allows media but no Kaltura instance error title */
+"Can't submit media" = "Kan media niet indienen";
+
+/* Cancel button title
+   Cancel button title to cancel submitting an Arc video as an assignment submission */
+"Cancel" = "Annuleren";
+
+/* Cancel button title */
+"Cancel Message" = "Bericht annuleren";
+
+/* No comment provided by engineer. */
+"Canvas appears to be unavailable. Please try again later." = "Canvas lijkt niet bereikbaar te zijn. Probeer het later nogmaals.";
+
+/* (No Comment) */
+"Canvas failed to find recipients for your current search. Please try again later." = "Canvas kon geen geadresseerden vinden voor je huidige zoekopdracht. Probeer het later nogmaals.";
+
+/* mobile quze warning info */
+"Canvas quizzes support various assessment styles. Most of these styles are supported on mobile devices; however, some are not. If you attempt to take one of these unsupported quizzes on your phone, you might be unable to complete the entire quiz, leaving you at a disadvantage.\n\nUnsupported question types include questions containing Adobe Flash™ content, and others.\n\nIf you believe that a quiz contains unsupported content, please take it on desktop or laptop computer. If you know that the quiz contains only supported content, feel free to take it on your mobile device." = "Canvas-toetsen ondersteunen verschillende beoordelingsstijlen. De meeste van deze stijlen worden ondersteund op mobiele apparaten; sommige echter niet. Als je een van deze niet-ondersteunde toetsen op je telefoon probeert te doen, lukt het misschien niet om de hele toets te voltooien, wat nadelig voor je is.\n\nNiet-ondersteunde vraagtypen omvatten vragen met Adobe Flash™-content en andere content.\n\nAls je denkt dat een toets niet-ondersteunde content bevat, voer de toets dan uit op een desktop- of laptopcomputer. Als je weet dat de toets alleen ondersteunde content bevat, kun je de toets ook gewoon op je mobiele apparaat uitvoeren.";
+
+/* (No Comment) */
+"Canvas quizzes support various assessment styles. Most of these styles are supported on mobile devices; however, some are not. If you attempt to take one of these unsupported quizzes on your phone, you might be unable to complete the entire quiz, leaving you at a disadvantage.\n\nUnsupported question types include questions containing Adobe Flash™ content, file uploads, and others.\n\nIf you believe that a quiz contains unsupported content, please take it on desktop or laptop computer. If you know that the quiz contains only supported content, feel free to take it on your mobile device." = "Canvas toetsen ondersteunen verschillende beoordelingsstijlen. De meeste van deze stijlen worden ondersteund op mobiele apparaten; maar andere niet. Als je een van deze niet-ondersteunde toetsen op je telefoon probeert te doen, lukt het misschien niet om de hele toets te voltooien, wat nadelig voor je is.\n\n\nNiet-ondersteunde vraagsoorten zijn onder andere vragen met Adobe Flash™-content, uploads van bestanden en andere.\n\nAls je denkt dat een toets niet-ondersteunde content bevat, doe het dan op een desktop of laptop. Als je weet dat de toets alleen ondersteunde content bevat, aarzel dan niet hem op je mobiele apparaat te doen.";
+
+/* button to change user's profile image */
+"Change Profile Image" = "Profielafbeelding veranderen";
+
+/* (No Comment) */
+"Change User" = "Gebruiker wijzigen";
+
+/* Button label for choosing a photo */
+"Choose Photo" = "Foto kiezen";
+
+/* No comment provided by engineer. */
+"Choose Profile Picture" = "Profielfoto kiezen";
+
+/* Choose a video to send as a comment */
+"Choose Video" = "Video kiezen";
+
+/* No comment provided by engineer. */
+"Choose a name for the new folder" = "Een naam voor de nieuwe map kiezen";
+
+/* (No Comment) */
+"Choose a name for the new folder." = "Een naam voor de nieuwe map kiezen.";
+
+/* No comment provided by engineer. */
+"Choose a submission type" = "Een indieningstype kiezen";
+
+/* Choose an existing picture or video to use in a comment. */
+"Choose from Library..." = "Kiezen uit bibliotheek...";
+
+/* action sheet text for picking video from library */
+"Choose video" = "Video kiezen";
+
+/* Close the window */
+"Close" = "Sluiten";
+
+/* (No Comment) */
+"Closed for Comments" = "Gesloten voor commentaar";
+
+/* Title for Collaborations tab */
+"Collaborations" = "Samenwerkingen";
+
+/* Add message button for teacher or ta */
+"Comment" = "Opmerking";
+
+/* title for media comment upload failure */
+"Comment Error" = "Fout in opmerking";
+
+/* (No Comment) */
+"Comments" = "Opmerkingen";
+
+/* (No Comment) */
+"Comments are disabled" = "Opmerkingen zijn uitgeschakeld";
+
+/* (No Comment) */
+"Complete" = "Voltooien";
+
+/* (No Comment) */
+"Completed" = "Voltooid";
+
+/* (No Comment) */
+"Compose Message Button" = "Knop voor bericht opstellen";
+
+/* (No Comment) */
+"Compose a message" = "Een bericht opstellen";
+
+/* Title for Conferences tab */
+"Conferences" = "Conferenties";
+
+/* Confirm an arc video submission for an assignment */
+"Confirm Submission" = "Inlevering bevestigen";
+
+/* (No Comment) */
+"Confirm deletion" = "Verwijdering bevestigen";
+
+/* Button title for selecting to continue on to quiz. The will appear in the alert view notfifying the user of mobile quiz limitations. */
+"Continue" = "Doorgaan";
+
+/* No comment provided by engineer. */
+"Could not authenticate with server" = "Kan niet verifiëren met server";
+
+/* error title for failure to load a file submission */
+"Couldn't Load Submission" = "Kon indiening niet loaden";
+
+/* (No Comment) */
+"Couldn't find recipients" = "Kon geadresseerden niet vinden";
+
+/* Title for Course Syllabus view controller */
+"Course Syllabus" = "Cursus Syllabus";
+
+/* (No Comment) */
+"Courses" = "Cursussen";
+
+/* Cancel button title */
+"Create Folder" = "Map aanmaken";
+
+/* Header for a section showing submitted filenames */
+"Current Submission" = "Huidige indiening";
+
+/* Message telling users that quiz support on mobile is limited */
+"Currently there is limited quiz support on mobile" = "Er is momenteel beperkte ondersteuning voor toetsen op mobiele apparaten";
+
+/* (No Comment) */
+"Custom Grade" = "Aangepast cijfer";
+
+/* (No Comment) */
+"Customize" = "Aanpassen";
+
+/* Default delete button MLVC */
+"Delete" = "Verwijderen";
+
+/* (No Comment) */
+"Delete (%d)" = "Verwijderd (%d)";
+
+/* (No Comment) */
+"Delete this reply?" = "Dit antwoord verwijderen?";
+
+/* delete file confirmation alert */
+"Deleted file: \"%@\"" = "Verwijderd bestand: \"%@\"";
+
+/* (No Comment) */
+"Deleted file: &quot;%@&quot;" = "Verwijderd bestand: &quot;%@&quot;";
+
+/* No comment provided by engineer. */
+"Detail" = "Detail";
+
+/* (No Comment) */
+"Details" = "Details";
+
+/* (No Comment) */
+"Discard" = "Negeren";
+
+/* (No Comment) */
+"Discard this entry?" = "Deze invoering negeren?";
+
+/* (No Comment) */
+"Discussion" = "Discussie";
+
+/* Title for discussion entry submission */
+"Discussion Entry" = "Discussie invoering";
+
+/* (No Comment) */
+"Discussion Topics" = "Discussie-onderwerpen";
+
+/* (No Comment) */
+"Discussions" = "Discussies";
+
+/* Dismiss button title
+   uialertaction button name for dismissing the failed refresh error message */
+"Dismiss" = "Verwijderen";
+
+/* Alert title asking if you want to masquerade */
+"Do you want to masquerade as this user?" = "Wil je masker toepassen als deze gebruiker?";
+
+/* The domain for the institution/school that the user is currently using */
+"Domain" = "Domein";
+
+/* (No Comment) */
+"Don't ask me again" = "Vraag het mij niet nogmaals";
+
+/* (No Comment) */
+"Don't delete" = "Niet verwijderen";
+
+/* (No Comment) */
+"Done" = "Klaar";
+
+/* Shown when we cancel a file download */
+"Download Canceled" = "Download geannuleerd";
+
+/* Shown while downloading a file */
+"Downloading..." = "Downloaden...";
+
+/* (No Comment) */
+"Due:" = "Inleverdatum:";
+
+/* (No Comment) */
+"Due: %1$@ at %2$@" = "Inleverdatum: %1$@ om %2$@";
+
+/* Due date label indicating when an assignment is due */
+"Due: %@" = "Inleverdatum: %@";
+
+/* Link to the End User License Agreement document */
+"EULA" = "EULA";
+
+/* (No Comment) */
+"Edit" = "Bewerken";
+
+/* (No Comment) */
+"Edit Course List" = "Cursuslijst bewerken";
+
+/* (No Comment) */
+"Edit Group List" = "Groepslijst bewerken";
+
+/* (No Comment) */
+"Edit items" = "Items bewerken";
+
+/* (No Comment) */
+"Editing reply by %1$@, %2$@" = "Antwoord bewerken voor %1$@, %2$@";
+
+/* the users email */
+"Email" = "E-mail";
+
+/* (No Comment) */
+"Enable Push Notifications" = "Push berichtgevingen inschakelen";
+
+/* (No Comment) */
+"Enter User ID and Domain." = "Gebruikers ID en domein invoeren";
+
+/* No comment provided by engineer. */
+"Enter folder name" = "Mapnaam invoeren";
+
+/* Submission input view placeholder text */
+"Enter submission" = "Indiening invoeren";
+
+/* (No Comment) */
+"Entry posted" = "Invoer geplaatst";
+
+/* Title for an error popup */
+"Error" = "Fout";
+
+/* (No Comment) */
+"Error adding recipeints" = "Fout bij het toevoegen van ontvangers";
+
+/* Error deleting file alert view title */
+"Error deleting file \"%@\"" = "Fout bij het verwijderen van bestand \"%@\"";
+
+/* (No Comment) */
+"Error deleting file &quot;%@&quot;" = "Fout bij verwijderen van bestand &quot;%@&quot;";
+
+/* Error deleting folder alert view title */
+"Error deleting folder" = "Fout bij het verwijderen van map";
+
+/* (No Comment) */
+"Event" = "Evenement";
+
+/* No comment provided by engineer. */
+"Existing Attachments..." = "Bestaande bijlagen...";
+
+/* Title for an external tool submission */
+"External Tool" = "Extern hulpmiddel";
+
+/* (No Comment) */
+"External URL" = "Extern URL";
+
+/* Error title for refresh failing on an MLVC tableview controller */
+"Failed to load" = "Laden mislukt";
+
+/* (No Comment) */
+"File" = "Bestand";
+
+/* (No Comment) */
+"File extension not allowed: %@" = "Bestand extensie niet toegestaan:  %@";
+
+/* (No Comment) */
+"File extension(s) permitted for this assignment:" = "Bestandextensie(s) toegestaan voor deze opdracht:";
+
+/* No comment provided by engineer. */
+"File received" = "Bestand ontvangen";
+
+/* (No Comment) */
+"File unavailable" = "Bestand niet beschikbaar";
+
+/* File upload submission type */
+"File upload" = "Bestand upload";
+
+/* (No Comment) */
+"File upload failed." = "Bestand upload mislukt.";
+
+/* Title for the files screen */
+"Files" = "Bestanden";
+
+/* No comment provided by engineer. */
+"Final Grade" = "Eindcijfer";
+
+/* Shown when we finish downloading a file */
+"Finished downloading" = "Downloaden voltooid";
+
+/* (No Comment) */
+"Front Page" = "Voorpagina";
+
+/* No comment provided by engineer. */
+"Future" = "Toekomst";
+
+/* title for discussion assignment submission button */
+"Go To Discussion" = "Ga naar discussie";
+
+/* (No Comment) */
+"Go to App Store" = "Ga naar App Store";
+
+/* (No Comment) */
+"Go to Quiz" = "Ga naar toets";
+
+/* (No Comment) */
+"Go to discussion" = "Ga naar discussie";
+
+/* No comment provided by engineer. */
+"Grade" = "Cijfer";
+
+/* (No Comment) */
+"Grade %@" = "Cijfer %@";
+
+/* (No Comment) */
+"Grade in SpeedGrader" = "Cijfer in SpeedGrader";
+
+/* (No Comment) */
+"Grade: %1$i / %2$g" = "Cijfer: %1$i / %2$g";
+
+/* (No Comment) */
+"Grade: %@" = "Cijfer: %@";
+
+/* (No Comment) */
+"Graded Discussion" = "Beoordeelde discussie";
+
+/* (No Comment) */
+"Graded discussion." = "Beoordeelde discussie.";
+
+/* (No Comment) */
+"Graded discussion. %g points possible." = "Beoordeelde discussie. %g punten mogelijk.";
+
+/* (No Comment) */
+"Grades" = "Cijfers";
+
+/* (No Comment) */
+"Group conversation" = "Groepsgesprek";
+
+/* (No Comment) */
+"Groups" = "Groepen";
+
+/* (No Comment) */
+"Help" = "Help";
+
+/* (No Comment) */
+"Hide Grades" = "Cijfers verbergen";
+
+/* (No Comment) */
+"How do you like Canvas?" = "Wat vind je van Canvas?";
+
+/* (No Comment) */
+"I give you back your time, use it wisely." = "Ik geef je je tijd terug, gebruik het verstandig.";
+
+/* Image file type */
+"Image" = "Afbeelding";
+
+/* No comment provided by engineer. */
+"Import from Dropbox" = "Importeren van Dropbox";
+
+/* No comment provided by engineer. */
+"Import from camera" = "Importeren van camera";
+
+/* (No Comment) */
+"Inbox" = "Postbus";
+
+/* (No Comment) */
+"Incomplete" = "Onvolledig";
+
+/* (No Comment) */
+"Individual messages" = "Individuele berichten";
+
+/* (No Comment) */
+"Invalid URL" = "Ongeldig URL";
+
+/* (No Comment) */
+"It has problems" = "Er zijn problemen";
+
+/* (No Comment) */
+"Item %1$d of %2$d" = "Item %1$d of %2$d";
+
+/* No comment provided by engineer. */
+"Item %d of %d" = "Item %1$d of %2$d";
+
+/* (No Comment) */
+"It’s empty, what are you still doing here." = "Het is leeg, wat doe je hier nog .";
+
+/* (No Comment) */
+"Jumps to current day on calendar" = "Gaat naar huidige dag op kalender";
+
+/* (No Comment) */
+"Keep" = "Houden";
+
+/* Title for an LTI launch submitted as an assignment */
+"LTI Tool" = "LTI Tool";
+
+/* (No Comment) */
+"Landing Page" = "Landingspagina";
+
+/* (No Comment) */
+"Large file" = "Groot bestand";
+
+/* No comment provided by engineer. */
+"Late Penalty" = "Sanctie indien te laat";
+
+/* (No Comment) */
+"Later" = "Later";
+
+/* title for submission button */
+"Launch External Tool" = "Extern hulpmiddel lanceren";
+
+/* Title for legal section on the about page */
+"Legal" = "Juridisch";
+
+/* (No Comment) */
+"Loading..." = "Bezig met laden...";
+
+/* (No Comment) */
+"Locked" = "Vergrendeld";
+
+/* (No Comment) */
+"Locked until %@" = "Vergrendeld tot %@";
+
+/* Typically the email address correlated to the user */
+"Login ID" = "Aanmeldings-id";
+
+/* (No Comment) */
+"Login Problem" = "Inlogprobleem";
+
+/* (No Comment) */
+"Logout" = "Afmelden";
+
+/* (No Comment) */
+"Love it!" = "Ik vind het geweldig!";
+
+/* (No Comment) */
+"Mark as Done" = "Als voltooid markeren";
+
+/* Button title for beginning masquerading */
+"Masquerade" = "Masker toepassen";
+
+/* (No Comment) */
+"Me" = "Mij";
+
+/* (No Comment) */
+"Media Comment" = "Media opmerking";
+
+/* Title for a media submission */
+"Media Submission" = "Media indiening";
+
+/* (No Comment) */
+"Media comment" = "Media opmerking";
+
+/* Media recording submission type */
+"Media recording" = "Media opname";
+
+/* (No Comment) */
+"Media type selector. %@" = "Media type selector. %@";
+
+/* Add message button */
+"Message Instructor" = "Bericht instructeur";
+
+/* (No Comment) */
+"Message Sent." = "Bericht verzonden.";
+
+/* (No Comment) */
+"Message everyone separately, or add everyone to a group conversation?" = "Iedereen apart een bericht sturen, of iedereen toevoegen aan groepconversatie?";
+
+/* (No Comment) */
+"Messages" = "Berichten";
+
+/* Warnging for taking quizzes on a mobile device */
+"Mobile Quiz Warning" = "Mobiele toets waarschuwing";
+
+/* (No Comment) */
+"Modules" = "Modules";
+
+/* Button title for selecting to view more info about the limitations of mobile quizzes */
+"More Info" = "Meer info";
+
+/* (No Comment) */
+"Multiple Due Dates" = "Verschillende inleverdatums";
+
+/* (No Comment) */
+"Must contribute" = "Moet bijdragen";
+
+/* (No Comment) */
+"Must mark as done" = "Moet als voltooid markeren";
+
+/* (No Comment) */
+"Must score %@ or higher" = "Moet %@ of hoger scoren";
+
+/* (No Comment) */
+"Must submit" = "Moet indienen";
+
+/* (No Comment) */
+"Must view" = "Moet bekijken";
+
+/* (No Comment) */
+"My Files" = "Mijn bestanden";
+
+/* the users name */
+"Name" = "Naam";
+
+/* (No Comment) */
+"Need SpeedGrader for iPad" = "SpeedGrader nodig voor iPad";
+
+/* Network error title */
+"Network Error" = "Netwerkfout";
+
+/* No comment provided by engineer. */
+"New Folder" = "Nieuwe map";
+
+/* No comment provided by engineer. */
+"Next 7 Days" = "Volgende 7 dagen";
+
+/* No comment provided by engineer. */
+"Next item" = "Volgende item";
+
+/* (No Comment) */
+"No" = "Nee";
+
+/* No comment provided by engineer. */
+"No Date" = "Geen datum";
+
+/* (No Comment) */
+"No Due Date" = "Geen inleverdatum";
+
+/* Title for attempting submission without a comment */
+"No Recorded Audio" = "Geen opgenomen audio";
+
+/* No Submission groupong */
+"No Submission" = "Geen indiening";
+
+/* (No Comment) */
+"No Thanks" = "Nee, bedankt";
+
+/* Text of alert when attempting to select a file that can't be printed or passed to any other app */
+"No actions available for this file" = "Geen handelingen mogelijk voor dit bestand";
+
+/* Message for attempting submission without a comment */
+"No audio was recorded." = "Geen audio opgenomen.";
+
+/* Indicates an assignment does not have a due date
+   String for when assignment has no due date */
+"No due date" = "Geen inleverdatum";
+
+/* Error message */
+"No installed apps support opening this file" = "Geen geïnstalleerde apps die het openen van dit bestand ondersteunen";
+
+/* (No Comment) */
+"No recipients" = "Geen geadresseerden";
+
+/* (No Comment) */
+"No results found" = "Geen resultaten aangetroffen";
+
+/* (No Comment) */
+"Not Authorized" = "Niet toegestaan";
+
+/* (No Comment) */
+"Not Complete" = "Niet volledig";
+
+/* No comment provided by engineer. */
+"Not available" = "Niet beschikbaar";
+
+/* (No Comment) */
+"Not graded" = "Niet beoordeeld";
+
+/* (No Comment) */
+"Not graded (0 out of %@)" = "Niet beoordeeld (0 van %@)";
+
+/* (No Comment) */
+"Note: Media files are not immediately available for playback while they are processed on the server." = "Let op: Mediabestanden zijn niet direct beschikbaar om af te spelen als ze op de server bewerkt worden.";
+
+/* (No Comment) */
+"Nothing to do, go play outside!" = "Niks te doen, ga buiten spelen!";
+
+/* (No Comment) */
+"Nothing to see here." = "Niets te zien hier.";
+
+/* (No Comment) */
+"Notification" = "Berichtgeving";
+
+/* (No Comment) */
+"Notification Preferences" = "Voorkeuren berichtgeving";
+
+/* (No Comment) */
+"Notifications" = "Berichtgevingen";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Observer" = "Waarnemer";
+
+/* (No Comment) */
+"Ok" = "Ok";
+
+/* Online URL submission type */
+"Online URL" = "Online URL";
+
+/* Title for an error alert */
+"Oops!" = "Oeps!";
+
+/* Link to Open Source Components */
+"Open Source Components" = "Open Source-onderdelen";
+
+/* Open a document in the application Safari */
+"Open in Safari" = "Openen in Safari";
+
+/* (No Comment) */
+"Open in SpeedGrader" = "Openen in SpeedGrader";
+
+/* Open file in another application */
+"Open in..." = "Openen in...";
+
+/* No comment provided by engineer. */
+"Other" = "Overig";
+
+/* (No Comment) */
+"Other replies hidden until you reply" = "Andere antwoorden verborgen totdat je antwoordt";
+
+/* Title for Outcomes tab */
+"Outcomes" = "Resultaten";
+
+/* (No Comment) */
+"Page" = "Pagina";
+
+/* No comment provided by engineer. */
+"Past" = "Verleden";
+
+/* Title for the people view */
+"People" = "Mensen";
+
+/* (No Comment) */
+"Pinned Discussions" = "Gepinde discussies";
+
+/* (No Comment) */
+"Play" = "Afspelen";
+
+/* Network error message */
+"Please check your network connection and try again." = "Controleer je netwerkverbinding en probeer nogmaals.";
+
+/* No comment provided by engineer. */
+"Post" = "Plaatsen";
+
+/* (No Comment) */
+"Post Comment" = "Opmerking plaatsen";
+
+/* No comment provided by engineer. */
+"Post comment" = "Opmerking plaatsen";
+
+/* (No Comment) */
+"Posting…" = "Aan het plaatsen...";
+
+/* (No Comment) */
+"Posts your comment" = "Plaatst je opmerking";
+
+/* No comment provided by engineer. */
+"Previous item" = "Vorige item";
+
+/* Link to the privacy policy */
+"Privacy Policy" = "Privacybeleid";
+
+/* Title for profile screen */
+"Profile" = "Profiel";
+
+/* A short test taken by students */
+"Quiz" = "Toets";
+
+/* Title for alert notifying users that support for quizzes on mobile is limited. */
+"Quiz Alert" = "Toets waarschuwing";
+
+/* The title for the list of quizzes for a course */
+"Quizzes" = "Toetsen";
+
+/* (No Comment) */
+"Rate on App Store" = "Beoordelen in de App Store";
+
+/* (No Comment) */
+"Rating for %1$@, Score: %2$g" = "Beoordeling voor %1$@, score: %2$g";
+
+/* Title for a button allowing user to re-submit files for an assignment */
+"Re-submit Assignment" = "Opdracht opnieuw indienen";
+
+/* (No Comment) */
+"Recipients" = "Geadresseerden";
+
+/* (No Comment) */
+"Record" = "Opnemen";
+
+/* Record audio submission comment */
+"Record Audio" = "Audio opnemen";
+
+/* Record audio to use in a comment. */
+"Record Audio..." = "Audio opnemen...";
+
+/* Record video submission comment option */
+"Record Video" = "Video opnemen";
+
+/* No comment provided by engineer. */
+"Record audio" = "Audio opnemen";
+
+/* No comment provided by engineer. */
+"Record video" = "Video opnemen";
+
+/* (No Comment) */
+"Refresh Button" = "Verversknop";
+
+/* (No Comment) */
+"Refreshes the calendar content" = "Ververst de inhoud van de kalender";
+
+/* (No Comment) */
+"Refreshing Calendar Events" = "Kalenderevenementen aan het verversen";
+
+/* Confirmation for removing a file */
+"Remove" = "Verwijderen";
+
+/* Button title for confirming a file deletion */
+"Remove this file?" = "Dit bestand verwijderen?";
+
+/* (No Comment) */
+"Report a problem" = "Een probleem melden";
+
+/* (No Comment) */
+"Request a feature" = "Een functie aanvragen";
+
+/* (No Comment) */
+"Rubric" = "Rubriek";
+
+/* (No Comment) */
+"Save" = "Opslaan";
+
+/* Title for Assignment Notifications Sheet */
+"Schedule Notification" = "Een berichtgeving plannen";
+
+/* (No Comment) */
+"Search for recipients" = "Geadresseerden zoeken";
+
+/* Title for a file picker window */
+"Select file(s)" = "Bestand(en) selecteren";
+
+/* No comment provided by engineer. */
+"Select or deselect" = "Selecteren of selectie ongedaan maken";
+
+/* No comment provided by engineer. */
+"Selected" = "Geselecteerd";
+
+/* (No Comment) */
+"Send" = "Verzenden";
+
+/* (No Comment) */
+"Send %@ a message" = "Een bericht sturen naar %@ ";
+
+/* No comment provided by engineer. */
+"Send Message" = "Bericht sturen";
+
+/* (No Comment) */
+"Sent" = "Verzonden";
+
+/* Title for Settings */
+"Settings" = "Instellingen";
+
+/* (No Comment) */
+"Show Grades" = "Cijfers tonen";
+
+/* title for quiz assignment submission button */
+"Show Quiz" = "Toets tonen";
+
+/* (No Comment) */
+"Show file" = "Bestand tonen";
+
+/* (No Comment) */
+"Show recipients" = "Geadresseerden tonen";
+
+/* (No Comment) */
+"Some items could not be deleted" = "Enkele items konden niet verwijderd worden";
+
+/* (No Comment) */
+"Some selected folders are not empty. Are you sure you want to delete them?" = "Enkele geselecteerde mappen zijn niet leeg. Weet je zeker dat je ze wilt verwijderen?";
+
+/* 404 Error for missing assignment */
+"Sorry, we couldn't find the assignment. This assignment may have been deleted." = "We konden de opdracht helaas niet vinden. Deze opdracht is mogelijk verwijderd.";
+
+/* (No Comment) */
+"Starts playing your recording" = "Je opname begint af te spelen";
+
+/* (No Comment) */
+"Starts recording a media comment" = "Een media opmerking wordt opgenomen";
+
+/* (No Comment) */
+"Stay Logged In" = "Blijf ingelogd";
+
+/* Stop loading button for webview */
+"Stop" = "Stoppen";
+
+/* (No Comment) */
+"Stop Masquerading" = "Masker toepassen stoppen";
+
+/* (No Comment) */
+"Stops playing your recording" = "Afspelen van je opname stopt.";
+
+/* (No Comment) */
+"Stops recording a media comment" = "Opnemen media opmerking stopt";
+
+/* No comment provided by engineer. */
+"Student" = "Cursist";
+
+/* (No Comment) */
+"Sub Header" = "Sub Header";
+
+/* No comment provided by engineer. */
+"Submission" = "Indiening";
+
+/* Title for file submission error */
+"Submission Error" = "Indieningsfout";
+
+/* (No Comment) */
+"Submission complete" = "Indiening voltooid";
+
+/* Submit Arc video as assignment button */
+"Submit" = "Indienen";
+
+/* Submitted grouping */
+"Submitted" = "Ingediend";
+
+/* (No Comment) */
+"Submitting..." = "Aan het indienen....";
+
+/* Subscribe to calendar feed allows the user to export their calendar events to a 3rd party calendar */
+"Subscribe to calendar feed" = "Abonneren op kalender feed";
+
+/* Masquerade success title */
+"Success!" = "Succes!";
+
+/* (No Comment) */
+"Sure!" = "Zeker!";
+
+/* (No Comment) */
+"Switches media input between audio and video. Currently set to %@" = "Schakelt media input om tussen audio en video. Momenteel ingesteld op %@";
+
+/* (No Comment) */
+"Switches to media comment mode" = "Schakelt om naar media opmerking modus";
+
+/* (No Comment) */
+"Switches to text comment mode" = "Schakelt om naar tekst opmerking modus";
+
+/* Title for Syllabus screen */
+"Syllabus" = "Syllabus";
+
+/* (No Comment) */
+"TA" = "Leraar assistenten";
+
+/* No comment provided by engineer. */
+"TAs" = "Leraar assistent";
+
+/* Button label for taking a photo */
+"Take Photo" = "Foto maken";
+
+/* Take a picture or video to use in a comment. */
+"Take Photo or Video..." = "Foto of video maken...";
+
+/* Take a picture to use in a comment. */
+"Take a Photo..." = "Een foto maken...";
+
+/* Take a video to use in a comment. */
+"Take a Video..." = "Een video maken...";
+
+/* (No Comment) */
+"Tap to try again" = "Tik om nogmaals te proberen";
+
+/* (No Comment) */
+"Teacher" = "Leraar";
+
+/* No comment provided by engineer. */
+"Teachers" = "Leraren";
+
+/* (No Comment) */
+"Tell us what's wrong" = "Vertel ons wat er mis is";
+
+/* Link to the Terms of Use */
+"Terms of Use" = "Gebruiksvoorwaarden";
+
+/* (No Comment) */
+"Text Comment" = "Tekst opmerking";
+
+/* Title for a text submission cell */
+"Text Submission" = "Tekst indieningen";
+
+/* Text entry submission type */
+"Text entry" = "Tekst invoer";
+
+/* (No Comment) */
+"The recipients could not be added. Please try again. (%@)" = "De geadresseerden konden niet worden toegevoegd. Probeer het nogmaals (%@)";
+
+/* (No Comment) */
+"The server could not be reached" = "De server kon niet bereikt worden";
+
+/* (No Comment) */
+"The server you entered is not authorized for this app." = "De server die je invoerde heeft geen toestemming voor deze app.";
+
+/* (No Comment) */
+"The user agent for this app is unauthorized." = "De gebruikersagent voor deze app heeft geen toestemming.";
+
+/* Error message */
+"There are no actions for this item" = "Er zijn geen handelingen voor dit item";
+
+/* (No Comment) */
+"There are no items to display" = "Er zijn geen items om te tonen";
+
+/* message for media comment upload failure */
+"There was a network error posting your comment." = "Er was een netwerkfout bij het publiceren van je opmerking.";
+
+/* message for failed submission upload */
+"There was a network problem while attempting to upload your submission" = "Er was een netwerkfout bij het uploaden van je indiening";
+
+/* Error message when fetching a file fails */
+"There was a problem accessing the requested file.\n\nError: %@" = "Er was een probleem bij de toegang tot het verzochte bestand.\n\nFout: %@";
+
+/* No comment provided by engineer. */
+"There was a problem launching Safari" = "Er was een probleem bij het lanceren van Safari";
+
+/* Web browser error handling message */
+"There was an error loading the document." = "Er was een probleem bij het laden van het document.";
+
+/* No comment provided by engineer. */
+"There was an error loading your content. If it is an audio or video upload it may still be processing." = "Er was een probleem bij het laden van je content. Als het een audio of video upload is, wordt het misschien nog verwerkt.";
+
+/* (No Comment) */
+"This app is not authorized for use." = "Deze app mag niet gebruikt worden.";
+
+/* No comment provided by engineer. */
+"This assignment doesn't appear to be a valid external tool or is misconfigured." = "Deze opdracht lijkt geen geldig extern  hulpmiddel te zijn of is verkeerd geconfigureerd.";
+
+/* message displayed in the details section if there is no comment. */
+"This assignment has no details." = "Deze opdracht heeft geen details.";
+
+/* Error message for refresh failing with an unauthorized code */
+"This can happen if your course hasn't started yet or you don't have permission to access this page." = "Dit kan gebeuren als je cursus nog niet is begonnen of als je geen toestemming hebt om deze pagina te openen.";
+
+/* (No Comment) */
+"This entry has been deleted" = "Deze invoer is verwijderd";
+
+/* Text indicating a file cannot be previewed */
+"This file cannot be displayed on this device." = "Dit bestand kan niet getoond worden op dit apparaat.";
+
+/* (No Comment) */
+"This file is locked" = "Dit bestand is vergrendeld";
+
+/* (No Comment) */
+"This folder is locked" = "Deze map is vergrendeld";
+
+/* (No Comment) */
+"This is a media message." = "Dit is een media bericht.";
+
+/* (No Comment) */
+"This would be a great time to do some extra credit." = "Dit is een goede tijd voor wat extra punten.";
+
+/* (No Comment) */
+"To Do" = "Te doen";
+
+/* (No Comment) */
+"To:" = "Aan:";
+
+/* No comment provided by engineer. */
+"Today" = "Vandaag";
+
+/* (No Comment) */
+"Today Button" = "Knop Vandaag";
+
+/* No comment provided by engineer. */
+"Toggles selection of current item" = "Schakelt selectie van huidig item aan en uit";
+
+/* No comment provided by engineer. */
+"Toggles selection of item" = "Schakelt selectie van item aan en uit";
+
+/* title for assignment submission button */
+"Turn In" = "Inleveren";
+
+/* title for re-submitting an assignment */
+"Turn In Again" = "Opnieuw inleveren";
+
+/* (No Comment) */
+"Turn in %@" = "%@ inleveren";
+
+/* (No Comment) */
+"Uh-oh! No Internet Connection" = "O nee! Geen internetverbinding";
+
+/* (No Comment) */
+"Unable to load" = "Kan niet laden";
+
+/* (No Comment) */
+"Unable to post. Please try again later" = "Kan niet plaatsen. Probeer het later nogmaals.";
+
+/* message saying that avatar couldn't be loaded to server */
+"Unable to upload to server" = "Kan niet naar server uploaden";
+
+/* Error message for refresh failing on an MLVC tableview controller */
+"Unauthorized" = "Niet-gemachtigd";
+
+/* (No Comment) */
+"Unavailable" = "Niet beschikbaar";
+
+/* (No Comment) */
+"Ungraded" = "Niet beoordeeld";
+
+/* Unknown file type */
+"Unknown" = "Onbekend";
+
+/* (No Comment) */
+"Unread" = "Ongelezen";
+
+/* (No Comment) */
+"Unsaved Reply" = "Niet opgeslagen antwoord";
+
+/* Button title for uploading a file */
+"Upload" = "Uploaden";
+
+/* (No Comment) */
+"Upload Error" = "Fout bij uploaden";
+
+/* No comment provided by engineer. */
+"Upload a file" = "Een bestand uploaden";
+
+/* (No Comment) */
+"Upload failed. Reason: (%@)" = "Uploaden mislukt Reden: (%@)";
+
+/* (No Comment) */
+"Upload file" = "Bestand uploaden";
+
+/* Error message */
+"Upload to assignment \"%@\" failed" = "Uploaden naar opdracht \"%@\" mislukt";
+
+/* (No Comment) */
+"Upload to assignment &quot;%@&quot; failed" = "Uploaden naar opdracht &quot;%@&quot; mislukt";
+
+/* (No Comment) */
+"Upload to folder &quot;%@&quot; failed" = "Uploaden naar map &quot;%@&quot; mislukt";
+
+/* button for using the recorded audio */
+"Use" = "Gebruiken";
+
+/* (No Comment) */
+"User ID" = "Gebruikers-id";
+
+/* Title for User Info section on the about page */
+"User Info" = "Gebruikersinfo";
+
+/* Video file type */
+"Video" = "Video";
+
+/* (No Comment) */
+"Video error" = "Fout in video";
+
+/* (No Comment) */
+"View" = "Bekijken";
+
+/* (No Comment) */
+"Warning" = "Waarschuwing";
+
+/* error message for failure to load a file submission */
+"We had a problem loading the submission. Please try again later." = "Er was een probleem bij het laden van de indiening. Probeer het later nogmaals.";
+
+/* (No Comment) */
+"We were unable to verify the server for use with this app." = "We konden de server voor gebruik met deze app niet verifiëren.";
+
+/* Error Title */
+"Whoops!" = "Oeps!";
+
+/* (No Comment) */
+"Will unlock %@." = "Zal %@ ontgrendelen.";
+
+/* (No Comment) */
+"Would you like to create a new message?" = "Wil je een nieuw bericht aanmaken?";
+
+/* (No Comment) */
+"Would you mind giving us a rating on the app store?" = "Zou je ons willen beoordelen in de app store?";
+
+/* (No Comment) */
+"Would you mind letting us know the problems you have been having with the app?" = "Wil je ons op de hoogte stellen van de problemen die je met de app hebt?";
+
+/* (No Comment) */
+"Yes" = "Ja";
+
+/* (No Comment) */
+"You are now masquerading as %@" = "Je hebt nu een masker toegepast als %@";
+
+/* Masquerade success message */
+"You are now masquerading as %@. To Stop Masquerading go to your Profile." = "Je hebt nu een masker toegepast als %@. Om masker toepassen te stoppen ga je naar je Profiel.";
+
+/* (No Comment) */
+"You do not have SpeedGrader for iPad. You can download it for free from the App Store." = "Je hebt geen SpeedGrader voor iPad. Je kunt het gratis downloaden van de App Store.";
+
+/* (No Comment) */
+"You do not have access to this content. The Course or Group may not have started, or may have been concluded." = "Je hebt geen toegang tot deze inhoud. De cursus of groep is misschien nog niet begonnen, of misschien al afgelopen.";
+
+/* (No Comment) */
+"You do not have permission to delete this reply" = "Je hebt geen toestemming om dit antwoord te verwijderen";
+
+/* Masquerade error message */
+"You don't have permission to masquerade as this user or there is no user with that ID" = "Je hebt geen toestemming om masker toe te passen als deze gebruiker of er is geen gebruiker met die id";
+
+/* (No Comment) */
+"You have an unsaved reply. Would you like to discard that reply?" = "Je hebt een niet opgeslagen antwoord. Wil je dat antwoord negeren?";
+
+/* An explanation of how to transfer files to the Canvas app. */
+"You have no files available for upload. To add files from other apps, find a file in another app, then find the \"Open In\" button to open it in Canvas. You can also tap and hold on attachments in the Mail app to open them in Canvas." = "Er zijn geen bestanden beschikbaar om te uploaden. Als je bestanden uit andere apps wilt toevoegen, zoek je naar een bestand in een andere app en selecteer je de knop \"Openen in\" om het bestand te openen in Canvas. Je kunt ook bijlagen in de Mail-app selecteren om deze in Canvas te openen.";
+
+/* (No Comment) */
+"You must first complete:" = "Je moet eerst voltooien:";
+
+/* (No Comment) */
+"You need a title and a description to post" = "Je hebt een titel en een beschrijving nodig om te plaatsen";
+
+/* (No Comment) */
+"You should go rate Canvas on the App Store!" = "Ga Canvas eens beoordelen in de App Store!";
+
+/* (No Comment) */
+"Your files could not be found" = "Je bestanden konden niet gevonden worden";
+
+/* Media submission type selected with no Kaltura set up */
+"Your school's configuration does not allow the type of submission selected for this assignment" = "De configuratie van je school staat het geselecteerde soort indiening voor deze opdracht niet toe.";
+
+/* (No Comment) */
+"due on %1$@ at %2$@" = " In te leveren op %1$@ om %2$@";
+
+/* (No Comment) */
+"moments ago" = "zojuist";
+
+/* No comment provided by engineer. */
+"out of" = "van";
+
+/* (No Comment) */
+"out of %@" = "van %@";
+
+/* (No Comment) */
+"out of %@ points" = "van %@ punten";
+
+/* (No Comment) */
+"photo" = "foto";
+
+/* (No Comment) */
+"unknown" = "onbekend";
+
+/* (No Comment) */
+"until %@" = "tot %@";
+

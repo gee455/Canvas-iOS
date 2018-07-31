@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddressBook renders 1`] = `
+<Screen
+  drawUnderNavBar={true}
+  rightBarButtons={
+    Array [
+      Object {
+        "action": [Function],
+        "testID": "address-book.cancel",
+        "title": "Cancel",
+      },
+    ]
+  }
+  title="Address Book Course"
+>
+  <View
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <FlatList
+      ItemSeparatorComponent={[Function]}
+      ListEmptyComponent={
+        <ListEmptyComponent
+          title="No results"
+        />
+      }
+      ListHeaderComponent={
+        <TypeAheadSearch
+          defaultQuery=""
+          endpoint="/search/recipients"
+          onChangeText={[Function]}
+          onNextRequestFinished={[Function]}
+          onRequestFinished={[Function]}
+          onRequestStarted={[Function]}
+          parameters={[Function]}
+        />
+      }
+      data={
+        Array [
+          Object {
+            "id": "branch_course_1",
+            "name": "All in Address Book Course",
+          },
+        ]
+      }
+      disableVirtualization={false}
+      horizontal={false}
+      initialNumToRender={10}
+      keyExtractor={[Function]}
+      maxToRenderPerBatch={10}
+      numColumns={1}
+      onEndReached={[Function]}
+      onEndReachedThreshold={2}
+      refreshing={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      updateCellsBatchingPeriod={50}
+      windowSize={21}
+    />
+  </View>
+</Screen>
+`;

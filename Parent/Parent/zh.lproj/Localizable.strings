@@ -1,0 +1,440 @@
+/* <String> <Int> of <Int> */
+"%@ %d of %d" = "%3$d 的 %1$@ %2$d ";
+
+/* Something to Something */
+"%@ to %@" = "%1$@ 到 %2$@";
+
+/* Percentage field placeholder */
+"1-100%" = "1-100%";
+
+/* Server Error Message */
+"A server error has occurred.  Please try again." = "服务器出现错误。请再次尝试。";
+
+/* Alerts Tab */
+"ALERTS" = "通知";
+
+/* Unauthorized Student Error Title */
+"Access Denied" = "拒绝访问";
+
+/* Add Student Settings Button Title */
+"Add Student" = "添加学生";
+
+/* Alert Section Header */
+"Alert me when:" = "通知我当：";
+
+/* Generic Network Error Message */
+"An unexpected error occurred.  Please try again." = "出现意外错误。请再次尝试。";
+
+/* Logout Confirmation */
+"Are you sure you want to logout?" = "您确认要退出吗？";
+
+/* Remove Observee Confirmation */
+"Are you sure you want to remove this observee?" = "您确认要移除此观察者吗？";
+
+/* Assignment Grade High On Description */
+"Assignment grade above" = "以上作业成绩";
+
+/* Assignment Grade Low On Description */
+"Assignment grade below" = "以下作业成绩";
+
+/* Assignment Missing Description */
+"Assignment missing" = "没交作业";
+
+/* No comment provided by engineer. */
+"Assignment reminder: %@" = "作业提示：%@";
+
+/* No comment provided by engineer. */
+"Assignment reminder: %@ is due at %@" = "作业提示：%1$@ 在 %2$@ 截止";
+
+/* No comment provided by engineer. */
+"Australia" = "澳大利亚";
+
+/* Authorization Failed Title */
+"Authorization Failed." = "验证失败。";
+
+/* Back Button Title */
+"Back" = "返回";
+
+/* Courses Tab */
+"COURSES" = "课程";
+
+/* No comment provided by engineer. */
+"Canada" = "加拿大";
+
+/* Cancel button title */
+"Cancel" = "取消";
+
+/* Percent value is over 100 */
+"Cannot use percent that is higher than 100" = "不可以使用超过百分之100";
+
+/* Percent value is under 0 */
+"Cannot use percent that is less than 0" = "不可以使用小于百分之0";
+
+/* Cancel the question/suggestion form */
+"Casual question or suggestion" = "简单问题或建议";
+
+/* Empty Alerts Text */
+"Caught up on Alerts" = "赶上了通知";
+
+/* title for status selection field */
+"Choose One" = "选择一个";
+
+/* Close Button Title */
+"Close" = "关闭";
+
+/* Error alert message */
+"Could not create domain.  Please check your school's domain and try again." = "无法创建域。请查看您学校的域，然后重试。";
+
+/* Course Announcement Description */
+"Course announcements" = "课程通告";
+
+/* Course Grade High On Description */
+"Course grade above" = "以上课程成绩";
+
+/* Course Grade Low On Description */
+"Course grade below" = "以下课程成绩";
+
+/* Submits the form to create an account */
+"Create Account" = "创建账户";
+
+/* Title for field */
+"Describe your problem" = "描述您的问题";
+
+/* No comment provided by engineer. */
+"Dismiss" = "解散";
+
+/* Title for alert shown when the server couldn't find an email to reset the password for */
+"Email Not Found" = "没有找到电子邮件";
+
+/* Title for alert shown when user attempts to reset their password */
+"Email Sent" = "电子邮件已发送";
+
+/* Empty Response */
+"Empty Response." = "空回复。";
+
+/* Prompt for logging in as student */
+"Enter student's login information" = "输入学生的登录信息";
+
+/* prompt for canvas observer login page */
+"Enter your Canvas Observer credentials" = "输入您的 Canvas 观察员凭证";
+
+/* Title for an error popup */
+"Error" = "错误";
+
+/* No comment provided by engineer. */
+"Event reminder: %@" = "事件提示：%@";
+
+/* No comment provided by engineer. */
+"Event reminder: %@ will begin at %@" = "事件提示：%1$@ 将在 %2$@ 开始";
+
+/* No comment provided by engineer. */
+"Excused" = "免除";
+
+/* Status level for issue being reported */
+"Extremely critical emergency" = "十万火急的紧急事件";
+
+/* Domain Picker Search Placeholder */
+"Find your school or district" = "查找您的学校或地区";
+
+/* Domain Picker Search Placeholder */
+"Find your student's school or district" = "查找您的学生的学校或学区";
+
+/* No comment provided by engineer. */
+"Germany" = "德国";
+
+/* Help Button Title */
+"Help" = "帮助";
+
+/* Help Guide Button */
+"Help Guide" = "帮助指南";
+
+/* High Assignment Grade too Low */
+"High assignment grade cannot be lower than low assignment grade" = "得分高的作业不能低于得分低的作业";
+
+/* High Course Grade too Low */
+"High course grade cannot be lower than low course grade" = "得分高的课程不能低于得分低的课程";
+
+/* Help Menu Message */
+"How can we help?" = "我们如何能帮助您？";
+
+/* Status level for issue being reported */
+"I can't get things done until fixed" = "我无法办事直到修复为止";
+
+/* Status level for issue being reported */
+"I need help but it's not urgent" = "我需要帮助，但不是迫切";
+
+/* Impact Title */
+"Impact:" = "影响：";
+
+/* No comment provided by engineer. */
+"In-Class" = "在课堂";
+
+/* Institution Announcement Description */
+"Institution announcements" = "机构通告";
+
+/* Invalid Canvas URL */
+"Invalid Canvas URL." = "Canvas URL 无效。";
+
+/* Alert title when logging in with invalid credentials */
+"Invalid Credentials" = "无效证件";
+
+/* Title for an alert view */
+"Invalid Input" = "输入无效";
+
+/* Support Ticket Invalid Input Message */
+"Invalid Input.  Check fields and try again." = "输入无效。请检查字段，并重试。";
+
+/* Invalid User Agent */
+"Invalid User Agent." = "用户代理无效。";
+
+/* Invalid Domain title */
+"Invalid domain." = "无效的域。";
+
+/* Alert Message for invalid domain */
+"Invalid student domain.\nPlease double-check the domain and try again." = "无效学生域名。\n请再检查域名一遍并再次尝试。";
+
+/* No comment provided by engineer. */
+"Ireland" = "爱尔兰";
+
+/* JSON Parsing Error */
+"JSON Parsing Error." = "JSON 解析出错。";
+
+/* Last Week Button Accessibility Label */
+"Last Week" = "上个星期";
+
+/* No comment provided by engineer. */
+"Late" = "迟到、迟交";
+
+/* No comment provided by engineer. */
+"Late: %@" = "迟交：%@";
+
+/* No comment provided by engineer. */
+"Late: %@ (%@/%@)" = "迟交：%1$@ (%2$@/%3$@)";
+
+/* No comment provided by engineer. */
+"Log In" = "登录";
+
+/* Submits the login form */
+"Login" = "登录";
+
+/* Logout Confirm Button */
+"Logout" = "退出";
+
+/* Low Assignment Grade too High */
+"Low assignment grade cannot be higher than high assignment grade" = "得分低的作业不能高于得分高的作业 ";
+
+/* Low Course Grade too High */
+"Low course grade cannot be higher than high course grade" = " 得分低的课程不能高于得分高的课程 ";
+
+/* No comment provided by engineer. */
+"Missing" = "丢失";
+
+/* No comment provided by engineer. */
+"Missing: (-/%@)" = "丢失：(-/%@)";
+
+/* Generic Network Error Title */
+"Network Error" = "网络错误";
+
+/* Next Week Button Accessibility Label */
+"Next Week" = "下个星期";
+
+/* Empty Courses Text */
+"No Courses" = "没有课程";
+
+/* Title for label when no grade has been assigned to the course */
+"No Grade" = "没有评分";
+
+/* No Result */
+"No Result." = "没有结果。";
+
+/* Empty Students Text */
+"No Students" = "没有学生";
+
+/* Error message */
+"No installed apps support opening this file" = "没有安装的应用程序支持打开此文件";
+
+/* Not Authorized Error Title */
+"Not Authorized" = "未获授权";
+
+/* Not Found Error Title */
+"Not Found" = "未找到";
+
+/* Not authorized */
+"Not authorized." = "未获授权。";
+
+/* Empty Calendar Events Text */
+"Nothing this week" = "本周没事";
+
+/* OK Button Title */
+"OK" = "OK";
+
+/* Canvas Observer Auth Failed Message */
+"Only Canvas observers can authenticate in Canvas Parent." = "仅 Canvas 观察者可在 Canvas Parent 中执行验证。";
+
+/* Open Source Components Button */
+"Open Source Components" = "打开源组件";
+
+/* Open a url in the application Safari */
+"Open in Safari" = "在Safari中打开";
+
+/* Open file in another application */
+"Open in..." = "在...打开";
+
+/* Title for alert when resetting password is successful */
+"Password Reset Successful" = "密码重置成功";
+
+/* Invalid Domain message */
+"Please double-check the domain and try again." = "请仔细检查域并再试一次。";
+
+/* Title for alert shown when something goes wrong resetting the password */
+"Problem Resetting Password" = "密码重置问题";
+
+/* Remove button title */
+"Remove" = "移除";
+
+/* delete student from login */
+"Remove Student" = "移除学生";
+
+/* re-authenticate user when token fails */
+"Repair Access" = "修复访问";
+
+/* Report Problem Button */
+"Report a Problem" = "报告一个问题";
+
+/* Support Ticket Creation Failed */
+"Request Failed!  Check network and try again!" = "请求失败！请检查网络，并重试！";
+
+/* Feature Request Button */
+"Request a Feature" = "请求一个功能";
+
+/* Not Found Error Message */
+"Resource not found.  Please try again." = "没有找到资源。请再次尝试。";
+
+/* Select Impact Placeholder */
+"Select Impact" = "选择影响";
+
+/* No comment provided by engineer. */
+"Select Region" = "选择区域";
+
+/* Server Error Title */
+"Server Error" = "服务器错误";
+
+/* Settings Button Title
+   Title of the settings screen */
+"Settings" = "设置";
+
+/* Share Some Love Button */
+"Share Some Love" = "分享爱";
+
+/* No comment provided by engineer. */
+"Singapore" = "新加坡";
+
+/* Status level for issue being reported */
+"Something is broken but I can work around it" = "某东西坏了，但我可以修复它";
+
+/* Body for alert shown when something goes wrong resetting the password */
+"Something went wrong while attempting to reset your password. Try again later." = "密码重置出现错误。稍候再次尝试。";
+
+/* Body for alert shown when something goes wrong resetting the password */
+"Something went wrong while attempting to send a password reset email. Try again later." = "发送密码重置的电子邮件出现错误。稍候再次尝试。";
+
+/* Title for the subject field */
+"Subject" = "主题";
+
+/* Button title for forgot password */
+"Submit" = "提交";
+
+/* No comment provided by engineer. */
+"Submitted" = "提交";
+
+/* No comment provided by engineer. */
+"Submitted: %@" = "提交：%@";
+
+/* No comment provided by engineer. */
+"Submitted: %@ (%@/%@)" = "提交：%1$@ (%2$@/%3$@)";
+
+/* Syllabus Button Title */
+"Syllabus" = "教学大纲";
+
+/* Support Ticket Created Successfully */
+"Thanks, your request was received!" = "谢谢，您的请求被接受！";
+
+/* Alert message when logging in with invalid credentials. Please check your region and try again. */
+"The email and password combination were invalid" = "电子邮件和密码组合无效";
+
+/* Error message */
+"There are no actions for this item" = "此项目没有动作";
+
+/* AccountDomain Database Load Failure Message */
+"There was a problem loading the AccountDomain database file." = "加载AccountDomain数据库文件时出现问题。";
+
+/* AlertKit Database Load Failure Message */
+"There was a problem loading the AlertKit database file." = "加载AlertKit数据库文件时出现问题。";
+
+/* Airwolf database error message */
+"There was a problem loading the database." = "加载数据库时出现问题。";
+
+/* Message for an error alert */
+"There was a problem verifying the following domain: (stringURL)" = "验证以下域时出现问题：(stringURL)";
+
+/* No comment provided by engineer. */
+"There was an error loading your content. If it  is an audio or video upload it may still be processing." = "加载您的内容时出现错误。如果上传音频或视频，可能还正在处理中。";
+
+/* Alert Message for institution not authorized */
+"This institution has not enabled access to the Canvas Parent mobile app." = "此机构没有启用访问Canvas家长手机的应用程序。";
+
+/* No comment provided by engineer. */
+"This institution is located outside of your selected region. To add a student at this institution, please use the “Region Picker” option on the login page to select the region of (region), and create a new account." = "此机构不在您选择的区域内。若要添加此机构的学生，请使用登录页的“区域选择器”选项选择区域（区域）并创建新帐户。";
+
+/* Title for alert when failing to add student domain */
+"Unable to Add Student" = "无法添加学生";
+
+/* Title for alert when failing to create account */
+"Unable to Create Account" = "无法创建账户";
+
+/* No comment provided by engineer. */
+"Unauthorized Region" = "未获授权的区域";
+
+/* Auth Failed Message */
+"Unexpected Authentication Error.  Please try logging in again" = "意外的验证错误。请再次尝试登录";
+
+/* No comment provided by engineer. */
+"United States" = "美国";
+
+/* Unknown region for student account
+   Unknown T`hreshold Description */
+"Unknown" = "未知";
+
+/* Default name given a user until we find their real name */
+"Unknown User" = "未知用户";
+
+/* Default user name, the computer-friendly version of their name, until we find their real user name */
+"Unknown User Name" = "未知用户名";
+
+/* Name of action when viewing a reminder */
+"View" = "查看";
+
+/* Calendar Tab */
+"WEEK" = "星期";
+
+/* Error message when failing to create account */
+"We couldn't create your account. Double check your information or try again later." = "我们不能创建您的账户。重新检查您的信息或稍候再次尝试。";
+
+/* Body for alert shown when the server couldn't find an email to reset the password for */
+"We couldn't find an account associated with that email. Double check that you entered it correctly, check your region, and try again." = "我们找不到与该电子邮件关联的帐户。请再次核实您的输入是否正确，检查您的区域并重试。";
+
+/* Title for field */
+"What can we do better?" = "我们如何能做得更好？";
+
+/* Not Authorized Error Message */
+"You are unauthorized to access this information.  Check your user permissions and try again." = "您没有访问此信息的权限。 检查您的用户权限并再次尝试。";
+
+/* Body for alert shown when resetting password */
+"You will receive an email shortly to finish the process of resetting your password." = "您将立即收到一个电邮以完成重置密码的过程。";
+
+/* Title for the email field */
+"Your Email" = "您的电子邮件";
+
+/* Body for alert after having successfully reset the password */
+"Your password has been successfully reset. Please log in now." = "您的密码已成功重置。 请现在登录。";
+

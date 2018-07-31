@@ -1,0 +1,1446 @@
+/* prerequisites for unlocking item */
+"\n\nYou must first complete:" = "\n\nMe tuatahi whakaoti koe:";
+
+/* when locked item will become unlocked */
+" until %@" = "tae noa ki %@";
+
+/* explanation for locked module item */
+"\"%@\" is locked as part of \"%@\"" = "kiia \"%1$@\" te hei wāhanga o \"%2$@\"";
+
+/* (No Comment) */
+"%0.2f GB" = "%0.2f GB";
+
+/* (No Comment) */
+"%0.2f KB" = "%0.2f KB";
+
+/* (No Comment) */
+"%0.2f MB" = "%0.2f MP";
+
+/* (No Comment) */
+"%1$@ (%2$d)" = "%1$@ (%2$d)";
+
+/* (No Comment) */
+"%1$@ (%2$g out of %3$@)" = "%1$@ (%2$g i roto i te %3$@)";
+
+/* (No Comment) */
+"%1$@ at %2$@" = "%1$@ i %2$@";
+
+/* (No Comment) */
+"%1$@ is due in %2$@" = "He tika i roto i te %2$@ %1$@ ";
+
+/* (No Comment) */
+"%1$@ out of %2$@" = "%1$@ i roto i te %2$@";
+
+/* (No Comment) */
+"%1$@%% (%2$g out of %3$@)" = "%1$@%% (%2$g i roto i te %3$@)";
+
+/* (No Comment) */
+"%1$@. %2$@. Type: %3$@." = "%1$@. %2$@. Momo: %3$@.";
+
+/* (No Comment) */
+"%1$@. %2$@. Type: %3$@. Status: %4$@" = "%1$@. %2$@. Momo: %3$@. Tūnga: %4$@";
+
+/* (No Comment) */
+"%1$d %2$@" = "%1$d %2$@";
+
+/* (No Comment) */
+"%1$g out of %2$@" = "%1$g i roto i te %2$@";
+
+/* Button to submit files to an assignment */
+"%@ (%d)" = "%1$@ (%2$d)";
+
+/* Message for unsupported tab coming soon */
+"%@ is coming soon!" = "Kei te haere mai hohoro %@!";
+
+/* local notification countdown alert */
+"%@ is due in %@" = "He tika i roto i te %2$@ %1$@ ";
+
+/* explanation for locked item */
+"%@ is locked" = "kiia %@ te";
+
+/* No comment provided by engineer. */
+"%@ is not a valid URL" = "e kore he %@ he URL whaimana";
+
+/* (No Comment) */
+"%@ is not a valid host" = "e kore he %@ he ope whaimana";
+
+/* Message for unsupported tab */
+"%@ is not currently supported." = "e kore te tautoko %@ tēnei wā.";
+
+/* (No Comment) */
+"%@ likes" = "momo %@";
+
+/* (No Comment) */
+"%@ need grading" = "%@ Māka  matea";
+
+/* (No Comment) */
+"%@..." = "%@...";
+
+/* A number and a collective noun, like '5 pigs' */
+"%d %@" = "%1$d %2$@";
+
+/* (No Comment) */
+"%d days ago" = "%d ra i mua";
+
+/* (No Comment) */
+"%d hours ago" = "%d haora  mua";
+
+/* (No Comment) */
+"%d items" = "%d ngā tūemi";
+
+/* (No Comment) */
+"%d minutes ago" = "%d meneti  mua";
+
+/* (No Comment) */
+"%d months ago" = "%d marama  mua";
+
+/* In the context 'Joe, Fred, ((25 more))' */
+"%d more" = "%d atu";
+
+/* (No Comment) */
+"%d replies" = "%d whakautu";
+
+/* (No Comment) */
+"%d unread" = "%d pānuihia";
+
+/* (No Comment) */
+"%d years ago" = "%d tau  mua";
+
+/* (No Comment) */
+"%qu bytes" = "%qu paita";
+
+/* offset for one day */
+"%tu day" = "%tu ra ";
+
+/* offset for number of days */
+"%tu days" = "%tu rua ";
+
+/* offset for an hour */
+"%tu hour" = "%tu haora ";
+
+/* offset for number of hours */
+"%tu hours" = "%tu haora ";
+
+/* offset for less than one minute */
+"%tu minute" = "%tu meneti ";
+
+/* offset for under an hour */
+"%tu minutes" = "%tu meneti ";
+
+/* (No Comment) */
+"%u Attachments" = "Āpitihanga %u";
+
+/* Label indicating multiple files are attached to a single homework submission. %u will be a positive number, and will not be '1' */
+"%u files" = "kōnae %u";
+
+/* (No Comment) */
+"&quot;%1$@&quot; is locked as part of &quot;%2$@&quot;" = "&quot;%1$@&quot; kei te raka i te wāhanga o &quot;%2$@&quot;";
+
+/* %@ will be replaced by the filename */
+"'%@' is now ready to submit to assignments" = "'%@' He inaianei rite ki te tuku ki ohipa";
+
+/* (No Comment) */
+"1 Attachment" = "1 Āpitihanga";
+
+/* one day */
+"1 day" = "1 ra";
+
+/* (No Comment) */
+"1 day ago" = "1 ra i mua";
+
+/* one hour */
+"1 hour" = "1 haora";
+
+/* (No Comment) */
+"1 hour ago" = "1 haora i mua";
+
+/* (No Comment) */
+"1 item" = "1 tūemi";
+
+/* (No Comment) */
+"1 like" = "1 rite";
+
+/* (No Comment) */
+"1 minute ago" = "1 meneti i mua";
+
+/* (No Comment) */
+"1 month ago" = "1 marama i mua";
+
+/* (No Comment) */
+"1 needs grading" = "1 hiahia māka";
+
+/* (No Comment) */
+"1 year ago" = "1 tau i mua";
+
+/* three days */
+"3 days" = "3 ra";
+
+/* five minutes */
+"5 minutes" = "5 meneti";
+
+/* Name of a tab displaying Canvas Info including legal info */
+"About" = "Mō";
+
+/* (No Comment) */
+"Access Denied" = "Aukatia te Uru";
+
+/* Error handling message when a network request has been denied by a server. Specifically with the HTTP 401 error code. */
+"Access denied. Please check your permissions for the action you're trying to complete." = "whakakahore uru. Koa tirohia koutou whakaaetanga mo te mahi e ngana ana koe ki te whakaoti.";
+
+/* (No Comment) */
+"Add Attachment" = "Tāpiri Āpitihanga";
+
+/* add comment button */
+"Add Comment" = "Tāpiri Tākupu";
+
+/* No comment provided by engineer. */
+"Add Cover Photo" = "Tāpiri Cover Whakaahua";
+
+/* No comment provided by engineer. */
+"Add a folder" = "Tāpiri i te kōpaki";
+
+/* Title for attachment action sheet from rich text view */
+"Add attachment" = "Tāpiri āpitihanga";
+
+/* No comment provided by engineer. */
+"Add comment" = "Tāpiri kōrero";
+
+/* (No Comment) */
+"Add folder" = "Tāpiri kōpaki";
+
+/* (No Comment) */
+"Add inline media" = "Tāpiri pāpāho rōraina";
+
+/* (No Comment) */
+"Add recipients" = "Tāpiri kaiwhiwhi";
+
+/* (No Comment) */
+"All members" = "te mau melo katoa";
+
+/* (No Comment) */
+"An unknown error occurred" = "He hapa tē mōhiotia puta";
+
+/* (No Comment) */
+"Announcement" = "Pānuitanga";
+
+/* (No Comment) */
+"Announcements" = "Fanongonongó";
+
+/* Assignment submission type for selecting an Arc video */
+"Arc" = "Arc";
+
+/* (No Comment) */
+"Archive" = "Pūranga";
+
+/* (No Comment) */
+"Archive Selected Messages Button" = "Pātene Pūranga Tīpakohia Karere";
+
+/* (No Comment) */
+"Archive all selected messages" = "Pūranga ngā karere katoa i tīpakohia";
+
+/* (No Comment) */
+"Archived" = "Pūrangatia";
+
+/* (No Comment) */
+"Are you ready to logout?" = "Kei te rite ki te takiputa koe?";
+
+/* Confirmation alert text for submitting an Arc video for an assignment */
+"Are you sure you want to submit this Arc video for this assignment?" = "E pono ana koe kei te hiahia koe ki te tuku i tēnei Arc ataata mo tēnei taumahi?";
+
+/* (No Comment) */
+"Ask me later" = "A ani i ahau i muri";
+
+/* (No Comment) */
+"Assignment" = "Taumahi";
+
+/* (No Comment) */
+"Assignments" = "Taumahi";
+
+/* An item for attaching to a discussion */
+"Attachment" = "Āpitihanga";
+
+/* label for an attachment */
+"Attachment %d" = "Āpitihanga %d";
+
+/* (No Comment) */
+"Attachment %i" = "Āpitihanga %i";
+
+/* (No Comment) */
+"Attachments" = "Āpitihanga";
+
+/* (No Comment) */
+"Attendance" = "Te haereraa i";
+
+/* Audio file type */
+"Audio" = "Ororongo";
+
+/* (No Comment) */
+"Audio input hardware not available" = "pūmārō tāuru ororongo kore e wātea ana";
+
+/* Title for an error popup */
+"Authentication error" = "hapa motuhēhēnga";
+
+/* Link to building panda avatar */
+"Build Avatar" = "Hanga Avatar";
+
+/* (No Comment) */
+"Cache cleared" = "whakawāteatia Keteroki";
+
+/* (No Comment) */
+"Calendar" = "Maramataka";
+
+/* No comment provided by engineer. */
+"Can't load tool" = "e kore e taea te uta taputapu";
+
+/* Setup only allows media but no Kaltura instance error title */
+"Can't submit media" = "Kāore e taea te tuku pāpāho";
+
+/* Cancel button title
+   Cancel button title to cancel submitting an Arc video as an assignment submission */
+"Cancel" = "Whakakore";
+
+/* Cancel button title */
+"Cancel Message" = "Whakakore Karere";
+
+/* No comment provided by engineer. */
+"Canvas appears to be unavailable. Please try again later." = "puta Kanaweti ki kia wātea. Koa ngana anō i muri mai.";
+
+/* (No Comment) */
+"Canvas failed to find recipients for your current search. Please try again later." = "rahua Kanaweti ki te kitea kaiwhiwhi mo koutou rapu o nāianei. Koa ngana anō i muri mai.";
+
+/* mobile quze warning info */
+"Canvas quizzes support various assessment styles. Most of these styles are supported on mobile devices; however, some are not. If you attempt to take one of these unsupported quizzes on your phone, you might be unable to complete the entire quiz, leaving you at a disadvantage.\n\nUnsupported question types include questions containing Adobe Flash™ content, and others.\n\nIf you believe that a quiz contains unsupported content, please take it on desktop or laptop computer. If you know that the quiz contains only supported content, feel free to take it on your mobile device." = "Ka tautoko a Canvas kuihi ngā momo aromatawai. E tautokotia ana te nuinga o ēnei momo i runga i ngā pūrere pūkoro; heoi e kore ētahi. \n\n\n\n Ki te mōhio koe kei roto i te kuihi he ihirangi kua tautokotia anake, mahia i runga i tō pūrere pūkoro.";
+
+/* (No Comment) */
+"Canvas quizzes support various assessment styles. Most of these styles are supported on mobile devices; however, some are not. If you attempt to take one of these unsupported quizzes on your phone, you might be unable to complete the entire quiz, leaving you at a disadvantage.\n\nUnsupported question types include questions containing Adobe Flash™ content, file uploads, and others.\n\nIf you believe that a quiz contains unsupported content, please take it on desktop or laptop computer. If you know that the quiz contains only supported content, feel free to take it on your mobile device." = "pātaitai tautoko ngā momo aromatawai kānawehi. E tautokona te nuinga o enei momo i runga i ngā pūrere pūkoro; Heoi, e kore e etahi. Ki te ngana koe ki te tango i tetahi o enei kuihi tautokona i runga i tou waea, ai waiho koe taea ki te whakaoti i te pātaitai katoa, mahue koe i te ngoikoretanga.\n\nmomo pātai tētautokohia ngā pātai kei roto Adobe Flash ™ ihirangi, tukunga kōnae, me ētahi atu.\n\nKi te whakapono koe e kei he quiz ihirangi tautokona, tēnā tango i te reira i runga i papamahi pona rorohiko ranei. Ki te mohio koe e te pātaitai kei roto tautoko ihirangi anake, ite noa ki te tango i te reira i runga i tō pūrere pūkoro.";
+
+/* button to change user's profile image */
+"Change Profile Image" = "Tīni i te Kōtaha Āhua";
+
+/* (No Comment) */
+"Change User" = "Huri Kaiwhakamahi";
+
+/* Button label for choosing a photo */
+"Choose Photo" = "Kōwhiri Photo";
+
+/* No comment provided by engineer. */
+"Choose Profile Picture" = "Kōwhiri Pikitia Kōtaha";
+
+/* Choose a video to send as a comment */
+"Choose Video" = "Kōwhiri Ataata";
+
+/* No comment provided by engineer. */
+"Choose a name for the new folder" = "Kōwhiria he ingoa mo te kōpaki hōu";
+
+/* (No Comment) */
+"Choose a name for the new folder." = "Kōwhiria he ingoa mo te kōpaki hōu.";
+
+/* No comment provided by engineer. */
+"Choose a submission type" = "Kōwhiria he momo tāpaetanga";
+
+/* Choose an existing picture or video to use in a comment. */
+"Choose from Library..." = "Kōwhiri i Puna ...";
+
+/* action sheet text for picking video from library */
+"Choose video" = "Kōwhiri ataata";
+
+/* Close the window */
+"Close" = "Katia";
+
+/* (No Comment) */
+"Closed for Comments" = "Katia hoki Tākupu";
+
+/* Title for Collaborations tab */
+"Collaborations" = "Tahi";
+
+/* Add message button for teacher or ta */
+"Comment" = "Tākupu";
+
+/* title for media comment upload failure */
+"Comment Error" = "Hapa Tākupu";
+
+/* (No Comment) */
+"Comments" = "Tākupu";
+
+/* (No Comment) */
+"Comments are disabled" = "He monokia Tākupu";
+
+/* (No Comment) */
+"Complete" = "Whakaotia";
+
+/* (No Comment) */
+"Completed" = "Oti";
+
+/* (No Comment) */
+"Compose Message Button" = "Titoa Pātene Karere";
+
+/* (No Comment) */
+"Compose a message" = "Tuhia he";
+
+/* Title for Conferences tab */
+"Conferences" = "ngaahi konifelenisi";
+
+/* Confirm an arc video submission for an assignment */
+"Confirm Submission" = "Whakatau Tukunga";
+
+/* (No Comment) */
+"Confirm deletion" = "Whakaūngia te mukunga";
+
+/* Button title for selecting to continue on to quiz. The will appear in the alert view notfifying the user of mobile quiz limitations. */
+"Continue" = "Tonu";
+
+/* No comment provided by engineer. */
+"Could not authenticate with server" = "Kāore i taea te whakamotuhēhē ki tūmau";
+
+/* error title for failure to load a file submission */
+"Couldn't Load Submission" = "e kore i taea te whakawaha Tukunga";
+
+/* (No Comment) */
+"Couldn't find recipients" = "Kāore i kitea kaiwhiwhi";
+
+/* Title for Course Syllabus view controller */
+"Course Syllabus" = "Marautanga Akoranga";
+
+/* (No Comment) */
+"Courses" = "Kōhi";
+
+/* Cancel button title */
+"Create Folder" = "Waihanga Kōpaki";
+
+/* Header for a section showing submitted filenames */
+"Current Submission" = "Tāpaetanga O nāianei";
+
+/* Message telling users that quiz support on mobile is limited */
+"Currently there is limited quiz support on mobile" = "I tēnei wā i reira he iti tautoko pātaitai i runga i pūkoro";
+
+/* (No Comment) */
+"Custom Grade" = "Kōeke Ritenga";
+
+/* (No Comment) */
+"Customize" = "Whakaritea";
+
+/* Default delete button MLVC */
+"Delete" = "Mukua";
+
+/* (No Comment) */
+"Delete (%d)" = "Mukua (%d)";
+
+/* (No Comment) */
+"Delete this reply?" = "Mukua tenei whakautu?";
+
+/* delete file confirmation alert */
+"Deleted file: \"%@\"" = "kōnae Mukua: \"%@\"";
+
+/* (No Comment) */
+"Deleted file: &quot;%@&quot;" = "Mukua te kōnae &quot;%@&quot;";
+
+/* No comment provided by engineer. */
+"Detail" = "Taipitopito";
+
+/* (No Comment) */
+"Details" = "Taipitopito";
+
+/* (No Comment) */
+"Discard" = "Tūraki";
+
+/* (No Comment) */
+"Discard this entry?" = "Tūraki tenei tāurunga?";
+
+/* (No Comment) */
+"Discussion" = "Aparauraa";
+
+/* Title for discussion entry submission */
+"Discussion Entry" = "Tāurunga Aparauraa";
+
+/* (No Comment) */
+"Discussion Topics" = "kaupapa Aparauraa";
+
+/* (No Comment) */
+"Discussions" = "Kōrero";
+
+/* Dismiss button title
+   uialertaction button name for dismissing the failed refresh error message */
+"Dismiss" = "Tonoa";
+
+/* Alert title asking if you want to masquerade */
+"Do you want to masquerade as this user?" = "E hiahia ana koe ki te whakaahua ke ano tenei kaiwhakamahi?";
+
+/* The domain for the institution/school that the user is currently using */
+"Domain" = "Rohe";
+
+/* (No Comment) */
+"Don't ask me again" = "Kaua e ui ano ahau";
+
+/* (No Comment) */
+"Don't delete" = "Kaua e muku";
+
+/* (No Comment) */
+"Done" = "Mahia";
+
+/* Shown when we cancel a file download */
+"Download Canceled" = "Tikiake Whakakorea";
+
+/* Shown while downloading a file */
+"Downloading..." = "Tikiake ana ...";
+
+/* (No Comment) */
+"Due:" = "Nā:";
+
+/* (No Comment) */
+"Due: %1$@ at %2$@" = "Nā: %1$@ i %2$@";
+
+/* Due date label indicating when an assignment is due */
+"Due: %@" = "E tika ana: %@";
+
+/* Link to the End User License Agreement document */
+"EULA" = "EULA";
+
+/* (No Comment) */
+"Edit" = "Whakatika";
+
+/* (No Comment) */
+"Edit Course List" = "Whakatika Rārangi Akoranga";
+
+/* (No Comment) */
+"Edit Group List" = "Rārangi Whakatika Rōpū";
+
+/* (No Comment) */
+"Edit items" = "Whakatika tūemi";
+
+/* (No Comment) */
+"Editing reply by %1$@, %2$@" = "Whakarerekē whakautu e %1$@, %2$@";
+
+/* the users email */
+"Email" = "Īmēra";
+
+/* (No Comment) */
+"Enable Push Notifications" = "Whakahohea Whakamōhiotanga Pana";
+
+/* (No Comment) */
+"Enter User ID and Domain." = "Tomo ID Kaiwhakamahi me te Rohe.";
+
+/* No comment provided by engineer. */
+"Enter folder name" = "E tomo ingoa kōpaki";
+
+/* Submission input view placeholder text */
+"Enter submission" = "Tomo tukunga";
+
+/* (No Comment) */
+"Entry posted" = "whakairi tāurunga";
+
+/* Title for an error popup */
+"Error" = "Hapa";
+
+/* (No Comment) */
+"Error adding recipeints" = "Hapa tāpiri kaiwhiwhi";
+
+/* Error deleting file alert view title */
+"Error deleting file \"%@\"" = "kōnae te muku Hapa \"%@\"";
+
+/* (No Comment) */
+"Error deleting file &quot;%@&quot;" = "I hapa te mukuna i te kōnae &quot;%@&quot;";
+
+/* Error deleting folder alert view title */
+"Error deleting folder" = "kōpaki te muku Hapa";
+
+/* (No Comment) */
+"Event" = "Takahanga";
+
+/* No comment provided by engineer. */
+"Existing Attachments..." = "Ngā Āpitihanga ...";
+
+/* Title for an external tool submission */
+"External Tool" = "Taputapu Waho";
+
+/* (No Comment) */
+"External URL" = "URL Waho";
+
+/* Error title for refresh failing on an MLVC tableview controller */
+"Failed to load" = "I rahua te tukuake";
+
+/* (No Comment) */
+"File" = "Kōnae";
+
+/* (No Comment) */
+"File extension not allowed: %@" = "toronga Kōnae kore whakaaetia: %@";
+
+/* (No Comment) */
+"File extension(s) permitted for this assignment:" = "Ka whakaaetia he toronga kōnae (ngā) mō tēnei taumahi:";
+
+/* No comment provided by engineer. */
+"File received" = "riro Kōnae";
+
+/* (No Comment) */
+"File unavailable" = "Kōnae wātea";
+
+/* File upload submission type */
+"File upload" = "tukunga Kōnae";
+
+/* (No Comment) */
+"File upload failed." = "I rahua te tukunga Kōnae.";
+
+/* Title for the files screen */
+"Files" = "Kōnae";
+
+/* No comment provided by engineer. */
+"Final Grade" = "Kōeke whakamutunga";
+
+/* Shown when we finish downloading a file */
+"Finished downloading" = "tikiake oti";
+
+/* (No Comment) */
+"Front Page" = "Whārangi Mua";
+
+/* No comment provided by engineer. */
+"Future" = "heke mai";
+
+/* title for discussion assignment submission button */
+"Go To Discussion" = "Haere ki te Aparauraa";
+
+/* (No Comment) */
+"Go to App Store" = "Haere ki te Toa Taupānga";
+
+/* (No Comment) */
+"Go to Quiz" = "Haere ki te Pātaitai";
+
+/* (No Comment) */
+"Go to discussion" = "Haere ki te kōrero";
+
+/* No comment provided by engineer. */
+"Grade" = "Kōeke";
+
+/* (No Comment) */
+"Grade %@" = "Kōeke %@ ";
+
+/* (No Comment) */
+"Grade in SpeedGrader" = "Kōeke i SpeedGrade";
+
+/* (No Comment) */
+"Grade: %1$i / %2$g" = "Kōeke: %1$i / %2$g";
+
+/* (No Comment) */
+"Grade: %@" = "Kōeke: %@";
+
+/* (No Comment) */
+"Graded Discussion" = "Aparauraa Mākahia";
+
+/* (No Comment) */
+"Graded discussion." = "kōrero Mākahia.";
+
+/* (No Comment) */
+"Graded discussion. %g points possible." = "kōrero Mākahia. tohu taea %g.";
+
+/* (No Comment) */
+"Grades" = "Kōeke";
+
+/* (No Comment) */
+"Group conversation" = "whakahaere rōpū";
+
+/* (No Comment) */
+"Groups" = "Rōpū";
+
+/* (No Comment) */
+"Help" = "Āwhina";
+
+/* (No Comment) */
+"Hide Grades" = "Huna Kōeke";
+
+/* (No Comment) */
+"How do you like Canvas?" = "Kia pehea te mahi koe rite Kanaweti?";
+
+/* (No Comment) */
+"I give you back your time, use it wisely." = "hoatu e ahau ki te hoki koe tou wa, te whakamahi i te reira te paari.";
+
+/* Image file type */
+"Image" = "Image";
+
+/* No comment provided by engineer. */
+"Import from Dropbox" = "Kawemai i te Pouakawhiriwhiri";
+
+/* No comment provided by engineer. */
+"Import from camera" = "Kawemai i te kāmera";
+
+/* (No Comment) */
+"Inbox" = "Pouakauru";
+
+/* (No Comment) */
+"Incomplete" = "Pahara";
+
+/* (No Comment) */
+"Individual messages" = "karere takitahi";
+
+/* (No Comment) */
+"Invalid URL" = "URL Muhu";
+
+/* (No Comment) */
+"It has problems" = "He raruraru";
+
+/* (No Comment) */
+"Item %1$d of %2$d" = "Te nama take %1$d o %2$d";
+
+/* No comment provided by engineer. */
+"Item %d of %d" = "Te nama take %1$d o %2$d";
+
+/* (No Comment) */
+"It’s empty, what are you still doing here." = "te reira kau, he aha kei te mahi tonu koutou i konei.";
+
+/* (No Comment) */
+"Jumps to current day on calendar" = "Hūpeke ki te ra o nāianei i runga i te maramataka";
+
+/* (No Comment) */
+"Keep" = "Kia mau ki";
+
+/* Title for an LTI launch submitted as an assignment */
+"LTI Tool" = "LTI Taputapu";
+
+/* (No Comment) */
+"Landing Page" = "Whārangi Tauranga";
+
+/* (No Comment) */
+"Large file" = "kōnae nui";
+
+/* No comment provided by engineer. */
+"Late Penalty" = "Whiu tōmuri";
+
+/* (No Comment) */
+"Later" = "i muri mai";
+
+/* title for submission button */
+"Launch External Tool" = "Neke Taputapu Waho";
+
+/* Title for legal section on the about page */
+"Legal" = "Ture";
+
+/* (No Comment) */
+"Loading..." = "Utanga ...";
+
+/* (No Comment) */
+"Locked" = "Maukatia";
+
+/* (No Comment) */
+"Locked until %@" = "Maukatia noa %@";
+
+/* Typically the email address correlated to the user */
+"Login ID" = "Takiuru ID";
+
+/* (No Comment) */
+"Login Problem" = "Takiuru Raru";
+
+/* (No Comment) */
+"Logout" = "Takiuru Out";
+
+/* (No Comment) */
+"Love it!" = "Aroha te reira!";
+
+/* (No Comment) */
+"Mark as Done" = "Mark rite Oti";
+
+/* Button title for beginning masquerading */
+"Masquerade" = "poupou pakoko";
+
+/* (No Comment) */
+"Me" = "Ahau";
+
+/* (No Comment) */
+"Media Comment" = "Tākupu Pāpāho";
+
+/* Title for a media submission */
+"Media Submission" = "Tukunga Pāpāho";
+
+/* (No Comment) */
+"Media comment" = "kōrero Pāpāho";
+
+/* Media recording submission type */
+"Media recording" = "tuhi Pāpāho";
+
+/* (No Comment) */
+"Media type selector. %@" = "momo kaikōwhiri Pāpāho. %@";
+
+/* Add message button */
+"Message Instructor" = "Kaiwhakaako Mirimiri";
+
+/* (No Comment) */
+"Message Sent." = "Tono Karere.";
+
+/* (No Comment) */
+"Message everyone separately, or add everyone to a group conversation?" = "Karere katoa wehe, tāpiri katoa ranei ki te aparauraa rōpū?";
+
+/* (No Comment) */
+"Messages" = "Karere";
+
+/* Warnging for taking quizzes on a mobile device */
+"Mobile Quiz Warning" = "Whakatūpato Pātaitai Pūkoro";
+
+/* (No Comment) */
+"Modules" = "Kōwae";
+
+/* Button title for selecting to view more info about the limitations of mobile quizzes */
+"More Info" = "Ētahi atu Mōhiohio";
+
+/* (No Comment) */
+"Multiple Due Dates" = "Rā Nā Maha";
+
+/* (No Comment) */
+"Must contribute" = "Me whai wāhi";
+
+/* (No Comment) */
+"Must mark as done" = "Me Tohua i rite ki ta";
+
+/* (No Comment) */
+"Must score %@ or higher" = "Me piro %@ teitei ranei";
+
+/* (No Comment) */
+"Must submit" = "Me tuku";
+
+/* (No Comment) */
+"Must view" = "Me tiro";
+
+/* (No Comment) */
+"My Files" = "Toku Kōnae";
+
+/* the users name */
+"Name" = "Ingoa";
+
+/* (No Comment) */
+"Need SpeedGrader for iPad" = "Me SpeedGrader hoki iPad";
+
+/* Network error title */
+"Network Error" = "Hapa Whatunga";
+
+/* No comment provided by engineer. */
+"New Folder" = "Kōpaki Hou";
+
+/* No comment provided by engineer. */
+"Next 7 Days" = "Panuku 7 ra";
+
+/* No comment provided by engineer. */
+"Next item" = "tūemi muri";
+
+/* (No Comment) */
+"No" = "Kahore";
+
+/* No comment provided by engineer. */
+"No Date" = "Kāore he Rā";
+
+/* (No Comment) */
+"No Due Date" = "Kāore he Rā whakaoti";
+
+/* Title for attempting submission without a comment */
+"No Recorded Audio" = "Kahore Papa'ihia i Ororongo";
+
+/* No Submission groupong */
+"No Submission" = "Kāore he Tukunga";
+
+/* (No Comment) */
+"No Thanks" = "Kāore he Mihi";
+
+/* Text of alert when attempting to select a file that can't be printed or passed to any other app */
+"No actions available for this file" = "Kāore he mahi e wātea ana mō tēnei kōnae";
+
+/* Message for attempting submission without a comment */
+"No audio was recorded." = "I tuhia Kāore he ororongo.";
+
+/* Indicates an assignment does not have a due date
+   String for when assignment has no due date */
+"No due date" = "Kāore he rā e tika ana";
+
+/* Error message */
+"No installed apps support opening this file" = "No taupānga tāutatia tautoko te whakatuwhera i tēnei kōnae";
+
+/* (No Comment) */
+"No recipients" = "Kāore he kaiwhiwhi";
+
+/* (No Comment) */
+"No results found" = "kitea he hua";
+
+/* (No Comment) */
+"Not Authorized" = "E kore e Faati'ahia te";
+
+/* (No Comment) */
+"Not Complete" = "Kāore i te oti";
+
+/* No comment provided by engineer. */
+"Not available" = "Kāore i te wātea";
+
+/* (No Comment) */
+"Not graded" = "E kore e mākahia";
+
+/* (No Comment) */
+"Not graded (0 out of %@)" = "E kore e mākahia (0 i roto i te %@)";
+
+/* (No Comment) */
+"Note: Media files are not immediately available for playback while they are processed on the server." = "Mōhio: e kore e tonu e wātea ana ngā kōnae pāpāho mō te purei ia e tukatuka ratou i runga i te tūmau.";
+
+/* (No Comment) */
+"Nothing to do, go play outside!" = "Kahore ki te mahi, haere tākaro ki waho!";
+
+/* (No Comment) */
+"Nothing to see here." = "Kahore ki te kite i konei.";
+
+/* (No Comment) */
+"Notification" = "Whakamōhiotanga";
+
+/* (No Comment) */
+"Notification Preferences" = "Manakohanga Whakamōhiotanga";
+
+/* (No Comment) */
+"Notifications" = "Whakamōhiotanga";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Observer" = "Kaimātakitaki";
+
+/* (No Comment) */
+"Ok" = "Ok";
+
+/* Online URL submission type */
+"Online URL" = "URL Ipurangi";
+
+/* Title for an error alert */
+"Oops!" = "Oops!";
+
+/* Link to Open Source Components */
+"Open Source Components" = "Tuwhera i ngā puna wāhanga";
+
+/* Open a document in the application Safari */
+"Open in Safari" = "Tuwhera i roto i te Safari";
+
+/* (No Comment) */
+"Open in SpeedGrader" = "Tuwhera i roto i te SpeedGrader";
+
+/* Open file in another application */
+"Open in..." = "Tuwhera i roto i ...";
+
+/* No comment provided by engineer. */
+"Other" = "Ētahi atu";
+
+/* (No Comment) */
+"Other replies hidden until you reply" = "Ētahi atu whakautu huna noa whakautu koe";
+
+/* Title for Outcomes tab */
+"Outcomes" = "Putanga";
+
+/* (No Comment) */
+"Page" = "Whārangi";
+
+/* No comment provided by engineer. */
+"Past" = "Mua";
+
+/* Title for the people view */
+"People" = "Iwi";
+
+/* (No Comment) */
+"Pinned Discussions" = "Matapaki Pinea";
+
+/* (No Comment) */
+"Play" = "Tākaro";
+
+/* Network error message */
+"Please check your network connection and try again." = "tirohia koa koutou hononga whatunga, me te ngana anō.";
+
+/* No comment provided by engineer. */
+"Post" = "Pou";
+
+/* (No Comment) */
+"Post Comment" = "Pou Tākupu";
+
+/* No comment provided by engineer. */
+"Post comment" = "Pou Tākupu";
+
+/* (No Comment) */
+"Posting…" = "Posting ...";
+
+/* (No Comment) */
+"Posts your comment" = "Pou koutou kōrero";
+
+/* No comment provided by engineer. */
+"Previous item" = "tūemi o mua";
+
+/* Link to the privacy policy */
+"Privacy Policy" = "Kaupapahere tūmataiti";
+
+/* Title for profile screen */
+"Profile" = "Kōtaha";
+
+/* A short test taken by students */
+"Quiz" = "Pātaitai";
+
+/* Title for alert notifying users that support for quizzes on mobile is limited. */
+"Quiz Alert" = "Pātaitai Matohi";
+
+/* The title for the list of quizzes for a course */
+"Quizzes" = "Ngā pātaitai";
+
+/* (No Comment) */
+"Rate on App Store" = "Auau i runga i Toa Taupānga";
+
+/* (No Comment) */
+"Rating for %1$@, Score: %2$g" = "Whakatauranga mō %1$@, Piro: %2$g";
+
+/* Title for a button allowing user to re-submit files for an assignment */
+"Re-submit Assignment" = "Re-tuku Taumahi";
+
+/* (No Comment) */
+"Recipients" = "Kaiwhiwhi";
+
+/* (No Comment) */
+"Record" = "Record";
+
+/* Record audio submission comment */
+"Record Audio" = "Record Ororongo";
+
+/* Record audio to use in a comment. */
+"Record Audio..." = "Record Ororongo ...";
+
+/* Record video submission comment option */
+"Record Video" = "Record Ataata";
+
+/* No comment provided by engineer. */
+"Record audio" = "Record ororongo";
+
+/* No comment provided by engineer. */
+"Record video" = "Record ataata";
+
+/* (No Comment) */
+"Refresh Button" = "Pātene Tāmata";
+
+/* (No Comment) */
+"Refreshes the calendar content" = "Ka ora hoki te ihirangi maramataka";
+
+/* (No Comment) */
+"Refreshing Calendar Events" = "Takahanga Maramataka Tāmata";
+
+/* Confirmation for removing a file */
+"Remove" = "Tangohia te";
+
+/* Button title for confirming a file deletion */
+"Remove this file?" = "Tangohia te tenei kōnae?";
+
+/* (No Comment) */
+"Report a problem" = "Pūrongo i te raruraru";
+
+/* (No Comment) */
+"Request a feature" = "Tono he āhuatanga";
+
+/* (No Comment) */
+"Rubric" = "Rubric";
+
+/* (No Comment) */
+"Save" = "Tiaki";
+
+/* Title for Assignment Notifications Sheet */
+"Schedule Notification" = "Whakamōhiotanga Apiti";
+
+/* (No Comment) */
+"Search for recipients" = "Rapu mō ngā kaiwhiwhi";
+
+/* Title for a file picker window */
+"Select file(s)" = "Tīpako kōnae(s)";
+
+/* No comment provided by engineer. */
+"Select or deselect" = "Tīpakohia whakawātea ranei";
+
+/* No comment provided by engineer. */
+"Selected" = "Tīpakohia";
+
+/* (No Comment) */
+"Send" = "Tukua";
+
+/* (No Comment) */
+"Send %@ a message" = "Tukua %@ te karere";
+
+/* No comment provided by engineer. */
+"Send Message" = "Tukua Karere";
+
+/* (No Comment) */
+"Sent" = "Tonoa";
+
+/* Title for Settings */
+"Settings" = "Tautuhinga";
+
+/* (No Comment) */
+"Show Grades" = "Whakaatu Ngā Kōeke";
+
+/* title for quiz assignment submission button */
+"Show Quiz" = "Whakaatu Pātaitai";
+
+/* (No Comment) */
+"Show file" = "Whakaatu kōnae";
+
+/* (No Comment) */
+"Show recipients" = "Whakaatu kaiwhiwhi";
+
+/* (No Comment) */
+"Some items could not be deleted" = "kihai ētahi tūemi i taea te muku";
+
+/* (No Comment) */
+"Some selected folders are not empty. Are you sure you want to delete them?" = "e kore e kau ētahi kōpaki tīpakohia. E tino koe e hiahia ana koe ki te muku ratou?";
+
+/* 404 Error for missing assignment */
+"Sorry, we couldn't find the assignment. This assignment may have been deleted." = "Aroha mai, kihai i kitea e tatou i te ohipa. kia Kua mukua tēnei taumahi.";
+
+/* (No Comment) */
+"Starts playing your recording" = "Tīmata te tākaro koutou tuhi";
+
+/* (No Comment) */
+"Starts recording a media comment" = "Tīmata tuhi he kōrero pāpāho";
+
+/* (No Comment) */
+"Stay Logged In" = "Noho takiuru";
+
+/* Stop loading button for webview */
+"Stop" = "Kāti";
+
+/* (No Comment) */
+"Stop Masquerading" = "Kāti e whakaahua ana";
+
+/* (No Comment) */
+"Stops playing your recording" = "Mutu tākaro koutou tuhi";
+
+/* (No Comment) */
+"Stops recording a media comment" = "Mutu tuhi he kōrero pāpāho";
+
+/* No comment provided by engineer. */
+"Student" = "Ākonga";
+
+/* (No Comment) */
+"Sub Header" = "Subheader";
+
+/* No comment provided by engineer. */
+"Submission" = "Tāpaetanga";
+
+/* Title for file submission error */
+"Submission Error" = "Hapa Tāpaetanga";
+
+/* (No Comment) */
+"Submission complete" = "Tāpaetanga oti";
+
+/* Submit Arc video as assignment button */
+"Submit" = "Tuku";
+
+/* Submitted grouping */
+"Submitted" = "Tukuna";
+
+/* (No Comment) */
+"Submitting..." = "Tuku ...";
+
+/* Subscribe to calendar feed allows the user to export their calendar events to a 3rd party calendar */
+"Subscribe to calendar feed" = "Ohauru ki te Maramataka kai";
+
+/* Masquerade success title */
+"Success!" = "Angitu!";
+
+/* (No Comment) */
+"Sure!" = "Papau!";
+
+/* (No Comment) */
+"Switches media input between audio and video. Currently set to %@" = "Huri tāuru pāpāho i waenganui i oro me te ataata. I tēnei wā whakaturia ki te %@";
+
+/* (No Comment) */
+"Switches to media comment mode" = "Whakakā ki aratau kōrero pāpāho";
+
+/* (No Comment) */
+"Switches to text comment mode" = "Whakakā ki aratau kōrero kuputuhi";
+
+/* Title for Syllabus screen */
+"Syllabus" = "Marautanga";
+
+/* (No Comment) */
+"TA" = "TA";
+
+/* No comment provided by engineer. */
+"TAs" = "TAs";
+
+/* Button label for taking a photo */
+"Take Photo" = "Tangohia Photo";
+
+/* Take a picture or video to use in a comment. */
+"Take Photo or Video..." = "Tangohia Photo Ataata ranei ...";
+
+/* Take a picture to use in a comment. */
+"Take a Photo..." = "E mau ki te Whakaahua ...";
+
+/* Take a video to use in a comment. */
+"Take a Video..." = "E mau ki te Ataata ...";
+
+/* (No Comment) */
+"Tap to try again" = "Pato ki ngana anō";
+
+/* (No Comment) */
+"Teacher" = "Kaiako";
+
+/* No comment provided by engineer. */
+"Teachers" = "Kaiako";
+
+/* (No Comment) */
+"Tell us what's wrong" = "Korerotia mai ki a matou he aha te te he";
+
+/* Link to the Terms of Use */
+"Terms of Use" = "Ngā Ture Whakamahi";
+
+/* (No Comment) */
+"Text Comment" = "Tākupu kuputuhi";
+
+/* Title for a text submission cell */
+"Text Submission" = "Tāpaetanga Kuputuhi";
+
+/* Text entry submission type */
+"Text entry" = "tāurunga Kuputuhi";
+
+/* (No Comment) */
+"The recipients could not be added. Please try again. (%@)" = "e kore i taea te tāpiri i te kaiwhiwhi. Koa ngana anō. (%@)";
+
+/* (No Comment) */
+"The server could not be reached" = "e kore i taea te tae te tūmau";
+
+/* (No Comment) */
+"The server you entered is not authorized for this app." = "E kore te tūmau tomo koutou te mana mo tenei taupānga.";
+
+/* (No Comment) */
+"The user agent for this app is unauthorized." = "Te kaihoko kaiwhakamahi mo tenei taupānga he kāore.";
+
+/* Error message */
+"There are no actions for this item" = "Kāore he mahi hoki tenei tūemi";
+
+/* (No Comment) */
+"There are no items to display" = "Kāore he tūemi ki te whakaatu";
+
+/* message for media comment upload failure */
+"There was a network error posting your comment." = "He ko he hapa whatunga tuku koutou kōrero.";
+
+/* message for failed submission upload */
+"There was a network problem while attempting to upload your submission" = "He ko he raru whatunga wā e ngana ana ki te tukuatu koutou tāpaetanga";
+
+/* Error message when fetching a file fails */
+"There was a problem accessing the requested file.\n\nError: %@" = "He ko he raruraru whakauru i te kōnae tonoa.\n\nHapa:% @";
+
+/* No comment provided by engineer. */
+"There was a problem launching Safari" = "He ko he raruraru whakarewa Safari";
+
+/* Web browser error handling message */
+"There was an error loading the document." = "He ko he hapa utanga i te tuhinga.";
+
+/* No comment provided by engineer. */
+"There was an error loading your content. If it is an audio or video upload it may still be processing." = "He ko he hapa uta koutou ihirangi. Ki te mea he ororongo ataata ranei tukuake ai tonu te tukatuka i te reira.";
+
+/* (No Comment) */
+"This app is not authorized for use." = "e kore te tēnei taupānga mana hoki te whakamahi.";
+
+/* No comment provided by engineer. */
+"This assignment doesn't appear to be a valid external tool or is misconfigured." = "Kāore tēnei taumahi puta ki te waiho i te taputapu waho whaimana te whirihoranga ranei.";
+
+/* message displayed in the details section if there is no comment. */
+"This assignment has no details." = "kahore kōrero tēnei taumahi.";
+
+/* Error message for refresh failing with an unauthorized code */
+"This can happen if your course hasn't started yet or you don't have permission to access this page." = "Ka taea tēnei ki te mea kaore ano i timata to akoranga mehemea kaore koe i te whakaaetanga kia uru atu ki tēnei wāhanga.";
+
+/* (No Comment) */
+"This entry has been deleted" = "Kua tēnei tāurunga kua mukua";
+
+/* Text indicating a file cannot be previewed */
+"This file cannot be displayed on this device." = "e kore e taea te whakaatu i tēnei kōnae i runga i tenei pūrere.";
+
+/* (No Comment) */
+"This file is locked" = "maukatia tēnei kōnae te";
+
+/* (No Comment) */
+"This folder is locked" = "kiia ana tēnei kōpaki te";
+
+/* (No Comment) */
+"This is a media message." = "Ko te karere pāpāho tenei.";
+
+/* (No Comment) */
+"This would be a great time to do some extra credit." = "e riro i te wa nui ki te mahi i te tahi mau nama anō tēnei.";
+
+/* (No Comment) */
+"To Do" = "ki te E";
+
+/* (No Comment) */
+"To:" = "Ki:";
+
+/* No comment provided by engineer. */
+"Today" = "Teie mahana";
+
+/* (No Comment) */
+"Today Button" = "Pātene Teie mahana";
+
+/* No comment provided by engineer. */
+"Toggles selection of current item" = "Takahuri kōwhiringa o tūemi onāianei";
+
+/* No comment provided by engineer. */
+"Toggles selection of item" = "Ka takahuri kōwhiringa o tūemi";
+
+/* title for assignment submission button */
+"Turn In" = "Tahuri I roto i";
+
+/* title for re-submitting an assignment */
+"Turn In Again" = "Tahuri I roto i ano";
+
+/* (No Comment) */
+"Turn in %@" = "Tahuri i roto i te %@";
+
+/* (No Comment) */
+"Uh-oh! No Internet Connection" = "Uh-oh! Kahore Hononga Ipurangi";
+
+/* (No Comment) */
+"Unable to load" = "Kāore e taea te ki te uta";
+
+/* (No Comment) */
+"Unable to post. Please try again later" = "Kāore e taea te ki pou. Koa ngana anō i muri mai";
+
+/* message saying that avatar couldn't be loaded to server */
+"Unable to upload to server" = "Kāore e taea te tukuatu ki tūmau";
+
+/* Error message for refresh failing on an MLVC tableview controller */
+"Unauthorized" = "kāore";
+
+/* (No Comment) */
+"Unavailable" = "Wātea";
+
+/* (No Comment) */
+"Ungraded" = "Tē Mākahia";
+
+/* Unknown file type */
+"Unknown" = "unknown";
+
+/* (No Comment) */
+"Unread" = "Pānuihia";
+
+/* (No Comment) */
+"Unsaved Reply" = "Whakautu Tiaki";
+
+/* Button title for uploading a file */
+"Upload" = "Tukuatu";
+
+/* (No Comment) */
+"Upload Error" = "Hapa Tukuake";
+
+/* No comment provided by engineer. */
+"Upload a file" = "Tukua ake he kōnae";
+
+/* (No Comment) */
+"Upload failed. Reason: (%@)" = "rahua Tukuake. Take: (%@)";
+
+/* (No Comment) */
+"Upload file" = "kōnae Tukuake";
+
+/* Error message */
+"Upload to assignment \"%@\" failed" = "Tukuatu ki ngāue \"%@\" rahua";
+
+/* (No Comment) */
+"Upload to assignment &quot;%@&quot; failed" = "Tukuatu ki te taumahi &quot;%@&quot; rahua";
+
+/* (No Comment) */
+"Upload to folder &quot;%@&quot; failed" = "Tukuatu ki te kōnae&quot;%@&quot; rahua";
+
+/* button for using the recorded audio */
+"Use" = "Whakamahi";
+
+/* (No Comment) */
+"User ID" = "ID Kaiwhakamahi";
+
+/* Title for User Info section on the about page */
+"User Info" = "Info Kaiwhakamahi";
+
+/* Video file type */
+"Video" = "Ataata";
+
+/* (No Comment) */
+"Video error" = "hapa ataata";
+
+/* (No Comment) */
+"View" = "Tirohia";
+
+/* (No Comment) */
+"Warning" = "Whakatūpato";
+
+/* error message for failure to load a file submission */
+"We had a problem loading the submission. Please try again later." = "i matou i te raruraru te uta i te tāpaetanga. Koa ngana anō i muri mai.";
+
+/* (No Comment) */
+"We were unable to verify the server for use with this app." = "i taea ki te manatoko i te tūmau mō te whakamahi ki tenei taupānga matou.";
+
+/* Error Title */
+"Whoops!" = "Whoops!";
+
+/* (No Comment) */
+"Will unlock %@." = "E iriti %@.";
+
+/* (No Comment) */
+"Would you like to create a new message?" = "E hiahia ana koe ki te waihanga i tētahi karere hou?";
+
+/* (No Comment) */
+"Would you mind giving us a rating on the app store?" = "E whakaaro hoatu koe matou he whakatauranga runga i te toa taupānga?";
+
+/* (No Comment) */
+"Would you mind letting us know the problems you have been having with the app?" = "E whakaaro koutou tuku matou e mohio ki te mau fifi i koe he ki te taupānga?";
+
+/* (No Comment) */
+"Yes" = "Ae";
+
+/* (No Comment) */
+"You are now masquerading as %@" = "E whakaahua koe i teie nei rite %@";
+
+/* Masquerade success message */
+"You are now masquerading as %@. To Stop Masquerading go to your Profile." = "E whakaahua koe i teie nei rite %@. Ki Kati whakaahua haere ki tō kōtaha.";
+
+/* (No Comment) */
+"You do not have SpeedGrader for iPad. You can download it for free from the App Store." = "e kore koe e whai SpeedGrader mo iPad. Ka taea e koe te tiki i te reira no te kore utu i te store taupānga.";
+
+/* (No Comment) */
+"You do not have access to this content. The Course or Group may not have started, or may have been concluded." = "e kore koe e whai wāhi ki tenei ihirangi. kore ai i tīmata te Akoranga Rōpū ranei, kua mutu ai ranei.";
+
+/* (No Comment) */
+"You do not have permission to delete this reply" = "e kore koe e whai whakaaetanga ki te muku i tēnei whakautu";
+
+/* Masquerade error message */
+"You don't have permission to masquerade as this user or there is no user with that ID" = "e kore koe e whai whakaaetanga ki te whakaahua ke ano tenei kaiwhakamahi ranei kahore he kaiwhakamahi ki taua ID";
+
+/* (No Comment) */
+"You have an unsaved reply. Would you like to discard that reply?" = "E koe te whakautu i tiakina. E rite koe ki te tūraki i te whakautu?";
+
+/* An explanation of how to transfer files to the Canvas app. */
+"You have no files available for upload. To add files from other apps, find a file in another app, then find the \"Open In\" button to open it in Canvas. You can also tap and hold on attachments in the Mail app to open them in Canvas." = "Kaore he kōnae mau hei tukuatu. Hei tāpiri ngā kōnae mai i tētahi atu taupanga, kitea he kōnae i roto i tētahi atu taupanga, ā kitea te “ Whakatuwhera i roto” pātene ki te whakatuwhera i roto i Canvas. Ka taea hoki e koe ki te pato me te mau i runga i ngā āpitihanga i roto i te Mēra taupanga ki te whakatuwhera ia rātou i roto i Canvas.";
+
+/* (No Comment) */
+"You must first complete:" = "Me whakaoti koe i te tuatahi:";
+
+/* (No Comment) */
+"You need a title and a description to post" = "Me koe te taitara me te whakamārama ki te tuku";
+
+/* (No Comment) */
+"You should go rate Canvas on the App Store!" = "Kia haere koe auau Kanaweti i runga i te toa taupānga!";
+
+/* (No Comment) */
+"Your files could not be found" = "kihai koutou kōnae i kitea";
+
+/* Media submission type selected with no Kaltura set up */
+"Your school's configuration does not allow the type of submission selected for this assignment" = "e kore e whirihoranga o tou kura tukua te momo o te tāpaetanga tīpakohia mō tenei taumahi";
+
+/* (No Comment) */
+"due on %1$@ at %2$@" = "e tika ana i runga i %1$@ i %2$@";
+
+/* (No Comment) */
+"moments ago" = "taime i ma'iri a'e";
+
+/* No comment provided by engineer. */
+"out of" = "i roto i te";
+
+/* (No Comment) */
+"out of %@" = "i roto i te %@";
+
+/* (No Comment) */
+"out of %@ points" = "i roto i te ngā %@";
+
+/* (No Comment) */
+"photo" = "photo";
+
+/* (No Comment) */
+"unknown" = "unknown";
+
+/* (No Comment) */
+"until %@" = " Tae noa %@";
+

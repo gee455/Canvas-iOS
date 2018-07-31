@@ -1,0 +1,9 @@
+/* (No Comment) */
+"NSCameraUsageDescription" = "投稿のコメントに写真や動画を添付します。";
+
+/* (No Comment) */
+"NSMicrophoneUsageDescription" = "投稿コメントにオーディオ録音を添付します。";
+
+/* (No Comment) */
+"NSPhotoLibraryUsageDescription" = "コースにコンテンツをアップロードします。";
+

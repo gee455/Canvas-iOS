@@ -1,0 +1,440 @@
+/* <String> <Int> of <Int> */
+"%@ %d of %d" = "%1$@ %2$d af %3$d";
+
+/* Something to Something */
+"%@ to %@" = "%1$@ til %2$@";
+
+/* Percentage field placeholder */
+"1-100%" = "1-100%";
+
+/* Server Error Message */
+"A server error has occurred.  Please try again." = "En serverfejl opstod. Prøv venligst igen.";
+
+/* Alerts Tab */
+"ALERTS" = "ALARMER";
+
+/* Unauthorized Student Error Title */
+"Access Denied" = "Adgang nægtet";
+
+/* Add Student Settings Button Title */
+"Add Student" = "Tilføj studerende";
+
+/* Alert Section Header */
+"Alert me when:" = "Alarmer mig når:";
+
+/* Generic Network Error Message */
+"An unexpected error occurred.  Please try again." = "En uventet fejl opstod. Prøve venligst igen.";
+
+/* Logout Confirmation */
+"Are you sure you want to logout?" = "Er du sikker på, at du ønsker at logge ud?";
+
+/* Remove Observee Confirmation */
+"Are you sure you want to remove this observee?" = "Er du sikker på, at du ønsker at fjerne denne observatør?";
+
+/* Assignment Grade High On Description */
+"Assignment grade above" = "Opgavekarakter over";
+
+/* Assignment Grade Low On Description */
+"Assignment grade below" = "Opgavekarakter under";
+
+/* Assignment Missing Description */
+"Assignment missing" = "Manglende opgave";
+
+/* No comment provided by engineer. */
+"Assignment reminder: %@" = "Opgavepåmindelse: %@";
+
+/* No comment provided by engineer. */
+"Assignment reminder: %@ is due at %@" = "Opgavepåmindelse: %1$@ er fofalden den %2$@";
+
+/* No comment provided by engineer. */
+"Australia" = "Australien";
+
+/* Authorization Failed Title */
+"Authorization Failed." = "Autorisation mislykkedes.";
+
+/* Back Button Title */
+"Back" = "Tilbage";
+
+/* Courses Tab */
+"COURSES" = "KURSER";
+
+/* No comment provided by engineer. */
+"Canada" = "Canada";
+
+/* Cancel button title */
+"Cancel" = "Annuller";
+
+/* Percent value is over 100 */
+"Cannot use percent that is higher than 100" = "Kan ikke benytte en procent, der er højere end 100";
+
+/* Percent value is under 0 */
+"Cannot use percent that is less than 0" = "Kan ikke benytte en procent, der er mindre end 0";
+
+/* Cancel the question/suggestion form */
+"Casual question or suggestion" = "Uformelt spørgsmål eller forslag";
+
+/* Empty Alerts Text */
+"Caught up on Alerts" = "Ajourført med alarmer";
+
+/* title for status selection field */
+"Choose One" = "Vælg en";
+
+/* Close Button Title */
+"Close" = "Luk";
+
+/* Error alert message */
+"Could not create domain.  Please check your school's domain and try again." = "Kunne ikke oprette domæne.  Tjek venligst din skoles domæne og prøv igen.";
+
+/* Course Announcement Description */
+"Course announcements" = "Kursusbekendtgørelser";
+
+/* Course Grade High On Description */
+"Course grade above" = "Kursuskarakter over";
+
+/* Course Grade Low On Description */
+"Course grade below" = "Kursuskarakter under";
+
+/* Submits the form to create an account */
+"Create Account" = "Opret konto";
+
+/* Title for field */
+"Describe your problem" = "Beskriv dit problem";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Afvis";
+
+/* Title for alert shown when the server couldn't find an email to reset the password for */
+"Email Not Found" = "E-mail ikke fundet";
+
+/* Title for alert shown when user attempts to reset their password */
+"Email Sent" = "E-mail sendt";
+
+/* Empty Response */
+"Empty Response." = "Tomt svar.";
+
+/* Prompt for logging in as student */
+"Enter student's login information" = "Indtast studerendes login informationer";
+
+/* prompt for canvas observer login page */
+"Enter your Canvas Observer credentials" = "Indtast dine Canvas Observer legitimationsoplysninger";
+
+/* Title for an error popup */
+"Error" = "Fejl";
+
+/* No comment provided by engineer. */
+"Event reminder: %@" = "Begivenhedspåmindelse: %@";
+
+/* No comment provided by engineer. */
+"Event reminder: %@ will begin at %@" = "Begivenhedspåmindelse: %1$@ vil begynde den %2$@";
+
+/* No comment provided by engineer. */
+"Excused" = "Undskyldt";
+
+/* Status level for issue being reported */
+"Extremely critical emergency" = "Ekstrem kritisk nødsituation";
+
+/* Domain Picker Search Placeholder */
+"Find your school or district" = "Find din skole eller distrikt";
+
+/* Domain Picker Search Placeholder */
+"Find your student's school or district" = "Find din studerendes skole eller distrikt";
+
+/* No comment provided by engineer. */
+"Germany" = "Tyskland";
+
+/* Help Button Title */
+"Help" = "Hjælp";
+
+/* Help Guide Button */
+"Help Guide" = "Hjælpeguide";
+
+/* High Assignment Grade too Low */
+"High assignment grade cannot be lower than low assignment grade" = "Høj opgavekarakter kan ikke være lavere end lav opgavekarakter";
+
+/* High Course Grade too Low */
+"High course grade cannot be lower than low course grade" = "Høj kursuskarakter kan ikke være lavere end lav kursuskarakter";
+
+/* Help Menu Message */
+"How can we help?" = "Hvordan kan vi hjælpe?";
+
+/* Status level for issue being reported */
+"I can't get things done until fixed" = "Jeg kan ikke udføre ting før det er fikset";
+
+/* Status level for issue being reported */
+"I need help but it's not urgent" = "Jeg behøver hjælp, men det er ikke en hastesag";
+
+/* Impact Title */
+"Impact:" = "Indvirkning:";
+
+/* No comment provided by engineer. */
+"In-Class" = "I klasse";
+
+/* Institution Announcement Description */
+"Institution announcements" = "Institutionsbekendtgørelse";
+
+/* Invalid Canvas URL */
+"Invalid Canvas URL." = "Ugyldig Canvas-webadresse.";
+
+/* Alert title when logging in with invalid credentials */
+"Invalid Credentials" = "Ugyldig legitimationsinformationer";
+
+/* Title for an alert view */
+"Invalid Input" = "Ugyldigt input";
+
+/* Support Ticket Invalid Input Message */
+"Invalid Input.  Check fields and try again." = "Ugyldigt input.  Marker felter og prøv igen.";
+
+/* Invalid User Agent */
+"Invalid User Agent." = "Ugyldig brugeragent.";
+
+/* Invalid Domain title */
+"Invalid domain." = "Ugyldigt domæne.";
+
+/* Alert Message for invalid domain */
+"Invalid student domain.\nPlease double-check the domain and try again." = "Ugyldig studentdomæne.\nDobbelt tjek venligst domænet og prøv igen.";
+
+/* No comment provided by engineer. */
+"Ireland" = "Irland";
+
+/* JSON Parsing Error */
+"JSON Parsing Error." = "JSON parsing-fejl.";
+
+/* Last Week Button Accessibility Label */
+"Last Week" = "Sidste uge";
+
+/* No comment provided by engineer. */
+"Late" = "Sen";
+
+/* No comment provided by engineer. */
+"Late: %@" = "Sen: %@";
+
+/* No comment provided by engineer. */
+"Late: %@ (%@/%@)" = "Sen: %1$@ (%2$@/%3$@)";
+
+/* No comment provided by engineer. */
+"Log In" = "Log på";
+
+/* Submits the login form */
+"Login" = "Log ind";
+
+/* Logout Confirm Button */
+"Logout" = "Log ud";
+
+/* Low Assignment Grade too High */
+"Low assignment grade cannot be higher than high assignment grade" = "Lav opgavekarakter kan ikke være højere end høj opgavekarakter";
+
+/* Low Course Grade too High */
+"Low course grade cannot be higher than high course grade" = "Lav kursuskarakter kan ikke være højere end høj kursuskarakter";
+
+/* No comment provided by engineer. */
+"Missing" = "Manglende";
+
+/* No comment provided by engineer. */
+"Missing: (-/%@)" = "Manglende: (-/%@)";
+
+/* Generic Network Error Title */
+"Network Error" = "Netværk fejl";
+
+/* Next Week Button Accessibility Label */
+"Next Week" = "Næste uge";
+
+/* Empty Courses Text */
+"No Courses" = "Ingen kurser";
+
+/* Title for label when no grade has been assigned to the course */
+"No Grade" = "Ingen karakterer";
+
+/* No Result */
+"No Result." = "Intet resultat.";
+
+/* Empty Students Text */
+"No Students" = "Ingen studerende";
+
+/* Error message */
+"No installed apps support opening this file" = "Ingen installerede apps understøtter åbning af denne fil";
+
+/* Not Authorized Error Title */
+"Not Authorized" = "Ikke autoriseret";
+
+/* Not Found Error Title */
+"Not Found" = "Ikke fundet";
+
+/* Not authorized */
+"Not authorized." = "Ikke godkendt.";
+
+/* Empty Calendar Events Text */
+"Nothing this week" = "Intet denne uge";
+
+/* OK Button Title */
+"OK" = "OK";
+
+/* Canvas Observer Auth Failed Message */
+"Only Canvas observers can authenticate in Canvas Parent." = "Kun Canvas-observatører kan godkende i Canvas Parent.";
+
+/* Open Source Components Button */
+"Open Source Components" = "Open Source-komponenter";
+
+/* Open a url in the application Safari */
+"Open in Safari" = "Åbn i Safari";
+
+/* Open file in another application */
+"Open in..." = "Åbn i...";
+
+/* Title for alert when resetting password is successful */
+"Password Reset Successful" = "Adgangskode nulstillet succesfuldt";
+
+/* Invalid Domain message */
+"Please double-check the domain and try again." = "Kontroller domænet, og prøv igen.";
+
+/* Title for alert shown when something goes wrong resetting the password */
+"Problem Resetting Password" = "Problem med nulstilling af adgangskode";
+
+/* Remove button title */
+"Remove" = "Fjern";
+
+/* delete student from login */
+"Remove Student" = "Fjern studerende";
+
+/* re-authenticate user when token fails */
+"Repair Access" = "Reparer adgang";
+
+/* Report Problem Button */
+"Report a Problem" = "Rapporter et problem";
+
+/* Support Ticket Creation Failed */
+"Request Failed!  Check network and try again!" = "Forespørgsel mislykkedes!  Tjek netværk og prøv igen!";
+
+/* Feature Request Button */
+"Request a Feature" = "Anmod om en funktion";
+
+/* Not Found Error Message */
+"Resource not found.  Please try again." = "Resurse ikke fundet. Prøve venligst igen.";
+
+/* Select Impact Placeholder */
+"Select Impact" = "Vælg virkning";
+
+/* No comment provided by engineer. */
+"Select Region" = "Vælg region";
+
+/* Server Error Title */
+"Server Error" = "Server fejl";
+
+/* Settings Button Title
+   Title of the settings screen */
+"Settings" = "Indstillinger";
+
+/* Share Some Love Button */
+"Share Some Love" = "Del kærlighed";
+
+/* No comment provided by engineer. */
+"Singapore" = "Singapore";
+
+/* Status level for issue being reported */
+"Something is broken but I can work around it" = "Noget virker ikke, men jeg kan klare mig";
+
+/* Body for alert shown when something goes wrong resetting the password */
+"Something went wrong while attempting to reset your password. Try again later." = "Noget gik galt, mens det blev forsøgt at nulstille din adgangskode. Prøv igen senere.";
+
+/* Body for alert shown when something goes wrong resetting the password */
+"Something went wrong while attempting to send a password reset email. Try again later." = "Noget gik galt, mens det blev forsøgt at sende en adgangskode-nulstillings e-mail. Prøv igen senere.";
+
+/* Title for the subject field */
+"Subject" = "Emne";
+
+/* Button title for forgot password */
+"Submit" = "Indsend";
+
+/* No comment provided by engineer. */
+"Submitted" = "Indsendt";
+
+/* No comment provided by engineer. */
+"Submitted: %@" = "Indsendt: %@";
+
+/* No comment provided by engineer. */
+"Submitted: %@ (%@/%@)" = "Indsendt: %1$@ (%2$@/%3$@)";
+
+/* Syllabus Button Title */
+"Syllabus" = "Pensum";
+
+/* Support Ticket Created Successfully */
+"Thanks, your request was received!" = "Tak, din anmodning er modtaget!";
+
+/* Alert message when logging in with invalid credentials. Please check your region and try again. */
+"The email and password combination were invalid" = "E-mail og adgangskode kombination er ugyldig";
+
+/* Error message */
+"There are no actions for this item" = "Der er ingen handlinger for dette element";
+
+/* AccountDomain Database Load Failure Message */
+"There was a problem loading the AccountDomain database file." = "Der opstod et problem ved indlæsning af AccountDomain database-fil.";
+
+/* AlertKit Database Load Failure Message */
+"There was a problem loading the AlertKit database file." = "Der opstod et problem ved indlæsning af AlertKit database-fil.";
+
+/* Airwolf database error message */
+"There was a problem loading the database." = "Der opstod et problem ved indlæsning af databasen.";
+
+/* Message for an error alert */
+"There was a problem verifying the following domain: (stringURL)" = "Der opstod et problem ved kontrol af følgende domæne: (stringURL)";
+
+/* No comment provided by engineer. */
+"There was an error loading your content. If it  is an audio or video upload it may still be processing." = "Der opstod en fejl under indlæsning af dit indhold. Hvis det er en audio eller video upload, behandles det muligvis stadig.";
+
+/* Alert Message for institution not authorized */
+"This institution has not enabled access to the Canvas Parent mobile app." = "Denne institution har ikke aktiveret adgang til Canvas Parent mobile app.";
+
+/* No comment provided by engineer. */
+"This institution is located outside of your selected region. To add a student at this institution, please use the “Region Picker” option on the login page to select the region of (region), and create a new account." = "Denne institution er placeret uden for dit valgte område. For at tilføje en studerende på denne institution skal du bruge \"Vælg region\" på login-siden for at vælge regionen (region), og opret en ny konto.";
+
+/* Title for alert when failing to add student domain */
+"Unable to Add Student" = "Ikke i stand til at tilføje studerende";
+
+/* Title for alert when failing to create account */
+"Unable to Create Account" = "Ikke i stand til at oprette konto";
+
+/* No comment provided by engineer. */
+"Unauthorized Region" = "Uautoriseret region";
+
+/* Auth Failed Message */
+"Unexpected Authentication Error.  Please try logging in again" = "Uventet autorisationsfejl. Prøv venligst at logge ind igen";
+
+/* No comment provided by engineer. */
+"United States" = "USA";
+
+/* Unknown region for student account
+   Unknown T`hreshold Description */
+"Unknown" = "Ukendt";
+
+/* Default name given a user until we find their real name */
+"Unknown User" = "Ukendt bruger";
+
+/* Default user name, the computer-friendly version of their name, until we find their real user name */
+"Unknown User Name" = "Ukendt brugernavn";
+
+/* Name of action when viewing a reminder */
+"View" = "Se";
+
+/* Calendar Tab */
+"WEEK" = "UGE";
+
+/* Error message when failing to create account */
+"We couldn't create your account. Double check your information or try again later." = "Vi kunne ikke oprette din konto. Dobbelt tjek din information eller prøv igen senere.";
+
+/* Body for alert shown when the server couldn't find an email to reset the password for */
+"We couldn't find an account associated with that email. Double check that you entered it correctly, check your region, and try again." = "Vi kunne ikke finde en konto tilknyttet den e-mail. Kontroller, at du indtastede den rigtigt, tjek din region, og prøv igen.";
+
+/* Title for field */
+"What can we do better?" = "Hvad kan vi gøre bedre?";
+
+/* Not Authorized Error Message */
+"You are unauthorized to access this information.  Check your user permissions and try again." = "Du er ikke autoriseret til at have adgang til denne information. Tjek dine brugertilladelser og prøv igen.";
+
+/* Body for alert shown when resetting password */
+"You will receive an email shortly to finish the process of resetting your password." = "Du vil om kort tid modtage en e-mail for at færdiggøre processen for nulstilling af din adgangskode.";
+
+/* Title for the email field */
+"Your Email" = "Din e-mail";
+
+/* Body for alert after having successfully reset the password */
+"Your password has been successfully reset. Please log in now." = "Din adgangskode er succesfuldt blevet nulstillet. Log venligst ind nu.";
+

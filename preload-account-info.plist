@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>client_id</key>
+	<string>10000000000002</string>
+	<key>client_secret</key>
+	<string>KdyCTCrrA6RwxoipkkRGLRmYj4l2TlOcfLqKwEGwIclCetgqaXqQvPJAth7AZoqm</string>
+	<key>base_url</key>
+	<string>https://blitzprepuniversity.com/</string>
+</dict>
+</plist>

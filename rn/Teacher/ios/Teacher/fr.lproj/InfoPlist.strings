@@ -1,0 +1,9 @@
+/* (No Comment) */
+"NSCameraUsageDescription" = "Joindre des photos et des vidéos aux commentaires envoyés.";
+
+/* (No Comment) */
+"NSMicrophoneUsageDescription" = "Joindre les enregistrements audio aux commentaires envoyés.";
+
+/* (No Comment) */
+"NSPhotoLibraryUsageDescription" = "Télécharger le contenu des cours.";
+

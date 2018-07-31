@@ -1,0 +1,440 @@
+/* <String> <Int> of <Int> */
+"%@ %d of %d" = "%1$@ %2$d av %3$d";
+
+/* Something to Something */
+"%@ to %@" = "%1$@ till %2$@";
+
+/* Percentage field placeholder */
+"1-100%" = "1-100%";
+
+/* Server Error Message */
+"A server error has occurred.  Please try again." = "Ett serverfel inträffade. Försök igen.";
+
+/* Alerts Tab */
+"ALERTS" = "LARM";
+
+/* Unauthorized Student Error Title */
+"Access Denied" = "Åtkomst nekad";
+
+/* Add Student Settings Button Title */
+"Add Student" = "Lägg till elev";
+
+/* Alert Section Header */
+"Alert me when:" = "Larma mig när:";
+
+/* Generic Network Error Message */
+"An unexpected error occurred.  Please try again." = "Ett oväntat fel inträffade. Försök igen.";
+
+/* Logout Confirmation */
+"Are you sure you want to logout?" = "Är du säker på att du vill logga ut?";
+
+/* Remove Observee Confirmation */
+"Are you sure you want to remove this observee?" = "Är du säker på att du vill ta bort den här observatören?";
+
+/* Assignment Grade High On Description */
+"Assignment grade above" = "Uppgiftsbetyg över";
+
+/* Assignment Grade Low On Description */
+"Assignment grade below" = "Uppgiftsbetyg under";
+
+/* Assignment Missing Description */
+"Assignment missing" = "Uppgiften saknas";
+
+/* No comment provided by engineer. */
+"Assignment reminder: %@" = "Uppgiftspåminnelse: %@";
+
+/* No comment provided by engineer. */
+"Assignment reminder: %@ is due at %@" = "Uppgiftspåminnelse: %1$@ ska vara klar %2$@";
+
+/* No comment provided by engineer. */
+"Australia" = "Australien";
+
+/* Authorization Failed Title */
+"Authorization Failed." = "Auktorisering misslyckades.";
+
+/* Back Button Title */
+"Back" = "Tillbaka";
+
+/* Courses Tab */
+"COURSES" = "KURSER";
+
+/* No comment provided by engineer. */
+"Canada" = "Kanada";
+
+/* Cancel button title */
+"Cancel" = "Avbryt";
+
+/* Percent value is over 100 */
+"Cannot use percent that is higher than 100" = "Kan inte använda en procentsats som är högre än 100";
+
+/* Percent value is under 0 */
+"Cannot use percent that is less than 0" = "Kan inte använda en procentsats som är lägre än 0";
+
+/* Cancel the question/suggestion form */
+"Casual question or suggestion" = "Informell fråga eller förslag";
+
+/* Empty Alerts Text */
+"Caught up on Alerts" = "Läst av larmen";
+
+/* title for status selection field */
+"Choose One" = "Välj en";
+
+/* Close Button Title */
+"Close" = "Stäng";
+
+/* Error alert message */
+"Could not create domain.  Please check your school's domain and try again." = "Kunde inte skapa domän.  Vänligen kontrollera din skolas domän och försök igen.";
+
+/* Course Announcement Description */
+"Course announcements" = "Kursannonseringar";
+
+/* Course Grade High On Description */
+"Course grade above" = "Kursbetyg över";
+
+/* Course Grade Low On Description */
+"Course grade below" = "Kursbetyg under";
+
+/* Submits the form to create an account */
+"Create Account" = "Skapa konto";
+
+/* Title for field */
+"Describe your problem" = "Beskriv ditt problem";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Avfärda";
+
+/* Title for alert shown when the server couldn't find an email to reset the password for */
+"Email Not Found" = "E-posten hittades inte";
+
+/* Title for alert shown when user attempts to reset their password */
+"Email Sent" = "E-postmeddelandet skickades";
+
+/* Empty Response */
+"Empty Response." = "Tomt svar.";
+
+/* Prompt for logging in as student */
+"Enter student's login information" = "Fyll i elevens inloggningsinformation";
+
+/* prompt for canvas observer login page */
+"Enter your Canvas Observer credentials" = "Ange dina Canvas Observer referenser";
+
+/* Title for an error popup */
+"Error" = "Fel";
+
+/* No comment provided by engineer. */
+"Event reminder: %@" = "Händelsepåminnelse: %@";
+
+/* No comment provided by engineer. */
+"Event reminder: %@ will begin at %@" = "Händelsepåminnelse: %1$@ kommer att börja %2$@";
+
+/* No comment provided by engineer. */
+"Excused" = "Befriad";
+
+/* Status level for issue being reported */
+"Extremely critical emergency" = "Extremt kritiskt nödläge";
+
+/* Domain Picker Search Placeholder */
+"Find your school or district" = "Hitta din skola eller distrikt";
+
+/* Domain Picker Search Placeholder */
+"Find your student's school or district" = "Hitta din students skola eller distrikt";
+
+/* No comment provided by engineer. */
+"Germany" = "Tyskland";
+
+/* Help Button Title */
+"Help" = "Hjälp";
+
+/* Help Guide Button */
+"Help Guide" = "Hjälpguide";
+
+/* High Assignment Grade too Low */
+"High assignment grade cannot be lower than low assignment grade" = "Högt uppgiftsbetyg kan inte vara lägre än lågt uppgiftsbetyg";
+
+/* High Course Grade too Low */
+"High course grade cannot be lower than low course grade" = "Högt kursbetyg kan inte vara lägre än lågt kursbetyg";
+
+/* Help Menu Message */
+"How can we help?" = "Hur kan vi hjälpa till?";
+
+/* Status level for issue being reported */
+"I can't get things done until fixed" = "Jag kan inte göra något fören det är fixat";
+
+/* Status level for issue being reported */
+"I need help but it's not urgent" = "Jag behöver hjälp men det är inte akut";
+
+/* Impact Title */
+"Impact:" = "Påverkan:";
+
+/* No comment provided by engineer. */
+"In-Class" = "I klassen";
+
+/* Institution Announcement Description */
+"Institution announcements" = "Institutionsannonseringar";
+
+/* Invalid Canvas URL */
+"Invalid Canvas URL." = "Ogiltig Canvas webbadress.";
+
+/* Alert title when logging in with invalid credentials */
+"Invalid Credentials" = "Ogiltiga uppgifter";
+
+/* Title for an alert view */
+"Invalid Input" = "Ogiltig inmatning";
+
+/* Support Ticket Invalid Input Message */
+"Invalid Input.  Check fields and try again." = "Ogiltig inmatning.  Kontrollera fält och försök igen.";
+
+/* Invalid User Agent */
+"Invalid User Agent." = "Ogiltig användarombud.";
+
+/* Invalid Domain title */
+"Invalid domain." = "Ogiltig domän.";
+
+/* Alert Message for invalid domain */
+"Invalid student domain.\nPlease double-check the domain and try again." = "Ogiltig elevdomän.\nDubbelkolla domänen och försök igen.";
+
+/* No comment provided by engineer. */
+"Ireland" = "Irland";
+
+/* JSON Parsing Error */
+"JSON Parsing Error." = "JSON analysfel.";
+
+/* Last Week Button Accessibility Label */
+"Last Week" = "Förra veckan";
+
+/* No comment provided by engineer. */
+"Late" = "Sen";
+
+/* No comment provided by engineer. */
+"Late: %@" = "Sen: %@";
+
+/* No comment provided by engineer. */
+"Late: %@ (%@/%@)" = "Sen: %1$@ (%2$@/%3$@)";
+
+/* No comment provided by engineer. */
+"Log In" = "Logga in";
+
+/* Submits the login form */
+"Login" = "Inloggning";
+
+/* Logout Confirm Button */
+"Logout" = "Logga ut";
+
+/* Low Assignment Grade too High */
+"Low assignment grade cannot be higher than high assignment grade" = "Lågt uppgiftsbetyg kan inte vara högre än högt uppgiftsbetyg";
+
+/* Low Course Grade too High */
+"Low course grade cannot be higher than high course grade" = "Lågt kursbetyg kan inte vara högre än högt kursbetyg";
+
+/* No comment provided by engineer. */
+"Missing" = "Saknas";
+
+/* No comment provided by engineer. */
+"Missing: (-/%@)" = "Saknas: (-/%@)";
+
+/* Generic Network Error Title */
+"Network Error" = "Nätverksfel";
+
+/* Next Week Button Accessibility Label */
+"Next Week" = "Nästa vecka";
+
+/* Empty Courses Text */
+"No Courses" = "Inga kurser";
+
+/* Title for label when no grade has been assigned to the course */
+"No Grade" = "Inget betyg";
+
+/* No Result */
+"No Result." = "Inget resultat.";
+
+/* Empty Students Text */
+"No Students" = "Inga studenter";
+
+/* Error message */
+"No installed apps support opening this file" = "Inga installerade appar stöder öppning av den här filen";
+
+/* Not Authorized Error Title */
+"Not Authorized" = "Du har inte behörighet";
+
+/* Not Found Error Title */
+"Not Found" = "Hittades inte";
+
+/* Not authorized */
+"Not authorized." = "Inte behörig.";
+
+/* Empty Calendar Events Text */
+"Nothing this week" = "Inget den här veckan";
+
+/* OK Button Title */
+"OK" = "OK";
+
+/* Canvas Observer Auth Failed Message */
+"Only Canvas observers can authenticate in Canvas Parent." = "Endast Canvas observatörer kan verifiera i Canvas Parent.";
+
+/* Open Source Components Button */
+"Open Source Components" = "Open Source komponenter";
+
+/* Open a url in the application Safari */
+"Open in Safari" = "Öppna i Safari";
+
+/* Open file in another application */
+"Open in..." = "Öppna i...";
+
+/* Title for alert when resetting password is successful */
+"Password Reset Successful" = "Återställning av lösenord lyckades";
+
+/* Invalid Domain message */
+"Please double-check the domain and try again." = "Vänligen kontrollera domänen och försök igen.";
+
+/* Title for alert shown when something goes wrong resetting the password */
+"Problem Resetting Password" = "Problem vid återställning av lösenord";
+
+/* Remove button title */
+"Remove" = "Ta bort";
+
+/* delete student from login */
+"Remove Student" = "Ta bort elev";
+
+/* re-authenticate user when token fails */
+"Repair Access" = "Reparera åtkomst";
+
+/* Report Problem Button */
+"Report a Problem" = "Rapportera ett problem";
+
+/* Support Ticket Creation Failed */
+"Request Failed!  Check network and try again!" = "Begäran misslyckades!  Kontrollera nätverket och försök igen!";
+
+/* Feature Request Button */
+"Request a Feature" = "Efterfråga en funktion";
+
+/* Not Found Error Message */
+"Resource not found.  Please try again." = "Resursen hittades inte. Försök igen.";
+
+/* Select Impact Placeholder */
+"Select Impact" = "Välj påverkan";
+
+/* No comment provided by engineer. */
+"Select Region" = "Välj region";
+
+/* Server Error Title */
+"Server Error" = "Serverfel";
+
+/* Settings Button Title
+   Title of the settings screen */
+"Settings" = "Inställningar";
+
+/* Share Some Love Button */
+"Share Some Love" = "Dela kärlek";
+
+/* No comment provided by engineer. */
+"Singapore" = "Singapore";
+
+/* Status level for issue being reported */
+"Something is broken but I can work around it" = "Något är trasigt och jag kan inte hitta en alternativ lösning";
+
+/* Body for alert shown when something goes wrong resetting the password */
+"Something went wrong while attempting to reset your password. Try again later." = "Något gick fel när ditt lösenord återställdes. Försök igen senare.";
+
+/* Body for alert shown when something goes wrong resetting the password */
+"Something went wrong while attempting to send a password reset email. Try again later." = "Något gick fel när mailet för lösenordsåterställning skickades. Försök igen senare.";
+
+/* Title for the subject field */
+"Subject" = "Ämne";
+
+/* Button title for forgot password */
+"Submit" = "Skicka in";
+
+/* No comment provided by engineer. */
+"Submitted" = "Inskickad";
+
+/* No comment provided by engineer. */
+"Submitted: %@" = "Inskickad: %@";
+
+/* No comment provided by engineer. */
+"Submitted: %@ (%@/%@)" = "Inskickad: %1$@ (%2$@/%3$@)";
+
+/* Syllabus Button Title */
+"Syllabus" = "Antura tidsplan";
+
+/* Support Ticket Created Successfully */
+"Thanks, your request was received!" = "Tack, din förfrågan har tagits emot!";
+
+/* Alert message when logging in with invalid credentials. Please check your region and try again. */
+"The email and password combination were invalid" = "Kombination av lösenord och e-post är ogiltig";
+
+/* Error message */
+"There are no actions for this item" = "Det finns inga åtgärder för det här objektet";
+
+/* AccountDomain Database Load Failure Message */
+"There was a problem loading the AccountDomain database file." = "Ett problem uppstod vid laddningen av AccountDomain databas filen.";
+
+/* AlertKit Database Load Failure Message */
+"There was a problem loading the AlertKit database file." = "Ett problem uppstod vid laddningen av AlertKit databas filen.";
+
+/* Airwolf database error message */
+"There was a problem loading the database." = "Det uppstod ett problem vid laddning av databasen.";
+
+/* Message for an error alert */
+"There was a problem verifying the following domain: (stringURL)" = "Ett problem uppstod vid verifiering av följande domän: (stringURL)";
+
+/* No comment provided by engineer. */
+"There was an error loading your content. If it  is an audio or video upload it may still be processing." = "Ett fel inträffade när innehållet laddades. Om det var ljud eller video kanske innehållet fortfarande bearbetas.";
+
+/* Alert Message for institution not authorized */
+"This institution has not enabled access to the Canvas Parent mobile app." = "Den här institutionen har inte aktiverat mobilappen Canvas Parent.";
+
+/* No comment provided by engineer. */
+"This institution is located outside of your selected region. To add a student at this institution, please use the “Region Picker” option on the login page to select the region of (region), and create a new account." = "Denna institution ligger utanför din valda region. För att lägga till en student vid denna institution, använd alternativet \"Regionväljare\" på inloggningssidan för att välja region i (region) och skapa ett nytt konto.";
+
+/* Title for alert when failing to add student domain */
+"Unable to Add Student" = "Kunde inte lägga till elev";
+
+/* Title for alert when failing to create account */
+"Unable to Create Account" = "Kunde inte skapa konto";
+
+/* No comment provided by engineer. */
+"Unauthorized Region" = "Obehörig region";
+
+/* Auth Failed Message */
+"Unexpected Authentication Error.  Please try logging in again" = "Ett oväntat autentiseringsfel inträffade. Försök att logga in igen.";
+
+/* No comment provided by engineer. */
+"United States" = "USA";
+
+/* Unknown region for student account
+   Unknown T`hreshold Description */
+"Unknown" = "Okänd";
+
+/* Default name given a user until we find their real name */
+"Unknown User" = "Okänd användare";
+
+/* Default user name, the computer-friendly version of their name, until we find their real user name */
+"Unknown User Name" = "Okänt användarnamn";
+
+/* Name of action when viewing a reminder */
+"View" = "Visa";
+
+/* Calendar Tab */
+"WEEK" = "VECKA";
+
+/* Error message when failing to create account */
+"We couldn't create your account. Double check your information or try again later." = "Vi kunde inte skapa ditt konto. Dubbelkolla din information och försök igen senare.";
+
+/* Body for alert shown when the server couldn't find an email to reset the password for */
+"We couldn't find an account associated with that email. Double check that you entered it correctly, check your region, and try again." = "Vi kunde inte hitta ett konto som är kopplat till det mejlet. Dubbel kontrollera att du har skrivit in korrekt, kontrollera din region och försök igen.";
+
+/* Title for field */
+"What can we do better?" = "Vad kan vi förbättra?";
+
+/* Not Authorized Error Message */
+"You are unauthorized to access this information.  Check your user permissions and try again." = "Du har inte behörighet att komma åt den här informationen. Kontrollera din behörighet och försök igen.";
+
+/* Body for alert shown when resetting password */
+"You will receive an email shortly to finish the process of resetting your password." = "Du kommer att få ett e-postmeddelande inom kort för att slutföra återställningen av ditt lösenord.";
+
+/* Title for the email field */
+"Your Email" = "Din e-post";
+
+/* Body for alert after having successfully reset the password */
+"Your password has been successfully reset. Please log in now." = "Ditt lösenord har återställts. Nu kan du logga in.";
+
